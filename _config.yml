@@ -8,4 +8,4 @@ aux_links:
   Github repo: https://github.com/o-devices/bldc-ffb-wheel
 
 color_scheme: custom
-logo: "/assets/images/logo.jpg"
+logo: /assets/images/logo.jpg
