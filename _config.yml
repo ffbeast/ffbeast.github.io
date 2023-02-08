@@ -19,7 +19,7 @@ github_username:  olukelo
 plugins:
   - jekyll-remote-theme
 
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 
 # Exclude from processing.
 # The following items will not be processed, by default.
