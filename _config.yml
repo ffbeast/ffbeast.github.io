@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: FFbeast
+description: FFBeast documentation
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://ffbeast.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github repo: https://github.com/o-devices/bldc-ffb-wheel
