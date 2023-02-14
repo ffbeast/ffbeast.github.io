@@ -17,5 +17,10 @@ kramdown:
 
 callouts:
   warning:
-    title: Important
     color: red
+  highlight :
+    color: green
+  note :
+    color: pink
+  important :
+    color: blue
