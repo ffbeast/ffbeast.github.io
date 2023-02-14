@@ -9,3 +9,8 @@ aux_links:
 
 color_scheme: custom
 logo: /assets/images/logo.jpg
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
