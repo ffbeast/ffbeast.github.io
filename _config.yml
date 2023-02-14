@@ -14,3 +14,8 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+
+callouts:
+  higlight:
+    title: Warning
+    color: red
