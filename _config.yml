@@ -16,6 +16,6 @@ kramdown:
       line_numbers: false
 
 callouts:
-  important:
+  warning:
     title: Important
     color: red
