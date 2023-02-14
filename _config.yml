@@ -19,8 +19,8 @@ callouts:
   warning:
     color: red
   highlight:
-    color: green
-  note:
-    color: blue
-  important:
     color: yellow
+  note:
+    color: green
+  important:
+    color: blue
