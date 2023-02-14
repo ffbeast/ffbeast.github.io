@@ -16,6 +16,6 @@ kramdown:
       line_numbers: false
 
 callouts:
-  higlight:
+  warning:
     title: Warning
     color: red
