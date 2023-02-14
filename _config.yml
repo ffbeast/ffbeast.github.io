@@ -21,6 +21,6 @@ callouts:
   highlight :
     color: green
   note :
-    color: pink
-  important :
     color: blue
+  important :
+    color: yellow
