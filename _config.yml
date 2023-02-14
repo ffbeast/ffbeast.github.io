@@ -19,7 +19,7 @@ callouts:
   warning:
     color: red
   highlight:
-    color: grey-lt
+    color: grey-dk
   note:
     color: green
   important:
