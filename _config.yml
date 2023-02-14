@@ -18,9 +18,9 @@ kramdown:
 callouts:
   warning:
     color: red
-  highlight :
+  highlight:
     color: green
-  note :
+  note:
     color: blue
-  important :
+  important:
     color: yellow
