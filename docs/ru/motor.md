@@ -68,3 +68,15 @@ nav_order: 2
 их выбирать: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/02ldNJIN2iU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6AjZ1AIJLNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## А можно сделать еще мощнее?
+
+Да. Это требует некоторого станочного оборудования и перемотки мотора но мощность можно поднять очень серьезно. 
+Например есть мастера которые сращивают два мотора в один:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3dgiZQzNLKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Дальше больше...
+
+По мере познания мира моторов раздел будет пополняться. 
