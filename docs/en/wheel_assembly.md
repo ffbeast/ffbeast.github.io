@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assembly
+title: Reference assembly
 parent: Wheel
 grand_parent: EN
 nav_order: 1
@@ -17,7 +17,7 @@ nav_order: 1
 
 ---
 
-### Assembly
+### BOM
 Assembly
 
 ### BlaBlaBla
