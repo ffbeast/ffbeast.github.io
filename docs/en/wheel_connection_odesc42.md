@@ -13,7 +13,7 @@ nav_order: 3
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
