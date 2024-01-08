@@ -21,9 +21,33 @@ There you will find multiple technical solution discussed for each step, and pro
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTGs8kaHYR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Detailed guide
+## Assembly details
 
 ### BOM
 
-You will need
+| Part                   | Quantity | Total (USD)   |
+|------------------------|----------|---------------|
+| MKS XDrive single axis | 1        | 45 to 50      |
+| Howerboard motor       | 1        | 10 to 30      |
+| Encoder (MT6701)       | 1        | 2 to 3        |
+| SK16                   | 6        | 10 to 15      |
+| 16mm shaft(150mm)      | 1        | 3 to 5        |
+| 3D printed enclosure   | 1        | 10 to 30      |
+| Breakout PCB           | 1        | 2 to 3        |
+| Wheel attachment       | 1        | 10 to 15      |
+| Screws/Nuts/Wires      | N/A      | 3 to 5        |
+| **Total**              |          | **83 to 156** |
 
+### Controller
+
+### Motor
+
+### Encoder
+
+### Mount
+
+### Enclosure
+
+### Breakout PCB
+
+### Wheel attachment
