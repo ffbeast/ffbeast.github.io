@@ -2,8 +2,8 @@
 layout: default
 title: Assembly
 parent: Wheel
-grand_parent: EN
-nav_order: 1
+parent: EN
+nav_order: 10
 ---
 
 # Everything about encoder
