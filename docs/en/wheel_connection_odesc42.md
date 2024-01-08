@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ODESC 4.2 wiring
+title: Wiring ODESC 4.2
 parent: Wheel
 grand_parent: EN
-nav_order: 2
+nav_order: 3
 ---
 
 # Everything about encoder

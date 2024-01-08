@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ODrive wiring
+title: Wiring ODESC 3.6/4.0
 parent: Wheel
 grand_parent: EN
-nav_order: 3
+nav_order: 4
 ---
 
 # Everything about encoder

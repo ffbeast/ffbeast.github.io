@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Wiring MKS XDrive
+title: Firmware setup
 parent: Wheel
 grand_parent: EN
-nav_order: 2
+nav_order: 6
 ---
 
 # Everything about encoder
@@ -16,8 +16,8 @@ nav_order: 2
    {:toc}
 
 ---
-### XDrive connection
-XDrive connection
+### Firmware
+Firmware
 
-### FAQ
-Just FAQ blablabla
+### BlaBlaBla
+Blablabla

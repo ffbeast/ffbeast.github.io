@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Wiring MKS XDrive
+title: Assembly
 parent: Wheel
 grand_parent: EN
-nav_order: 2
+nav_order: 1
 ---
 
 # Everything about encoder
@@ -16,8 +16,8 @@ nav_order: 2
    {:toc}
 
 ---
-### XDrive connection
-XDrive connection
+### Assembly
+Assembly
 
-### FAQ
-Just FAQ blablabla
+### BlaBlaBla
+Blablabla
