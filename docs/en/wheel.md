@@ -6,10 +6,6 @@ has_children: true
 nav_order: 1
 ---
 
-[**FFBeast Discord community**](https://discord.gg/Gt6rnvrZKu)
-
----
-
 ## Intro
 
 This site is all about **DIY Direct Drive FFB Wheel project** based on **ODrive/ODESC** controller boards and **BLDC** motors. 
@@ -18,7 +14,7 @@ When carefully selecting parts, with help of this site you will be able to build
 yet way more powerful(**up to 15Nm** with good howerboard motor) then entry level branded DD alternatives.
 
 For the start - check all pages! There is a lot of information already. If you found your questions not answered yet - 
-fill free to ask them in Discord!
+fill free to ask them in [**Discord**](https://discord.gg/Gt6rnvrZKu)!
 
 ### Some example builds made by community members:
 
