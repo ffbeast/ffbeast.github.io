@@ -12,10 +12,11 @@ nav_order: 3
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
-   {:toc}
+- TOC
+  {:toc}
 
 ---
+
 ### ODESC 4.2 connection
 ODESC 4.2 connection
 
