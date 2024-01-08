@@ -34,9 +34,11 @@ There you will find multiple technical solution discussed for each step, and pro
 | 16mm shaft(150mm)      | 1        | 3 to 5        |
 | 3D printed enclosure   | 1        | 10 to 30      |
 | Breakout PCB           | 1        | 2 to 3        |
+| AMASS XT60             | 1        | 1 to 2        |
+| USB connector          | 1        | 1 to 2        |
 | Wheel attachment       | 1        | 10 to 15      |
 | Screws/Nuts/Wires      | N/A      | 3 to 5        |
-| **Total**              |          | **83 to 156** |
+| **Total**              |          | **85 to 160** |
 
 ### Controller
 
