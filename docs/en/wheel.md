@@ -5,7 +5,7 @@ parent: EN
 has_children: true
 nav_order: 1
 ---
-### Intro
+## Intro
 
 This site is all about **DIY Direct Drive FFB Wheel project** based on **ODrive/ODESC** controller boards and **BLDC** motors. 
 The purpose of this project to build high torque DD wheel comparable to the branded alternatives on a budget. 
