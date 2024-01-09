@@ -6,9 +6,6 @@ grand_parent: EN
 nav_order: 3
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
-
 - TOC
 {:toc}
 
