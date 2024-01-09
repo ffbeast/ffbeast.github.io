@@ -65,17 +65,19 @@ MT6701. Just the cheapest option for the purpose of the cheapest build!
 > Alternative [**encoders**](common_encoder.html) available and can be used.
 
 ### Mount
+Six of SK16 and single 16mm diameter shaft...
 
 <img src="../../assets/images/sk16.jpg" width="360">
-<img src="../../assets/images/shaft.jpg" width="360">
+<img src="../../assets/images/shaft.jpg">
 
-Six of SK16 and single 16mm diameter shaft is needed to build robust, stiff and adjustable mount!
+...are enough to build robust, stiff and adjustable mount!
 Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" on Aliexpress.
 100mm, 150mm or 200mm length will do the job.  
 
 ### Enclosure
+Designed specifically for **MKS XDrive** and **MT6701**. For other options need some mixing and matching.
 
-
+**Link will be there soon!**
 
 ### Breakout PCB
 <img src="https://image.easyeda.com/pullimage/9bFOfLqxbGjtUzj0FQzwNo2eqDirP2PWxx8lDwoS.jpeg" width="360">
@@ -84,3 +86,7 @@ Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" 
 JLCPCB.COM will make it for you as cheap as 2$ for 5 pcs. It helps to arrange everything and make a "clean" build because was designed to perfectly couple enclosure with mounting hardware.  
 
 ### Wheel attachment
+<img src="../../assets/images/spacer.jpg" width="360">
+
+As I do not need to swap the wheel - solid one works for me. In case you need swap wheels - just select quick release. 
+Searching for "Steering Wheel Hub Spacer" and "Steering Wheel Quick Release" on Aliexpress gives plenty of good results.
