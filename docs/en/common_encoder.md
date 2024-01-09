@@ -98,16 +98,14 @@ Recommended options from this group:
 {: .warning }
 > **TLE5012B**.
 >
->  TLE5012B (16384 CPR) encoders are not recommended. Those encoders have programmed "dead zone" when changing direction
-> which add feel of some backlash.
+>  TLE5012B (16384 CPR) encoders are not recommended. Those encoders have programmed "dead zone". As result when changing direction
+> it add feel of some backlash and ruin experience of using force feedback. 
 >  Just **choose another solution!**
 
 {: .important }
 > **Magnetic encoders are extremely sensitive to relative position to the magnet!**.
 >
-> Of axis magnet placement causes non linearity in calculated forces.
+> Of axis magnet placement causes non linearity in calculated forces. Good article about it [**there**](https://www.akm.com/eu/en/products/rotation-angle-sensor/tutorial/angular-error/).
 >
-> Read good article about it [**there**](https://www.akm.com/eu/en/products/rotation-angle-sensor/tutorial/angular-error/).
->
-> If you are not sure that you could mount encoder and magnet with good amount of precision just **choose another solution!**
+> So if you are not sure that you could mount encoder and magnet with good amount of precision - just **choose another solution!**
 
