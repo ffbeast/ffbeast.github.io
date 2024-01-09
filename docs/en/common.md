@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Common components and procedures
+title: Common
 parent: EN
 has_children: true
-nav_order: 1
+nav_order: 4
 ---
 
 ## Intro
