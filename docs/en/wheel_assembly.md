@@ -75,6 +75,12 @@ Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" 
 
 ### Enclosure
 
+
+
 ### Breakout PCB
+<img src="https://image.easyeda.com/pullimage/9bFOfLqxbGjtUzj0FQzwNo2eqDirP2PWxx8lDwoS.jpeg" width="360">
+
+[Publicly available on Easyeda](https://u.easyeda.com/olukelo/ffb-breakout). 
+JLCPCB.COM will make it for you as cheap as 2$ for 5 pcs. It helps to arrange everything and make a "clean" build because was designed to perfectly couple enclosure with mounting hardware.  
 
 ### Wheel attachment
