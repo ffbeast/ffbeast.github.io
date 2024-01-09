@@ -66,6 +66,13 @@ MT6701. Just the cheapest option for the purpose of the cheapest build!
 
 ### Mount
 
+<img src="../../assets/images/sk16.jpg" width="360">
+<img src="../../assets/images/shaft.jpg" width="360">
+
+Six of SK16 and single 16mm diameter shaft is needed to build robust, stiff and adjustable mount!
+Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" on Aliexpress.
+100mm, 150mm or 200mm length will do the job.  
+
 ### Enclosure
 
 ### Breakout PCB

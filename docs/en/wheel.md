@@ -22,9 +22,9 @@ fill free to ask them in [**Discord**](https://discord.gg/Gt6rnvrZKu)!
 
 [<img src="../../assets/images/showcase_01.jpg">](https://discord.com/channels/1043156600468287539/1043161800545423411/1046439148711596102)
 
-[<img src="../../assets/images/showcase_02.jpg">](https://discord.com/channels/1043156600468287539/1043161800545423411/1047987630345818142)
-
 [<img src="../../assets/images/showcase_07.jpg">](https://diy-blog.org/2023/08/23/diy-directdrive-forcefeedback-lenkrad-aus-einem-hoverboard-motor-teil-2/)
+
+[<img src="../../assets/images/showcase_02.jpg">](https://discord.com/channels/1043156600468287539/1043161800545423411/1047987630345818142)
 
 [<img src="../../assets/images/showcase_03.jpg">](https://discord.com/channels/1043156600468287539/1043166146431553647/1048983069996105778)
 
