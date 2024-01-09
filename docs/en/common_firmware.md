@@ -88,3 +88,20 @@ To use ST-LINK follow the procedure:
 
 
 ## Flashing process
+Firmware fleshing process is pretty simple. Just use one of methods described above and follow steps:
+[<img src="../../assets/images/flashing_00.jpg" width="360">](../../assets/images/flashing_00.jpg)
+[<img src="../../assets/images/flashing_01.jpg" width="360">](../../assets/images/flashing_01.jpg)
+
+1. Select method (USB for DFU, ST-LINK for ST-LINK).
+2. Press "Refresh" button to see connected controller or ST-Link.
+3. Press "Connect"
+4. Select **HEX** file that you want to upload
+5. Press "Download" to start flashing process.
+6. When process finishes - just "Disconnect"
+
+Flashing completed!
+
+
+{: .important }
+> I hope you understand obvious things like keep power and all connected while flashing process is running :)
+
