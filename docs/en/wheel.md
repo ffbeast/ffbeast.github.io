@@ -16,7 +16,7 @@ fill free to ask them in [**Discord**](https://discord.gg/Gt6rnvrZKu)!
 
 ### Some example builds made by community members:
 
-<img src="../../assets/images/showcase_06.jpg">
+[<img src="../../assets/images/showcase_06.jpg">](wheel_assembly.md)
 
 [<img src="../../assets/images/showcase_05.jpg">](https://discord.com/channels/1043156600468287539/1043161800545423411/1186788522473037947)
 

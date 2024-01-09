@@ -10,6 +10,7 @@ nav_order: 1
 {:toc}
 
 ---
+<img src="../../assets/images/my_full_scale.jpg">
 
 There are different options to assembly the base with different approaches to couple all together. 
 This page is covering compact, but probably, not the cheapest one. So if you consider this variant too expensive or too complicated - just visit 
@@ -40,10 +41,28 @@ There you will find multiple technical solution discussed for each step, and pro
 | **Total**              |          | **85 to 160** |
 
 ### Controller
+<img src="../../assets/images/mks_xdrive_single.jpg" width="360">
+
+I've selected **MKS XDrive** just because it has good square shape, square pattern of mounting holes, 
+and comes in a bundle with the braking resistor and wires. 
+
+{: .important }
+> For other options check the page with [**supported controllers**](common_controller.md) 
 
 ### Motor
+<img src="../../assets/images/motor65.jpg">
+
+Obviously - 6.5 inch howerboard motor. Cheap and powerfull. 
+
+{: .important }
+> Why? You will find the answer in the chapter about [**supported motors**](common_motor.md)
 
 ### Encoder
+<img src="../../assets/images/mt6701.jpg">
+
+MT6701. Just the cheapest option for the purpose of the cheapest build!
+{: .important }
+> Alternative [**encoders**](common_encoder.md) available and can be used.
 
 ### Mount
 
