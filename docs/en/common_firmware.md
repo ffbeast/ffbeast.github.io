@@ -20,8 +20,8 @@ Just download it from official site and install.
 
 {: .important }
 > ODrive boards do not power up from USB! 
-> Solution?
->**Connect external power source to boot the controller!**
+> 
+> **Connect external power source to boot the controller!**
 
 ## DFU
 All STM32 controllers support firmware flashing in DFU(Device Firmware Upgrade) mode directly via USB cable. 
@@ -44,7 +44,7 @@ This boards have jumper on it. So process of booting in DFU mode will be followi
 - Disconnect external power from the board.
 - Remove DFU jumper.
 - Connect external power - controller will boot in DFU mode.
-- 
+
 ### ODESC 4.2
 <img src="../../assets/images/odesc_42_dfu.jpg" width="360">
 
