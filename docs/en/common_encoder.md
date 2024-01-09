@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Encoder
-parent: EN
-nav_order: 1
+title: Encoders
+parent: Common components and procedures
+grand_parent: EN
+nav_order: 3
 ---
 
 # Everything about encoder
@@ -12,11 +13,8 @@ nav_order: 1
 {: .no_toc .text-delta }
 
 - TOC
-{:toc}
+  {:toc}
 
 ---
-### Selection
-Encoder selection
 
-### FAQ
-Just FAQ blablabla
+### ENCODER

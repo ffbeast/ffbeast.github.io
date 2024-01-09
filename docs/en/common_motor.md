@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Wiring MKS XDrive
-parent: Force feedback wheel
+title: Motors
+parent: Common components and procedures
 grand_parent: EN
 nav_order: 2
 ---
@@ -13,12 +13,8 @@ nav_order: 2
 {: .no_toc .text-delta }
 
 - TOC
-{:toc}
+  {:toc}
 
 ---
 
-### XDrive connection
-XDrive connection
-
-### FAQ
-Just FAQ blablabla
+### MOTOR

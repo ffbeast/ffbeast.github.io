@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wiring ODESC 4.2
-parent: Wheel
+parent: Force feedback wheel
 grand_parent: EN
 nav_order: 3
 ---

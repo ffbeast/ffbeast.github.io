@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wheel
+title: Force feedback wheel
 parent: EN
 has_children: true
 nav_order: 1
