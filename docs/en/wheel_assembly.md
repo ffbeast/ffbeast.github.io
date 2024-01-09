@@ -19,8 +19,7 @@ There you will find multiple technical solution discussed for each step, and pro
 
 ## All in one video guide
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hTGs8kaHYR8?si=Nw8zB0GpSAG7B3fK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Assembly details
 
 ### BOM
