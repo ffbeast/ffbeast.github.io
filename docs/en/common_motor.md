@@ -16,7 +16,7 @@ nav_order: 2
 FFBeast project based on **BLDC (BRUSHLESS) motor**. None of other types is supported. **There is no DC or Step motor support!** 
 
 But virtually any BLDC motor with three phases will work. From hobby grade to industrial. Performance of the final device
-will be determined by your characteristics of the motor you choose. The more torque motor able to produce the stronger will be final device.  
+will be determined by characteristics of the motor you choose. The more torque motor able to produce the stronger will be final device.  
 
 ## Howerboard/Scooter motor
 <img src="../../assets/images/motor65.jpg">
@@ -48,8 +48,8 @@ Less powerful items could have 25mm, 20mm or even 15mm stator width and less str
 > It is important to understand, that any such motor will work, despite of internals.
 > The main difference will be in peak motor torque (and so peak force that device can produce)
 
-## How to choose good one?
-Unfortunately there is now reliable way to know what motor have inside without disassembling it. Motors could have same
+### How to choose good one?
+Unfortunately there is now absolutely reliable way to know what motor have inside without disassembling it. Motors could have same
 pattern on the front but be different inside. Same time motors with totally different form outside could be similar inside. 
 
 The only approximate method to guess motor internals - is .... the motor weight!
