@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Encoders
-parent: Common components and procedures
+parent: Common
 grand_parent: EN
 nav_order: 3
 ---
