@@ -17,8 +17,11 @@ It is specialized util for flashing STM32 controllers.
 Just download it from official site and install.
 
 ## External power
+
 {: .important }
-> ODrive boards do not power up from USB. So you need to connect external power source to boot the controller.
+> ODrive boards do not power up from USB! 
+> Solution?
+>**Connect external power source to boot the controller!**
 
 ## DFU
 All STM32 controllers support firmware flashing in DFU(Device Firmware Upgrade) mode directly via USB cable. 
@@ -56,5 +59,6 @@ This boards do not have dedicated switch or jumper but have special button:
 > you will need to use ST-LINK to flash firmware to the controller
 
 ## ST-LINK
+This procedure requires an STLink/V2 or compatible programmer.
 
 ## Flashing process
