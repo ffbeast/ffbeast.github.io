@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Wiring ODrive
+title: Wiring controller
 parent: Force feedback wheel
 grand_parent: EN
-nav_order: 5
+nav_order: 2
 ---
 
 - TOC
