@@ -39,6 +39,10 @@ possibly discovering alternatives that are easier to implement.
 | Screws/Nuts/Wires      | N/A      | 3 to 5        |
 | **Total**              |          | **85 to 160** |
 
+### CAD files
+
+<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e83c81846a2160a14?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ### Controller
 <img src="../../assets/images/mks_xdrive_single.jpg" width="360">
 
