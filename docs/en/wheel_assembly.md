@@ -65,6 +65,7 @@ Obviously - 6.5 inch howerboard motor. Cheap and powerfull.
 <img src="../../assets/images/mt6701.jpg" width="736">
 
 MT6701. Just the cheapest option for the purpose of the cheapest build!
+
 {: .important }
 > Alternative [**encoders**](common_encoder.html) available and can be used.
 
