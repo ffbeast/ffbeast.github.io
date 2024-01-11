@@ -12,10 +12,10 @@ nav_order: 1
 ---
 <img src="../../assets/images/my_full_scale.jpg">
 
-There are different options to assembly the base with different approaches to couple all together. 
-This page is covering compact, but probably, not the cheapest one. So if you consider this variant too expensive or too complicated - just visit 
-[**FFBeast Discord**](https://discord.gg/Gt6rnvrZKu) for inspiration. 
-There you will find multiple technical solution discussed for each step, and probably solutions which will be easier to implement.   
+This page covers a compact assembly approach, which may not be the cheapest. 
+If you find this variant too expensive or complicated, feel free to visit the [**FFBeast Discord**](https://discord.gg/Gt6rnvrZKu) for inspiration. 
+There, you will find discussions on multiple technical solutions for each step, 
+possibly discovering alternatives that are easier to implement.
 
 ## All in one video guide
 

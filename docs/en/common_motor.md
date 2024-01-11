@@ -15,27 +15,23 @@ nav_order: 2
 
 FFBeast project based on **BLDC (BRUSHLESS) motor**. None of other types is supported. **There is no DC or Step motor support!** 
 
-But virtually any BLDC motor with three phases will work. From hobby grade to industrial. Performance of the final device
-will be determined by characteristics of the motor you choose. The more torque motor able to produce the stronger will be final device.  
+Virtually any BLDC motor with three phases will work, ranging from hobby-grade to industrial.
+The performance of the final device will be determined by the characteristics of the motor you choose. A motor capable of producing more torque will result in a stronger final device.  
 
 ## Howerboard/Scooter motor
 <img src="../../assets/images/motor65.jpg">
 
-As for now howerboard/scooter motor is considered the **best alternative** from the point of **price to torque** relation. 
-It could cost as cheap as **10 USD** per item on second hand market, while possible to produce up to **15Nm peak torque**. 
+As of now, the hoverboard/scooter motor is considered **the best alternative** in terms of the **price-to-torque ratio**.
+It can be as affordable as **10 USD** per item on the second-hand market, offering a peak torque of **up to 15Nm**. 
+You can find them as standalone units or as part of refurbished hoverboards. 
 
-It is possible to found them as separate unit or as the part of refurbished howerboard. 
-Just search your local second hand market. 
-I bet you will find good propositions for it.
-
-{: .highlight }
->Рисунок на лицевой стороне может быть разный, но это один и тот же мотор.
+Simply search your local second-hand market, and you're likely to come across some excellent propositions.
 
 ### Are them all equal?
 Unfortunately - no!
 
-Despite external dimensions of this motors are similar, them could be different inside. The power of the motor is determined by 
-width of the stator, diameter of the stator, number of strands in motor winding.
+Despite the similar external dimensions of these motors, they can vary internally. The motor's power is determined 
+by the width of the stator, the diameter of the stator, and the number of strands in the motor winding
 
 The most powerful items have stator width 30mm and 300mm magnets. It is coupled with 5 strand in motor winding.
 <img src="../../assets/images/big_stator.jpg">
@@ -49,8 +45,10 @@ Less powerful items could have 25mm, 20mm or even 15mm stator width and less str
 > The main difference will be in peak motor torque (and so peak force that device can produce)
 
 ### How to choose good one?
-Unfortunately there is now absolutely reliable way to know what motor have inside without disassembling it. Motors could have same
-pattern on the front but be different inside. Same time motors with totally different form outside could be similar inside. 
+Unfortunately, there is no absolutely reliable way to determine the internal components of a motor 
+without disassembling it. Motors with the same pattern on the front 
+may have different internal structures, 
+while motors with completely different external appearances could be similar inside.
 
 The only approximate method to guess motor internals - is .... the motor weight!
 <img src="../../assets/images/on_scales.jpg">

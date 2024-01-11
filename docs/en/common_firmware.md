@@ -12,9 +12,9 @@ nav_order: 4
 ---
 ## STM32CubeProgrammer 
 To flash FFBeast firmware to controller you need to use 
-[**STM32CubeProgrammer**](https://www.st.com/en/development-tools/stm32cubeprog.html#get-software). 
-It is specialized util for flashing STM32 controllers.
-Just download it from official site and install.
+[**STM32CubeProgrammer**](https://www.st.com/en/development-tools/stm32cubeprog.html#get-software).
+This is a specialized utility designed for flashing STM32 controllers. 
+Simply download it from the official site and proceed with the installation.
 
 ## External power
 
@@ -24,8 +24,8 @@ Just download it from official site and install.
 > **Connect external power source to boot the controller!**
 
 ## DFU
-All STM32 controllers support firmware flashing in DFU(Device Firmware Upgrade) mode directly via USB cable. 
-Most boards have physical switch that allow to enable boot in DFU state. Here are some examples.
+All STM32 controllers support firmware flashing in DFU (Device Firmware Upgrade) mode directly via a USB cable. 
+Many boards are equipped with a physical switch that enables booting in DFU state. Here are some examples.
 
 ### ODrive
 <img src="../../assets/images/odrive_dfu.jpg" width="360">
@@ -81,10 +81,11 @@ To use ST-LINK follow the procedure:
 - Connect external power - controller will boot in normal mode. 
 
 {: .important }
-> Unfortunately not any ST-LINK will work :(. 
-> There are multiple reports and topics that cheaper ST-LINK clones often non reliable and do not 
-> perform stable communication with STM32 controller. Nobody is protected from it. 
-> If you can - try to buy controller with possibility to enable DFU mode physically or ST-LINK from trusted source.
+> Unfortunately, not all ST-LINK devices will work reliably. 
+> There have been numerous reports and discussions indicating that cheaper ST-LINK clones 
+> may have stability issues and unreliable communication with STM32 controllers. To mitigate this, if possible, 
+> consider purchasing a controller with the option to enable 
+> DFU mode physically or obtain an ST-LINK from a trusted source.
 
 
 ## Flashing process
@@ -103,5 +104,6 @@ Flashing completed!
 
 
 {: .important }
-> I hope you understand obvious things like keep power and all connected while flashing process is running :)
+> I trust you're already aware of the basics, such as ensuring a stable power supply and keeping 
+> all connections intact during the flashing process. Happy flashing!
 
