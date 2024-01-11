@@ -79,7 +79,7 @@ Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" 
 ### Enclosure
 Designed specifically for **MKS XDrive** and **MT6701**. For other options need some mixing and matching.
 
-<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e83c81846a2160a14?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e83c81846a2160a14?mode=embed" width="736" height="736" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 **Check the link**()  with files ready to be printed, and full STEP project in case you would like to modify it for your need.  
 
