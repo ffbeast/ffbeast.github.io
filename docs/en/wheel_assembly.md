@@ -76,6 +76,7 @@ Six of SK16 and single 16mm diameter shaft...
 <img src="../../assets/images/shaft.jpg" width="736">
 
 ...are enough to build robust, stiff and adjustable mount!
+
 {: .important }
 >Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" on Aliexpress. 100mm or 150mm length will do the job.  
 
@@ -89,6 +90,7 @@ JLCPCB.COM will make it for you as cheap as 2$ for 5 pcs. It helps to arrange ev
 <img src="../../assets/images/spacer.jpg" width="736">
 
 As I do not need to swap the wheel - solid one works for me. In case you need swap wheels - just select quick release.
+
 {: .important }
 > Searching for "Steering Wheel Hub Spacer" and "Steering Wheel Quick Release" on Aliexpress gives plenty of good results.
 
