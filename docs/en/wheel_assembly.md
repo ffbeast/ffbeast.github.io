@@ -41,7 +41,6 @@ possibly discovering alternatives that are easier to implement.
 
 ### CAD files
 
-<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e83c81846a2160a14?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Controller
 <img src="../../assets/images/mks_xdrive_single.jpg" width="360">
@@ -80,7 +79,9 @@ Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" 
 ### Enclosure
 Designed specifically for **MKS XDrive** and **MT6701**. For other options need some mixing and matching.
 
-**Link will be there soon!**
+<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e83c81846a2160a14?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+**Check the link**()  with files ready to be printed, and full STEP project in case you would like to modify it for your need.  
 
 ### Breakout PCB
 <img src="https://image.easyeda.com/pullimage/9bFOfLqxbGjtUzj0FQzwNo2eqDirP2PWxx8lDwoS.jpeg" width="360">
