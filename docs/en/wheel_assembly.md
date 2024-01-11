@@ -76,24 +76,27 @@ Six of SK16 and single 16mm diameter shaft...
 <img src="../../assets/images/shaft.jpg" width="736">
 
 ...are enough to build robust, stiff and adjustable mount!
-Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" on Aliexpress.
-100mm, 150mm or 200mm length will do the job.  
-
-### Enclosure
-Designed specifically for **MKS XDrive** and **MT6701**. For other options need some mixing and matching.
-
-<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e83c81846a2160a14?mode=embed" width="736" height="736" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-[**Check the link**](https://cults3d.com/en/3d-model/game/howerboard-dd-ffb-wheel-enclosure)  with files ready to be printed, and full STEP project in case you would like to modify it for your need.  
+{: .important }
+>Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" on Aliexpress. 100mm or 150mm length will do the job.  
 
 ### Breakout PCB
 <img src="https://image.easyeda.com/pullimage/9bFOfLqxbGjtUzj0FQzwNo2eqDirP2PWxx8lDwoS.jpeg" width="736">
 
-[Publicly available on Easyeda](https://u.easyeda.com/olukelo/ffb-breakout). 
-JLCPCB.COM will make it for you as cheap as 2$ for 5 pcs. It helps to arrange everything and make a "clean" build because was designed to perfectly couple enclosure with mounting hardware.  
+[Publicly available on Easyeda](https://u.easyeda.com/olukelo/ffb-breakout).
+JLCPCB.COM will make it for you as cheap as 2$ for 5 pcs. It helps to arrange everything and make a "clean" build because was designed to perfectly couple enclosure with mounting hardware.
 
 ### Wheel attachment
 <img src="../../assets/images/spacer.jpg" width="736">
 
-As I do not need to swap the wheel - solid one works for me. In case you need swap wheels - just select quick release. 
-Searching for "Steering Wheel Hub Spacer" and "Steering Wheel Quick Release" on Aliexpress gives plenty of good results.
+As I do not need to swap the wheel - solid one works for me. In case you need swap wheels - just select quick release.
+{: .important }
+> Searching for "Steering Wheel Hub Spacer" and "Steering Wheel Quick Release" on Aliexpress gives plenty of good results.
+
+### Enclosure
+Designed specifically for **MKS XDrive** and **MT6701**. For other options need some mixing and matching.
+
+{: .important }
+> [**Check the link**](https://cults3d.com/en/3d-model/game/howerboard-dd-ffb-wheel-enclosure)  with files ready to be printed, and full STEP project in case you would like to modify it for your need.  
+
+<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e83c81846a2160a14?mode=embed" width="736" height="736" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
