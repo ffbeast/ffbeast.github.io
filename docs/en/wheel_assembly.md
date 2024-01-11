@@ -39,9 +39,6 @@ possibly discovering alternatives that are easier to implement.
 | Screws/Nuts/Wires      | N/A      | 3 to 5        |
 | **Total**              |          | **85 to 160** |
 
-### CAD files
-
-
 ### Controller
 <img src="../../assets/images/mks_xdrive_single.jpg" width="736">
 
@@ -81,7 +78,7 @@ Designed specifically for **MKS XDrive** and **MT6701**. For other options need 
 
 <iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e83c81846a2160a14?mode=embed" width="736" height="736" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-**Check the link**()  with files ready to be printed, and full STEP project in case you would like to modify it for your need.  
+[**Check the link**](https://cults3d.com/en/3d-model/game/howerboard-dd-ffb-wheel-enclosure)  with files ready to be printed, and full STEP project in case you would like to modify it for your need.  
 
 ### Breakout PCB
 <img src="https://image.easyeda.com/pullimage/9bFOfLqxbGjtUzj0FQzwNo2eqDirP2PWxx8lDwoS.jpeg" width="736">
