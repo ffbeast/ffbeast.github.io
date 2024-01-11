@@ -19,7 +19,7 @@ possibly discovering alternatives that are easier to implement.
 
 ## All in one video guide
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hTGs8kaHYR8?si=Nw8zB0GpSAG7B3fK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="736" height="500" src="https://www.youtube.com/embed/hTGs8kaHYR8?si=Nw8zB0GpSAG7B3fK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Assembly details
 
 ### BOM
@@ -43,7 +43,7 @@ possibly discovering alternatives that are easier to implement.
 
 
 ### Controller
-<img src="../../assets/images/mks_xdrive_single.jpg" width="360">
+<img src="../../assets/images/mks_xdrive_single.jpg" width="736">
 
 I've selected **MKS XDrive** just because it has good square shape, square pattern of mounting holes, 
 and comes in a bundle with the braking resistor and wires. 
@@ -52,7 +52,7 @@ and comes in a bundle with the braking resistor and wires.
 > For other options check the page with [**supported controllers**](common_controller.html) 
 
 ### Motor
-<img src="../../assets/images/motor65.jpg">
+<img src="../../assets/images/motor65.jpg" width="736">
 
 Obviously - 6.5 inch howerboard motor. Cheap and powerfull. 
 
@@ -60,7 +60,7 @@ Obviously - 6.5 inch howerboard motor. Cheap and powerfull.
 > Why? You will find the answer in the chapter about [**supported motors**](common_motor.html)
 
 ### Encoder
-<img src="../../assets/images/mt6701.jpg">
+<img src="../../assets/images/mt6701.jpg" width="736">
 
 MT6701. Just the cheapest option for the purpose of the cheapest build!
 {: .important }
@@ -69,8 +69,8 @@ MT6701. Just the cheapest option for the purpose of the cheapest build!
 ### Mount
 Six of SK16 and single 16mm diameter shaft...
 
-<img src="../../assets/images/sk16.jpg" width="360">
-<img src="../../assets/images/shaft.jpg">
+<img src="../../assets/images/sk16.jpg" width="736">
+<img src="../../assets/images/shaft.jpg" width="736">
 
 ...are enough to build robust, stiff and adjustable mount!
 Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" on Aliexpress.
@@ -84,13 +84,13 @@ Designed specifically for **MKS XDrive** and **MT6701**. For other options need 
 **Check the link**()  with files ready to be printed, and full STEP project in case you would like to modify it for your need.  
 
 ### Breakout PCB
-<img src="https://image.easyeda.com/pullimage/9bFOfLqxbGjtUzj0FQzwNo2eqDirP2PWxx8lDwoS.jpeg" width="360">
+<img src="https://image.easyeda.com/pullimage/9bFOfLqxbGjtUzj0FQzwNo2eqDirP2PWxx8lDwoS.jpeg" width="736">
 
 [Publicly available on Easyeda](https://u.easyeda.com/olukelo/ffb-breakout). 
 JLCPCB.COM will make it for you as cheap as 2$ for 5 pcs. It helps to arrange everything and make a "clean" build because was designed to perfectly couple enclosure with mounting hardware.  
 
 ### Wheel attachment
-<img src="../../assets/images/spacer.jpg" width="360">
+<img src="../../assets/images/spacer.jpg" width="736">
 
 As I do not need to swap the wheel - solid one works for me. In case you need swap wheels - just select quick release. 
 Searching for "Steering Wheel Hub Spacer" and "Steering Wheel Quick Release" on Aliexpress gives plenty of good results.
