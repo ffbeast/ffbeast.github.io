@@ -39,6 +39,11 @@ possibly discovering alternatives that are easier to implement.
 | Screws/Nuts/Wires      | N/A      | 3 to 5        |
 | **Total**              |          | **85 to 160** |
 
+{: .important }
+ > **The BOM covers the base only!** It does not include PSU and Wheel. 
+ > There is a big freedom of choosing PSU and Wheel. 
+ > And it is out of scope of this chapter.  
+
 ### Controller
 <img src="../../assets/images/mks_xdrive_single.jpg" width="736">
 
