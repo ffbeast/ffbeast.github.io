@@ -44,9 +44,9 @@ possibly discovering alternatives that are easier to implement.
 | **Total**              |          | **85 to 160** |
 
 {: .warning }
- > **THE BOM COVERS THE BASE ONLY!** It does not include PSU and Wheel. 
- > There is a big freedom of choosing PSU and Wheel. 
- > And it is out of scope of this chapter.  
+> **THE BOM COVERS THE BASE ONLY!**
+> 
+> The BOM does not include PSU and Wheel and question of choosing them is out of scope for this chapter.  
 
 ### Controller
 <img src="../../assets/images/mks_xdrive_single.jpg" width="736">
