@@ -12,9 +12,10 @@ nav_order: 1
 ---
 <img src="../../assets/images/my_full_scale.jpg">
 
-This page covers a compact assembly approach, which may not be the cheapest. 
+{: .warning }
+> **THIS PAGE COVERS A VARIANT OF ASSEMBLY SHOWN ON THE PICTURES ABOVE!** It is only **ONE OF MANY** possible ways how to build it. 
 If you find this variant too expensive or complicated, feel free to visit the [**FFBeast Discord**](https://discord.gg/Gt6rnvrZKu) for inspiration. 
-There, you will find discussions on multiple technical solutions for each step, 
+There, you will find discussions on multiple other technical solutions for each step, 
 possibly discovering alternatives that are easier to implement.
 
 ## All in one video guide
@@ -39,8 +40,8 @@ possibly discovering alternatives that are easier to implement.
 | Screws/Nuts/Wires      | N/A      | 3 to 5        |
 | **Total**              |          | **85 to 160** |
 
-{: .important }
- > **The BOM covers the base only!** It does not include PSU and Wheel. 
+{: .warning }
+ > **THE BOM COVERS THE BASE ONLY!** It does not include PSU and Wheel. 
  > There is a big freedom of choosing PSU and Wheel. 
  > And it is out of scope of this chapter.  
 
@@ -98,7 +99,7 @@ As I do not need to swap the wheel - solid one works for me. In case you need sw
 Designed specifically for **MKS XDrive** and **MT6701**. For other options need some mixing and matching.
 
 {: .important }
-> [**Check the link**](https://cults3d.com/en/3d-model/game/howerboard-dd-ffb-wheel-enclosure)  with files ready to be printed, and full STEP project in case you would like to modify it for your need.  
+> [**Check the link**](https://cults3d.com/en/3d-model/game/howerboard-dd-ffb-wheel-enclosure) with STL files ready to be printed, and full STEP project in case you would like to modify it for your need.  
 
 <iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e83c81846a2160a14?mode=embed" width="736" height="736" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
