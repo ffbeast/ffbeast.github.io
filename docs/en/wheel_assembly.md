@@ -11,9 +11,12 @@ nav_order: 1
 
 ---
 <img src="../../assets/images/my_full_scale.jpg">
+<img src="../../assets/images/my_full_scale_2.jpg">
 
 {: .warning }
-> **THIS PAGE COVERS A VARIANT OF ASSEMBLY SHOWN ON THE PICTURES ABOVE!** It is only **ONE OF MANY** possible ways how to build it. 
+> **THIS PAGE COVERS THE VARIANT OF ASSEMBLY SHOWN ON THE PICTURES ABOVE!** 
+>
+>It is only **ONE OF MANY** possible ways how to build DD base. 
 If you find this variant too expensive or complicated, feel free to visit the [**FFBeast Discord**](https://discord.gg/Gt6rnvrZKu) for inspiration. 
 There, you will find discussions on multiple other technical solutions for each step, 
 possibly discovering alternatives that are easier to implement.
