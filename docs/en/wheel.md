@@ -2,7 +2,7 @@
 layout: default
 title: Force feedback wheel
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 This chapter focuses on the **DIY Direct Drive FFB Wheel project** based on **ODrive/ODESC** controller boards and **BLDC** motors.
