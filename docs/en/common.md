@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Common
+title: Common components
 has_children: true
 nav_order: 4
 ---
