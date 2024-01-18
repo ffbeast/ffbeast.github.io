@@ -2,7 +2,6 @@
 layout: default
 title: Firmware flashing
 parent: Common
-grand_parent: EN
 nav_order: 4
 ---
 

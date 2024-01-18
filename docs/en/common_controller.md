@@ -2,7 +2,6 @@
 layout: default
 title: Controllers
 parent: Common
-grand_parent: EN
 nav_order: 1
 ---
 

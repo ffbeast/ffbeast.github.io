@@ -2,7 +2,6 @@
 layout: default
 title: Encoders
 parent: Common
-grand_parent: EN
 nav_order: 3
 ---
 

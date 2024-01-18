@@ -2,7 +2,6 @@
 layout: default
 title: Reference assembly
 parent: Force feedback wheel
-grand_parent: EN
 nav_order: 1
 ---
 
