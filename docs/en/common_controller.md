@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Controllers
-parent: Common
+parent: Common components
 nav_order: 1
 ---
 

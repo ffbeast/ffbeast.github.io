@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Encoders
-parent: Common
+parent: Common components
 nav_order: 3
 ---
 
