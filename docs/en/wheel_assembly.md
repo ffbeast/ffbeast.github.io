@@ -9,20 +9,22 @@ nav_order: 1
 {:toc}
 
 ---
-<img src="../../assets/images/my_full_scale.jpg">
-<img src="../../assets/images/my_full_scale_2.jpg">
 
 {: .warning }
-> **THIS PAGE COVERS THE VARIANT OF ASSEMBLY SHOWN ON THE PICTURES ABOVE!** 
+> **THIS PAGE COVERS THE VARIANT OF ASSEMBLY SHOWN ON THE PICTURES BELOW!** 
 >
 >It is only **ONE OF MANY** possible ways how to build DD base. 
 If you find this variant too expensive or complicated, feel free to visit the [**FFBeast Discord**](https://discord.gg/Gt6rnvrZKu) for inspiration. 
 There, you will find discussions on multiple other technical solutions for each step, 
 possibly discovering alternatives that are easier to implement.
 
+<img src="../../assets/images/my_full_scale.jpg" width="360">
+<img src="../../assets/images/my_full_scale_2.jpg" width="360">
+
+
 ## All in one video guide
 
-<iframe width="736" height="500" src="https://www.youtube.com/embed/hTGs8kaHYR8?si=Nw8zB0GpSAG7B3fK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="360" height="360" src="https://www.youtube.com/embed/hTGs8kaHYR8?si=Nw8zB0GpSAG7B3fK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Assembly details
 
 ### BOM
