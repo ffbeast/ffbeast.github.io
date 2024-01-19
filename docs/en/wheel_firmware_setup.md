@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Settings
-parent: Force feedback wheel
+parent: FFB wheel
 nav_order: 3
 ---
 

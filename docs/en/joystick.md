@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Force feedback joystick
+title: FFB flight controls
 has_children: true
 nav_order: 1
 ---

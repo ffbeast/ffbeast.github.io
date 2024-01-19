@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Force feedback wheel
+title: FFB wheel
 has_children: true
 nav_order: 2
 ---

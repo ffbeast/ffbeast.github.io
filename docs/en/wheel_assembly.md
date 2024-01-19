@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reference assembly
-parent: Force feedback wheel
+parent: FFB wheel
 nav_order: 1
 ---
 
