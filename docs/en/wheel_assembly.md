@@ -50,7 +50,7 @@ possibly discovering alternatives that are easier to implement.
 > The BOM does not include PSU and Wheel and question of choosing them is out of scope for this chapter.  
 
 ### Controller
-<img src="../../assets/images/mks_xdrive_single.jpg" width="736">
+<img src="../../assets/images/mks_xdrive_single.jpg" width="360">
 
 I've selected **MKS XDrive** just because it has good square shape, square pattern of mounting holes, 
 and comes in a bundle with the braking resistor and wires. 
@@ -59,7 +59,7 @@ and comes in a bundle with the braking resistor and wires.
 > For other options check the page with [**supported controllers**](common_controller.html) 
 
 ### Motor
-<img src="../../assets/images/motor65.jpg" width="736">
+<img src="../../assets/images/motor65.jpg" width="360">
 
 Obviously - 6.5 inch howerboard motor. Cheap and powerfull. 
 
@@ -67,7 +67,7 @@ Obviously - 6.5 inch howerboard motor. Cheap and powerfull.
 > Why? You will find the answer in the chapter about [**supported motors**](common_motor.html)
 
 ### Encoder
-<img src="../../assets/images/mt6701.jpg" width="736">
+<img src="../../assets/images/mt6701.jpg" width="360">
 
 MT6701. Just the cheapest option for the purpose of the cheapest build!
 
@@ -77,8 +77,8 @@ MT6701. Just the cheapest option for the purpose of the cheapest build!
 ### Mount
 Six of SK16 and single 16mm diameter shaft...
 
-<img src="../../assets/images/sk16.jpg" width="736">
-<img src="../../assets/images/shaft.jpg" width="736">
+<img src="../../assets/images/sk16.jpg" width="360">
+<img src="../../assets/images/shaft.jpg" width="360">
 
 ...are enough to build robust, stiff and adjustable mount!
 
@@ -86,13 +86,13 @@ Six of SK16 and single 16mm diameter shaft...
 >Search by keywords "linear shaft holder", "linear shaft", "hollow linear shaft" on Aliexpress. 100mm or 150mm length will do the job.  
 
 ### Breakout PCB
-<img src="https://image.easyeda.com/pullimage/9bFOfLqxbGjtUzj0FQzwNo2eqDirP2PWxx8lDwoS.jpeg" width="736">
+<img src="https://image.easyeda.com/pullimage/9bFOfLqxbGjtUzj0FQzwNo2eqDirP2PWxx8lDwoS.jpeg" width="360">
 
 [Publicly available on Easyeda](https://u.easyeda.com/olukelo/ffb-breakout).
 JLCPCB.COM will make it for you as cheap as 2$ for 5 pcs. It helps to arrange everything and make a "clean" build because was designed to perfectly couple enclosure with mounting hardware.
 
 ### Wheel attachment
-<img src="../../assets/images/spacer.jpg" width="736">
+<img src="../../assets/images/spacer.jpg" width="360">
 
 As I do not need to swap the wheel - solid one works for me. In case you need swap wheels - just select quick release.
 
