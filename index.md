@@ -23,15 +23,19 @@ to fill a gap between simulation and true aviation experience. Crafted with an a
 powered by high torque motors and accompanied by custom effects software, this joystick is a testament 
 to durability, precision and immersion.
 
-Welcome to the next level of flight simulation!
+**Welcome to the next level of flight simulation!**
 
 [<img src="assets/images/joystick_rotating.gif" width = "360">](docs/en/joystick.html)
 
 
+## [DIY Force Feedback Wheel](docs/en/wheel.html)
 
+Are you dissatisfied with weak entry level force feedback wheels?
+Do you want more power on your steering wheel?
+Do you want to fill all details that DD wheel is capable to communicate, 
+but constrained by a budget that falls short of branded alternatives?
+It is not a problem any more: just build it yourself without much pressure on your pocket! 
 
-## [DIY Force Feedback Wheel](docs/en/joystick.html)
-
-[<img src="assets/images/wheel_crop.jpg" width="410">](docs/en/wheel.html)
+[<img src="assets/images/wheel_crop.jpg" width="360">](docs/en/wheel.html)
 
 
