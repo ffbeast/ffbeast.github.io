@@ -5,8 +5,8 @@ has_children: true
 nav_order: 2
 ---
 
-This chapter focuses on the **DIY Direct Drive FFB Wheel project** based on **ODrive/ODESC** controller boards and **BLDC** motors.
-The aim of this project is to construct a high-torque DD wheel that rivals branded alternatives on a budget.
+This project is all about building **DIY Direct Drive FFB Wheel** based on **ODrive/ODESC** controller boards and **BLDC** motors.
+The goal of this project is to construct a high-torque DD wheel that rivals branded alternatives on a budget.
 By carefully selecting parts with the help of this site, you can build the most **cost-effective DD wheel**,
 yet significantly more powerful (**up to 15Nm** with a good hoverboard motor) than entry-level branded DD alternatives.
 
