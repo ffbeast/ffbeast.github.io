@@ -34,7 +34,9 @@ Are you dissatisfied with weak entry level force feedback wheels?
 Do you want more power on your steering wheel?
 Do you want to fill all details that DD wheel is capable to communicate, 
 but constrained by a budget that falls short of branded alternatives?
-It is not a problem any more: just build it yourself without much pressure on your pocket! 
+It is not a problem any more.
+
+**Just build it yourself without much pressure on your pocket!** 
 
 [<img src="assets/images/wheel_crop.jpg" width="360">](docs/en/wheel.html)
 
