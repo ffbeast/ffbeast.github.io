@@ -3,6 +3,10 @@
     "version": 240120,
     "min_supported_fw": 240120,
     "whats_new": [
+      "All-in-one firmware for flight controls and wheel",
+      "All new hardware setup app",
+      "All new companion app for telemetry effect generation",
+      "Updated DCS telemetry script"
     ]
   },
   "fw": {
