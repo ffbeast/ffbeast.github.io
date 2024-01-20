@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Downloads
-nav_order: 4
+nav_order: 5
 ---
 ## Before download
 
- Check corresponding chapters about [**firmware flashing**](software_firmware_flashing.html) and initial [**settings setup**]()  
+ Check corresponding chapters about [**firmware flashing**](software_firmware_flashing.html) and initial [**settings setup**](software_quick_start.html)  
 
 ## Current version
 [**FFBeast v.240120**](/assets/firmware/ffbeast-240120.zip)
