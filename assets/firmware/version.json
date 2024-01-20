@@ -1,4 +1,15 @@
 {
-  "ui": 240120,
-  "fw": 240120
+  "commander": {
+    "version": 240120,
+    "min_supported_fw": 240120,
+    "whats_new": [
+      "Release"
+    ]
+  },
+  "fw": {
+    "version": 240120,
+    "whats_new": [
+      "Release"
+    ]
+  }
 }
