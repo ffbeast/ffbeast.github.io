@@ -3,11 +3,15 @@ layout: default
 title: Downloads
 nav_order: 4
 ---
+## Before download
+
+ Check corresponding chapters about [**firmware flashing**](common_firmware.html) and initial [**settings setup**]()  
+
 ## Current version
 [**FFBeast v.240120**](/assets/firmware/ffbeast-240120.zip)
 
 Release Date: 20 Jun 2024<br>
-File Size: 31.5 MB <br>
+File Size: 30.5 MB <br>
 Release notes:
 - All-in-one firmware for flight controls and wheel
 - All new hardware setup app

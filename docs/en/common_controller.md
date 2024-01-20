@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Controllers
-parent: Common components
+parent: Common components and procedures
 nav_order: 1
 ---
 

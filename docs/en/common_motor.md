@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Motors
-parent: Common components
+parent: Common components and procedures
 nav_order: 2
 ---
 
