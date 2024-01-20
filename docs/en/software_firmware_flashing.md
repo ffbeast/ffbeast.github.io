@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Firmware flashing
-parent: Common components and procedures
+parent: Software/Firmware
 nav_order: 4
 ---
 

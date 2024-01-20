@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Common components and procedures
+title: Hardware components
 has_children: true
 nav_order: 3
 ---

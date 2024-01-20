@@ -56,7 +56,7 @@ I've selected **MKS XDrive** just because it has good square shape, square patte
 and comes in a bundle with the braking resistor and wires. 
 
 {: .important }
-> For other options check the page with [**supported controllers**](common_controller.html) 
+> For other options check the page with [**supported controllers**](hardware_controller.html) 
 
 ### Motor
 <img src="../../assets/images/motor65.jpg" width="360">
@@ -64,7 +64,7 @@ and comes in a bundle with the braking resistor and wires.
 Obviously - 6.5 inch howerboard motor. Cheap and powerfull. 
 
 {: .important }
-> Why? You will find the answer in the chapter about [**supported motors**](common_motor.html)
+> Why? You will find the answer in the chapter about [**supported motors**](hardware_motor.html)
 
 ### Encoder
 <img src="../../assets/images/mt6701.jpg" width="360">
@@ -72,7 +72,7 @@ Obviously - 6.5 inch howerboard motor. Cheap and powerfull.
 MT6701. Just the cheapest option for the purpose of the cheapest build!
 
 {: .important }
-> Alternative [**encoders**](common_encoder.html) available and can be used.
+> Alternative [**encoders**](hardware_encoder.html) available and can be used.
 
 ### Mount
 Six of SK16 and single 16mm diameter shaft...

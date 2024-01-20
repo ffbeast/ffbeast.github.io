@@ -5,7 +5,7 @@ nav_order: 4
 ---
 ## Before download
 
- Check corresponding chapters about [**firmware flashing**](common_firmware.html) and initial [**settings setup**]()  
+ Check corresponding chapters about [**firmware flashing**](software_firmware_flashing.html) and initial [**settings setup**]()  
 
 ## Current version
 [**FFBeast v.240120**](/assets/firmware/ffbeast-240120.zip)
