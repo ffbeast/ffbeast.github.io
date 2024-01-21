@@ -28,12 +28,13 @@ app sitting in **ffbeast-ui** folder.
 [<img src="../../assets/images/wheel_manual_en.jpg" width="736">](../../assets/images/wheel_manual_en.jpg)
 
 
-1) By default device boots as generic device which could be switched to different device mode. To use it as the FFB Wheel 
+#### Device mode
+By default device boots as generic device which could be switched to different device mode. To use it as the FFB Wheel 
 go to **"License"** tab, select **"Wheel"** and activate device. 
 Now device will be in the FFB Wheel mode each time you reboot it.  
 
-
-2) As the next step you need to input required hardware values: **Encoder CPR** and **Pole pairs**. 
+#### Hardware setup
+As the next step you need to input required hardware values: **Encoder CPR** and **Pole pairs**. 
 Consult datasheets for your components to found those values.
 
 {: .important }
@@ -42,5 +43,5 @@ Consult datasheets for your components to found those values.
 {: .important }
 > If you use howerboard motor put 15 into **Pole pairs**
 
-3)  
+#### Center position setup  
  
