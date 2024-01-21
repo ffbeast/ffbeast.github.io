@@ -18,7 +18,7 @@ Unpack it to the place where you will be running it.
 
 ## Firmware flashing
 
-Just follow [**firmware flashing process**](software_firmware_flashing.html). Use HEX found in the archive.
+Just follow [**firmware flashing process**](software_firmware_flashing.html). Use HEX found in **ffbeast-hex** folder.
  
 ## Settings quick start
 
