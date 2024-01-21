@@ -1,8 +1,8 @@
 ---
 layout: default
-title: FFBeast commander
+title: FFBeast Commander
 parent: Software/Firmware
-nav_order: 1
+nav_order: 3
 ---
 
 - TOC
