@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settings
+title: Software/Firmware quick start
 parent: FFB wheel
 nav_order: 3
 ---
