@@ -3,15 +3,16 @@
     "version": 240120,
     "min_supported_fw": 240120,
     "whats_new": [
-      "All-in-one firmware for flight controls and wheel",
-      "All new hardware setup app",
-      "All new companion app for telemetry effect generation",
-      "Updated DCS telemetry script"
+		"All-in-one firmware for flight controls and wheel",
+		"All new hardware setup app",
+		"All new companion app for telemetry effect generation",
+		"Updated DCS telemetry script"
     ]
   },
   "fw": {
-    "version": 240120,
+    "version": 240124,
     "whats_new": [
+		"Firmware fix of constant vibration in il-2 Shturmovik"
     ]
   }
 }
