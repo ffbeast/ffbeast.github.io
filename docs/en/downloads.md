@@ -12,7 +12,7 @@ nav_order: 5
 
 Release Date: 20 Jan 2024<br>
 Release notes:
-- Firmware fix of constant vibration in il-2 Shturmovik
+- Firmware fix of constant vibration in il-2 Shturmovik when using DirectX effects.
 
 
 ## Previous versions
@@ -21,7 +21,7 @@ Release notes:
 
 Release Date: 20 Jan 2024<br>
 Release notes:
-- All-in-one firmware for flight controls and wheel
-- All new hardware setup app
-- All new companion app for telemetry effect generation
-- Updated DCS telemetry script
+- All-in-one firmware for flight controls and wheel.
+- All new hardware setup app.
+- All new companion app for telemetry effect generation.
+- Updated DCS telemetry script.
