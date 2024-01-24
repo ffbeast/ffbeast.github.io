@@ -13,7 +13,7 @@ nav_order: 5
 Release Date: 20 Jan 2024<br>
 Release notes:
 - Firmware fix of constant vibration in il-2 Shturmovik when using DirectX effects.
-
+- Firmware fix of DirectX periodic effects stop playing in il-2 Shturmovik.
 
 ## Previous versions
 
