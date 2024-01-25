@@ -10,10 +10,9 @@ nav_order: 5
 ## Current version
 [**FFBeast v.240124**](/assets/firmware/ffbeast-240124.zip)
 
-Release Date: 20 Jan 2024<br>
+Release Date: 24 Jan 2024<br>
 Release notes:
 - Firmware fix of infinite kicks in il-2 Shturmovik when stick is deflected.
-- Firmware fix of DirectX periodic effects stop playing in il-2 Shturmovik.
 
 ## Previous versions
 
