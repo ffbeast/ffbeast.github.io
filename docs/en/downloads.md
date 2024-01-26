@@ -11,7 +11,6 @@ nav_order: 5
 
 ## Current version
      
-<div class="table-wrapper">
 <table> 
 <thead> 
   <tr> 
@@ -36,4 +35,4 @@ nav_order: 5
    </td> 
   </tr> 
  </tbody> 
-</table></div>
+</table>
