@@ -113,3 +113,7 @@ Here are some recommended options from this group:
 >
 > So if you are not sure that you could mount encoder and magnet with good amount of precision - just **choose another solution!**
 
+### FAQ
+
+#### Could HAL sensors in motor be used?
+No. HAL sensors inside motor do not provide enough precision for algorithm to work.
