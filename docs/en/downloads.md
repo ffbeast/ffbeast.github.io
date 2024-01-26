@@ -14,8 +14,8 @@ nav_order: 5
 <table> 
 <thead> 
   <tr> 
-   <th><a href="/assets/firmware/ffbeast-240120.zip"><strong>FFBeast software v.240120</strong></a></th> 
-   <th><a href="/assets/firmware/ffbeast-240124.zip"><strong>FFBeast firmware v.240124</strong></a></th> 
+   <th><a href="/assets/firmware/ffbeast-software-240120.zip"><strong>FFBeast software v.240120</strong></a></th> 
+   <th><a href="/assets/firmware/ffbeast-firmware-240124.zip"><strong>FFBeast firmware v.240124</strong></a></th> 
   </tr> 
  </thead> 
  <tbody> 
