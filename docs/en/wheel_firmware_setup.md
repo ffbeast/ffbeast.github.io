@@ -47,7 +47,8 @@ Consult datasheets for your components to found those values.
  By default when performing start calibration sequence motor is pulled to the closest 
  magnetic pole position and consider this position as the center. 
  You can change center position manipulating **Calibration start angle**.
- - Make sure **Enable force** checkbox is **UNCHECKED** and **Calibration** as **NONE**.
+ - Make sure **Enable force** checkbox is **UNCHECKED** 
+ - Make sure **Calibration** set as **NONE**.
  - Overcome force of magnetic pole and put your wheel into  "locking" position closest to the center. 
  - Manipulate **Calibration start angle** so wheel moved to the center position precisely.
 
