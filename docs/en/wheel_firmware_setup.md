@@ -75,10 +75,8 @@ Turn on **Spring center** effect and check if force pulls the wheel to the cente
 
 [<img src="../../assets/images/force_direction_check.jpg" width="360">](../../assets/images/force_direction_check.jpg)
 
-### Setup finalization
-That's all. At this moment wheel is ready to be used. 
-All remaining settings should be set to your likings. 
-Set desired Motion range, Dampening, and Power limit, run your game of choice and enjoy! 
+### Personalization
+All remaining settings could be set to your likings. Set desired Motion range, Dampening, and Power limit.
 
 ## Braking limit setup
 The last point in settings is braking limit. Setup of it requires a bit of trial and errors. 
@@ -90,3 +88,5 @@ How much - is determined by **Braking limit** setting. What is correct value? **
 The best approach is to start from smaller value(5-10) and try to play. 
 If during quick rotations left-right PSU keep working - it's done. If no - increase it by 5-10 percents and repeat.
 
+## Enjoy!
+That's all. You've gone through all needed settings and your DIY Wheel is ready to go!  
