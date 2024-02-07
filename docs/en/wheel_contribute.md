@@ -15,19 +15,14 @@ and connect additional buttons/axis to ODrive. Chears!
         src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+ <div>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="GR92HWM7X277Q" />
 <input type="image" src="https://www.paypalobjects.com/en_US/PL/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_PL/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
-  <div>
-    <stripe-buy-button
-            buy-button-id="buy_btn_1Oh9GlAUMJA5adUcWabNoRx2"
-            publishable-key="pk_live_51N3FsMAUMJA5adUcbQwaE8tIDLRbB2bW94T4SqdYEUYhwdWbFbXKoHiOzETl6WpBpZRtQtBqq701Ug5q8gA1CVn500WyNLoWsx"
-    >
-    </stripe-buy-button>
-  </div>
+</div>
 </div>
 
-[<img src="../../assets/images/donate.jpg" width="736">](../../assets/images/donate.jpg)
+[<img src="../../assets/images/donate_pp.jpg" width="736">](../../assets/images/donate_pp.jpg)
