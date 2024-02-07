@@ -30,7 +30,7 @@ app sitting in **ffbeast-ui** folder.
 
 ### Device mode
 By default device boots as generic device which could be switched to different device mode. To use it as the FFB Wheel 
-go to **"License"** tab, select **"Wheel"** and activate device. 
+go to **License** tab, select **Wheel** and activate device. 
 Now device will be in the FFB Wheel mode each time you reboot it.  
 
 ### Hardware setup
@@ -44,5 +44,28 @@ Consult datasheets for your components to found those values.
 > In case yof using [howerboard motor](hardware_motor.html) put 15 into **Pole pairs**
 
 ### Center position setup  
- By default when performing start calibration sequence motor is pulled to close magnetic pole position and consider this position as the center.
- 
+ By default when performing start calibration sequence motor is pulled to the closest 
+ magnetic pole position and consider this position as the center. 
+ You can change center position manipulating **Calibration start angle**.
+ - Make sure **Enable force** checkbox is **UNCHECKED** and **Calibration** as **NONE**.
+ - Overcome force of magnetic pole and put your wheel into  "locking" position closest to the center. 
+ - Manipulate **Calibration start angle** so wheel moved to the center position precisely.
+
+This position will be saved as the center in future.
+
+### Activate force
+When essential settings are set wheel ready to be activated
+- Check **Enable force** checkbox.
+- Select **Calibration** mode **Start as the center**.
+- Save settings to the controller.
+- And as final step **Reboot** device.
+
+### Output setup
+To make life easier, direction of joystick input should follow direction of the wheel rotation. 
+[**JoyTester**](downloads.html) will help us do the job. Check if marker in joy viewer goes to the same direction where wheel rotates. 
+If it goes in opposite direction - check **Invert joystick output** option and **Save settings to controller**.  
+[<img src="../../assets/images/wheel_direction_check.jpg" width="736">](../../assets/images/wheel_manual_en.jpg)
+
+### Force direction
+As the next step wee need to setup the wheel so forces work in correct direction.
+You can use [**ForceTest**](downloads.html) program to check the forces. 

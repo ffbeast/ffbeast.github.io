@@ -8,6 +8,10 @@ nav_order: 5
 
  Check corresponding chapters about [**firmware flashing**](software_firmware_flashing.html) 
  and how to use [**settings app**](software_hardware_settings_ui.html)  
+## Helpful programs 
+- [**JoystickTest**](../../assets/firmware/JoystickTest.jpg)
+- [**VkbJoyTester**](../../assets/firmware/VKB_JoyTester.jpg)
+- [**ForceTest**](../../assets/firmware/ForceTest.jpg)
 
 ## Current version
      
