@@ -89,4 +89,6 @@ The best approach is to start from smaller value(5-10) and try to play.
 If during quick rotations left-right PSU keep working - it's done. If no - increase it by 5-10 percents and repeat.
 
 ## Enjoy!
-That's all. You've gone through all needed settings and your DIY Wheel is ready to go!  
+That's all. You've gone through all needed settings and your DIY Wheel is ready to go! 
+If you like the journey - feel free to [**donate on further project development**](wheel_contribute.html).
+Your thanks will be much appreciated :) 
