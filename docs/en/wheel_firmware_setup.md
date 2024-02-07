@@ -65,8 +65,28 @@ When essential settings are set wheel ready to be activated
 To make life easier, direction of joystick input should follow direction of the wheel rotation. 
 [**JoyTester**](downloads.html) will help us do the job. Check if marker in joy viewer goes to the same direction where wheel rotates. 
 If it goes in opposite direction - check **Invert joystick output** option and **Save settings to controller**.  
-[<img src="../../assets/images/wheel_direction_check.jpg" width="736">](../../assets/images/wheel_manual_en.jpg)
+[<img src="../../assets/images/wheel_direction_check.jpg" width="736">](../../assets/images/wheel_direction_check.jpg)
 
 ### Force direction
 As the next step wee need to setup the wheel so forces work in correct direction.
 You can use [**ForceTest**](downloads.html) program to check the forces. 
+Turn on **Spring center** effect and check if force pulls the wheel to the center. If force pulls wheel off center - check
+**Invert force output** option and **Save settings to controller**.  
+
+[<img src="../../assets/images/force_direction_check.jpg" width="360">](../../assets/images/force_direction_check.jpg)
+
+### Setup finalization
+That's all. At this moment wheel is ready to be used. 
+All remaining settings should be set to your likings. 
+Set desired Motion range, Dampening, and Power limit, run your game of choice and enjoy! 
+
+## Braking limit setup
+The last point in settings is braking limit. Setup of it requires a bit of trial and errors. 
+During the quick rotations motor works as a generator.
+It produces electric energy and thus increases voltage in power line. 
+It can cause PSU to go into overvoltage protection mode and switch off.
+To negate this effect, we connect a braking resistor to the ODrive in order to dissipate part of energy through it.
+How much - is determined by **Braking limit** setting. What is correct value? **Depends on your motor and PSU**! 
+The best approach is to start from smaller value(5-10) and try to play. 
+If during quick rotations left-right PSU keep working - it's done. If no - increase it by 5-10 percents and repeat.
+
