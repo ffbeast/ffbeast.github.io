@@ -5,8 +5,8 @@ parent: FFB wheel
 nav_order: 4
 ---
 
-You can say your "thanks" there by donating on project development. 
-It will let me know, that the project is helpfull and motivate me to develop it further.
+**You can say your "thanks" there by donating on project development.** 
+**It will let me know, that my work is important, and motivate me for further development!**
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
  <div>
@@ -21,9 +21,6 @@ It will let me know, that the project is helpfull and motivate me to develop it 
 In case of providing **Device ID** each donation will be rewarded with small gift in form of **Serial Key** for **unlocking extended functionality**.
 Extended functionality is not critical for building a wheel, it just gives possibility to change some extra non critical settings
 and connect additional buttons/axis directly to ODrive.
-
-{: .important }
->**Standard version is fully functional. You can use it without a key!**
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
 <a href="../../assets/images/donate_pp.jpg"><img src="../../assets/images/donate_pp.jpg" width="360"></a>
