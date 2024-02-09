@@ -40,7 +40,7 @@ Now device will be in the FFB Wheel mode each time you reboot it.
 >Standard version if fully functional and have all essential functionality needed to build the wheel. 
 
 {: .important }
-> **Extended version** of software is available as reward for [**project contributors**](wheel_contribute.html). 
+> **Extended version** of software is available as reward for [**project donators**](wheel_contribute.html). 
 > 
 > It gives possibility to change some additional non critical settings, and possibility to connect buttons/axis directly to ODrive.
 
