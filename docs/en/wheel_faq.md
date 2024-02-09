@@ -22,4 +22,6 @@ additional buttons/axis directly to ODrive. So it is mandatory only for **more c
 
 ## I want to have extended version. How?
 
-Consider to become a [**project contributor**](wheel_contribute.html). Extended functionality comes with extended responsibilities :) 
+Consider to become a [**project contributor**](wheel_contribute.html).
+
+Extended functionality comes with extended responsibilities :) 
