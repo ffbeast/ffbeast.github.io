@@ -36,8 +36,8 @@ Now device will be in the FFB Wheel mode each time you reboot it.
 
 {: .important }
 > **You can activate wheel without a key!** Just leave **Serial Key** field "as is" and press **Activate**. 
-> ****
-> **Standard version if fully functional and have all essential functionality needed to build the wheel.**  
+>
+>Standard version if fully functional and have all essential functionality needed to build the wheel. 
 
 {: .important }
 > **Extended version** of software is available as reward for [**project contributors**](wheel_contribute.html). 
