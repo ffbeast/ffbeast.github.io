@@ -33,6 +33,17 @@ By default device boots as generic device which could be switched to different d
 go to **License** tab, select **Wheel** and activate device. 
 Now device will be in the FFB Wheel mode each time you reboot it.  
 
+
+{: .important }
+> **You can activate wheel without a key!** Just leave **Serial Key** field "as is" and press **Activate**. 
+> ****
+> **Standard version if fully functional and have all essential functionality needed to build the wheel.**  
+
+{: .important }
+> **Extended version** of software is available as reward for [**project contributors**](wheel_contribute.html). 
+> 
+> It gives possibility to change some additional non critical settings, and possibility to connect buttons/axis directly to ODrive.
+
 ### Hardware setup
 As the next step you need to input required hardware values: **Encoder CPR** and **Pole pairs**. 
 Consult datasheets for your components to found those values.

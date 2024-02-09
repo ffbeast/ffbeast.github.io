@@ -7,13 +7,6 @@ nav_order: 4
 
 You can say your "thanks" there by donating on project development. 
 It will let me know, that the project is helpfull and motivate me to develop it further.
-In case of providing Device ID each donation will be rewarded with small gift in form of unlocking extended functionality.
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-<a href="../../assets/images/donate_pp.jpg"><img src="../../assets/images/donate_pp.jpg" width="360"></a>
-</div>
-
-Extended functionality is not critical for building a wheel, it just will give possibility to change some extra settings 
-and connect additional buttons/axis to ODrive. Chears!
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
  <div>
@@ -24,3 +17,13 @@ and connect additional buttons/axis to ODrive. Chears!
 </form>
 </div>
 </div>
+
+In case of providing **Device ID** each donation will be rewarded with small gift in form of **unlocking extended functionality**.
+Extended functionality is not critical for building a wheel, it just will give possibility to change some extra settings
+and connect additional buttons/axis to ODrive.
+
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<a href="../../assets/images/donate_pp.jpg"><img src="../../assets/images/donate_pp.jpg" width="360"></a>
+</div>
+
+**Standard version is fully functional. You can use it without a key!**
