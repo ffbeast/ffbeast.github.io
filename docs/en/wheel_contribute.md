@@ -8,6 +8,11 @@ nav_order: 4
 **You can say your "thanks" there by donating on project development.** 
 **It will let me know, that my work is important, and motivate me for further development!**
 
+
+In case of providing **Device ID** each donation will be rewarded with small gift in form of **Serial Key** for **unlocking extended functionality**.
+Extended functionality is not critical for building a wheel, it just gives possibility to change some extra non critical settings
+and connect additional buttons/axis directly to ODrive.
+
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
  <div>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
@@ -18,12 +23,14 @@ nav_order: 4
 </div>
 </div>
 
-In case of providing **Device ID** each donation will be rewarded with small gift in form of **Serial Key** for **unlocking extended functionality**.
-Extended functionality is not critical for building a wheel, it just gives possibility to change some extra non critical settings
-and connect additional buttons/axis directly to ODrive.
+
+{: .important }
+> **Put your Device Id into comment for donation!**  It will just make things much easier. I will immediately see device ID, and you will receive **Serial Key** via email. 
+
+When filling the PayPal form press "+" button. Input field for comment will open. Put **Device ID** there and continue with the process.
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-<a href="../../assets/images/donate_pp.jpg"><img src="../../assets/images/donate_pp.jpg" width="360"></a>
+<img src="../../assets/images/donate_pp.jpg" width="736">
 </div>
 
 
