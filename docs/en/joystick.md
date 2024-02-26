@@ -54,6 +54,7 @@ Technical documentation and firmware are available for purchase:
 ### Or buy it!
 In case you want to have ready made device I could build FFBeast base for you.    
 The final price is the subject of options selected. Expect to spend **899 Euro + Shipping** as starting minimum configuration.
+
  [**Just fill the form**](https://forms.gle/nyH7mn7TG4byqH4g7), and I will contact you with provided email as soon as your preorder will be ready to go to production.
 
 ## Discord
