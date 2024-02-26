@@ -12,7 +12,8 @@ nav_exclude: true
 ## Welcome stranger! 
 
 The fact that you've landed here suggests you may have caught wind of the 
-**Force Feedback Flight Controls** or **DIY FFB Wheel** and are now looking for additional insights. You are in the right place!
+**Force Feedback Flight Controls** or **DIY FFB Wheel** and are now looking for additional insights.
+You are in a right place!
 
 
 ## [Force Feedback Flight Controls](docs/en/joystick.html)
