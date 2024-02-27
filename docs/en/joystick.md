@@ -38,6 +38,7 @@ flight with FFB, you'll find yourself hooked, never wanting to return to using a
 <img src="../../assets/images/vkb_on_extender.jpg" width="360">
 <img src="../../assets/images/thrustmaster_on_extender.jpg" width="360">
 
+<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e73dd6a088a09dc43?mode=embed" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 ## Want one?
 
 There are several options:
