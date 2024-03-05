@@ -80,18 +80,18 @@ It includes:
 >No PSU will be present in this bundle so you could use any PSU 12V-24V possible to deliver 15A and more.   
 
 ### Extended bundle
-Depending on your needs and for additional cost bundle could be extended with different options:
+Depending on your needs and for additional cost, basic bundle could be extended with different options:
 - Painted enclosure (Black).
 - Adapter to connect 2 standard laptop PSU in parallel to achieve required Amp rating. 
 - Compatible PSUs.
 - USB isolator.
 - Adaptation of physical dimensions and mounting accessories for your cockpit.
-- Something not mentioned in the list :)
+- Anything not mentioned in the list :)
 
 ## Ready to preorder?
 
 {: .warning }
->[**Just fill the form**](https://forms.gle/nyH7mn7TG4byqH4g7), and I will contact you with provided email as soon as your preorder will be ready to go to production.
+>Just [**fill the form**](https://forms.gle/nyH7mn7TG4byqH4g7), and I will contact you with provided email as soon as your preorder will be ready to go to production.
 > 
 > **No payment required. You will get final invoice for payment when device will be ready for shipping!**
 
