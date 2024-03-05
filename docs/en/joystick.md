@@ -10,7 +10,7 @@ nav_order: 1
 
 ---
 
-## Intro to FFBeast!
+# Intro to FFBeast!
 
 In developing this project, my goal was to create a device that bridges the gap between the world of simulation and reality,
 both in terms of a wide variety of supported effects and the ability to emulate forces as closely as real pilots
@@ -24,7 +24,7 @@ for flight simmers.
 >**Warning!** Playing flight simulators with **Force Feedback can be addictive!** Once you've experienced even a single
 >flight with FFB, you'll find yourself hooked, never wanting to return to using a traditional spring-loaded joystick again!
 
-## Specs
+# Specs
 
  - 35Nm peak torque. It allows to achieve 8+ kg force on full length stick.
  - Full metal construction for maximum rigidity and durability.
@@ -43,15 +43,15 @@ for flight simmers.
 > The cable will be routed from the extender outside of the box. 
 > You will need to have original controller standing close to the base and cable connected to it. 
 
-## Gallery
+# Gallery
 <img src="../../assets/images/vkb_on_extender.jpg" width="360">
 <img src="../../assets/images/thrustmaster_on_extender.jpg" width="360">
 
-## Want one?
+# Want one?
 
 There are several options:
 
-### Build it! 
+## Build it! 
 It is possible to build device yourself. Construction does not require use of special tooling and can be done by anyone
 Technical documentation and firmware are available for purchase:
 
@@ -63,10 +63,10 @@ Technical documentation and firmware are available for purchase:
 {: .important }
  >**Building instructions will be available soon!**
 
-### Or buy it!
+## Or buy it!
 In case you want to have ready made device I could build FFBeast base for you.   
 
-#### Basic version bundle
+### Basic version bundle
 It is the version for those who want to spend as low as possible to enter FFB world. 
 The price of basic version is **899 Euro + Shipping**. 
 
@@ -79,7 +79,7 @@ It includes:
 {: .important }
 >No PSU will be present in this bundle so you could use any PSU 12V-24V possible to deliver 15A and more.   
 
-#### Extended bundle
+### Extended bundle
 Depending on your needs and for additional cost bundle could be extended with different options:
 - Painted enclosure (Black).
 - Adapter to connect 2 standard laptop PSU in parallel to achieve required Amp rating. 
@@ -89,8 +89,9 @@ Depending on your needs and for additional cost bundle could be extended with di
 - Something not mentioned in the list :)
 
 ## Ready to preorder?
+
 {: .warning }
-> [**Just fill the form**](https://forms.gle/nyH7mn7TG4byqH4g7), and I will contact you with provided email as soon as your preorder will be ready to go to production.
+>[**Just fill the form**](https://forms.gle/nyH7mn7TG4byqH4g7), and I will contact you with provided email as soon as your preorder will be ready to go to production.
 > 
 > **No payment required. You will get final invoice for payment when device will be ready for shipping!**
 
