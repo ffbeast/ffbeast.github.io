@@ -21,8 +21,8 @@ have dreamt about experiencing the same level of immersion, this device will fin
 for flight simmers.
 
 {: .warning }
-**Warning!** Playing flight simulators with **Force Feedback can be addictive!** Once you've experienced even a single
-flight with FFB, you'll find yourself hooked, never wanting to return to using a traditional spring-loaded joystick again!
+>**Warning!** Playing flight simulators with **Force Feedback can be addictive!** Once you've experienced even a single
+>flight with FFB, you'll find yourself hooked, never wanting to return to using a traditional spring-loaded joystick again!
 
 ## Specs
 
@@ -32,31 +32,67 @@ flight with FFB, you'll find yourself hooked, never wanting to return to using a
  - Compatible with PSU from 12V to 24V.
  - Compatible with DCS, MSFS, il-2, Warthunder, Condor2.
  - Other games support is on roadmap.
- - Compatible with Thrustmaster and VKB extenders when using proper adapter.
+ - Compatible with Thrustmaster (Native support. No additional controllers needed).
+ - Compatible with VKB (**In form of "Path through"**).
+ - Compatible with Virpil (**In form of "Path through"**).
+
+{: .important }
+> **"Path through"**
+> 
+> Is the way of connecting grip to the original controller. 
+> The cable will be routed from the extender outside of the box. 
+> You will need to have original controller standing close to the base and cable connected to it. 
 
 ## Gallery
 <img src="../../assets/images/vkb_on_extender.jpg" width="360">
 <img src="../../assets/images/thrustmaster_on_extender.jpg" width="360">
 
-<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e73dd6a088a09dc43?mode=embed" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 ## Want one?
 
 There are several options:
 
 ### Build it! 
 It is possible to build device yourself. Construction does not require use of special tooling and can be done by anyone
-Technical documentation and firmware are available for purchase: 
+Technical documentation and firmware are available for purchase:
 
 - DXF files ready for cutting + BOM - **25 Euro**
 - Firmware license for one device - **50 Euro**
 
-**Building instructions will be added there soon!**
+<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e73dd6a088a09dc43?mode=embed" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+{: .important }
+ >**Building instructions will be available soon!**
 
 ### Or buy it!
-In case you want to have ready made device I could build FFBeast base for you.    
-The final price is the subject of options selected. Expect to spend **899 Euro + Shipping** as starting minimum configuration.
+In case you want to have ready made device I could build FFBeast base for you.   
 
- [**Just fill the form**](https://forms.gle/nyH7mn7TG4byqH4g7), and I will contact you with provided email as soon as your preorder will be ready to go to production.
+#### Basic version bundle
+It is the version for those who want to spend as low as possible to enter FFB world. 
+The price of basic version is **899 Euro + Shipping**. 
+
+It includes:
+ - FFBeast base in bare metal look(not painted).
+ - Single adapter of choice (either Thrustmaster style connector or adapter to VKB extender).
+ - USB cable.
+ - Power cable to connect PSU of your choice. 
+
+{: .important }
+>No PSU will be present in this bundle so you could use any PSU 12V-24V possible to deliver 15A and more.   
+
+#### Extended bundle
+Depending on your needs and for additional cost bundle could be extended with different options:
+- Painted enclosure (Black).
+- Adapter to connect 2 standard laptop PSU in parallel to achieve required Amp rating. 
+- Compatible PSUs.
+- USB isolator.
+- Adaptation of physical dimensions and mounting accessories for your cockpit.
+- Something not mentioned in the list :)
+
+## Ready to preorder?
+{: .warning }
+> [**Just fill the form**](https://forms.gle/nyH7mn7TG4byqH4g7), and I will contact you with provided email as soon as your preorder will be ready to go to production.
+> 
+> **No payment required. You will get final invoice for payment when device will be ready for shipping!**
 
 ## Discord
 Discord is the preferred way to ask me questions and discuss project details. 
