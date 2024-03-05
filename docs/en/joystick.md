@@ -80,8 +80,9 @@ It includes:
 >No PSU will be present in this bundle so you could use any PSU 12V-24V possible to deliver 15A and more.   
 
 ### Extended bundle
-Depending on your needs and for additional cost, basic bundle could be extended with different options:
+Depending on your needs and **for additional cost**, basic bundle could be extended with different options:
 - Painted enclosure (Black).
+- Stick extenders.
 - Adapter to connect 2 standard laptop PSU in parallel to achieve required Amp rating. 
 - Compatible PSUs.
 - USB isolator.
