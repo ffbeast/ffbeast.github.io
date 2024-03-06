@@ -96,9 +96,9 @@ Depending on your needs and **for additional cost**, basic bundle could be exten
 > 
 > **No payment required. You will get final invoice for payment when device will be ready for shipping!**
 
-## Discord
-Discord is the preferred way to ask me questions and discuss project details. 
-Join [**FFBeast server**](https://discord.gg/Gt6rnvrZKu) to become part of the community and to get latest news about the project.  
+## Still have a question?
+
+Join [**FFBeast Discord**](https://discord.gg/Gt6rnvrZKu) to ask any questions about the project, become part of the community and to get the latest news.  
 
 
 
