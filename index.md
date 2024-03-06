@@ -16,7 +16,7 @@ The fact that you've landed here suggests you may have caught wind of the
 You are in a right place!
 
 
-## [Force Feedback Flight Controls](docs/en/joystick.html)
+## [FFBeast Active Flight Controls](docs/en/joystick.html)
 
 For those dedicated to the art of flight simulation and  demand authenticity in their virtual cockpit,
 **FFBeast Flight Controls** are designed with single goal in mind:

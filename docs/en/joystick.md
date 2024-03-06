@@ -64,7 +64,7 @@ Technical documentation and firmware are available for purchase:
  >**Building instructions will be available soon!**
 
 ## Or buy it!
-In case you want to have ready made device I could build FFBeast base for you.   
+In case you want to have ready made device I can build FFBeast base for you.   
 
 ### Basic version bundle
 It is the version for those who want to spend as low as possible to enter FFB world. 
