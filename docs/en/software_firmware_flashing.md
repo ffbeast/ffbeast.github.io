@@ -35,7 +35,7 @@ Usually it have micro switch. So process of booting in DFU mode will be followin
 - Disconnect external power from the board.
 - Turn micro switch to DFU position.
 - Connect external power - controller will boot in DFU mode.
-- [Flash firmware](https://ffbeast.github.io/docs/en/common_firmware.html#flashing-process).
+- [Flash firmware](https://ffbeast.github.io/docs/en/software_firmware_flashing.html#flashing-process).
 - Disconnect external power.
 - Turn micro switch to original position.
 - Connect external power - controller will boot in normal mode.
@@ -49,7 +49,7 @@ This boards have jumper on it. So process of booting in DFU mode will be followi
 - Disconnect external power from the board.
 - Remove DFU jumper.
 - Connect external power - controller will boot in DFU mode.
-- [Flash firmware](https://ffbeast.github.io/docs/en/common_firmware.html#flashing-process).
+- [Flash firmware](https://ffbeast.github.io/docs/en/software_firmware_flashing.html#flashing-process).
 - Disconnect external power.
 - Install DFU jumper.
 - Connect external power - controller will boot in normal mode.
@@ -63,7 +63,7 @@ This boards do not have dedicated switch or jumper but have special button:
 - Connect external power. Controller will boot in normal mode.
 - Press and hold **BOOT** button.
 - Press **RESET** button - controller will reboot in DFU mode.
-- [Flash firmware](https://ffbeast.github.io/docs/en/common_firmware.html#flashing-process).
+- [Flash firmware](https://ffbeast.github.io/docs/en/software_firmware_flashing.html#flashing-process).
 - Press **RESET** button - controller will boot in normal mode.
  
 ## ST-LINK
@@ -74,7 +74,7 @@ To use ST-LINK follow the procedure:
 - Wire ST-LINK to ODrive board. You need GND, SWD, SWC and NRST pins connected. 
 - Connect ST-LINK to PC via USB cable.
 - Connect external power to controller. It will be ready for flashing.
-- [Flash firmware](https://ffbeast.github.io/docs/en/common_firmware.html#flashing-process).
+- [Flash firmware](https://ffbeast.github.io/docs/en/software_firmware_flashing.html#flashing-process).
 - Disconnect external power.
 - Disconnect ST-LINK.
 - Connect external power - controller will boot in normal mode. 
