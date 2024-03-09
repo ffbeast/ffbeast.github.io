@@ -1,3 +1,14 @@
+---
+layout: default
+title: BOM
+parent: FFB flight controls
+nav_order: 1
+---
+
+- TOC
+{:toc}
+
+---
 ## Sheet metal parts
 
 | Part name                              | Quantity | Material        | Comment                               |
