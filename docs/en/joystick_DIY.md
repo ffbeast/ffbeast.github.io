@@ -25,11 +25,11 @@ Will be there soon!**
 
 ## Electronics
 
-| Part name                                               | Quantity   | Comment                            |
-|---------------------------------------------------------|------------|------------------------------------|
-| [**ODrive/ODESC**](hardware_controller.html)            | 1          |                                    |
-| [**Encoder**](hardware_encoder.html) (AMT10E or AMT102) | 2          | **AMT10E is highly recommended!**  |
- | [**Motor**](hardware_motor.html)                        | 2          |                                    |
+| Part name                                               | Quantity   | Comment                           |
+|---------------------------------------------------------|------------|-----------------------------------|
+| [**ODrive/ODESC**](hardware_controller.html)            | 1          | Dual axis version needed          |
+| [**Encoder**](hardware_encoder.html) (AMT10E or AMT102) | 2          | **AMT10E is highly recommended!** |
+ | [**Motor**](hardware_motor.html)                        | 2          |                                   |
 
 ## Sheet metal parts
 
