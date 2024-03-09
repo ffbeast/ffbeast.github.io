@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BOM
+title: DIY
 parent: FFB flight controls
 nav_order: 1
 ---
@@ -9,27 +9,41 @@ nav_order: 1
 {:toc}
 
 ---
+# Intro
+Technical documentation and firmware are available for purchase:
+
+- DXF files ready for cutting - **25 Euro**
+- Firmware license for one device - **50 Euro**
+
+# Project preview
+<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e73dd6a088a09dc43?mode=embed" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Building instructions
+Will be there soon!**
+
+# BOM
+
 ## Sheet metal parts
 
-| Part name                              | Quantity | Material        | Comment                               |
-|----------------------------------------|----------|-----------------|---------------------------------------|
-| enclosure_back_side_panel              | 1        | alu - 3mm |                                       |
-| enclosure_bottom_plate                 | 1        | alu - 4mm | could be other material and thickness |
-| enclosure_connector_side_panel_odrive  | 1        | alu - 3mm |                                       |
-| enclosure_cover_bracket                | 4        | alu - 3mm | to hold dust cover                    |
-| enclosure_motor_mount                  | 2        | alu - 3mm |                                       |
-| enclosure_motor_side_panel             | 2        | alu - 3mm |                                       |
-| enclosure_top_plate                    | 1        | alu - 3mm |                                       |
-| square_bearing_block                   | 9        | alu - 2mm | 8 for enclosure + 1 for gimbal        |
-| gimbal_arm_bearing_block               | 1        | steel - 5mm     |                                       |
-| gimbal_arm_leg                         | 2        | steel - 5mm     |                                       |
-| gimbal_arm_stick_connector             | 2        | steel - 5mm     |                                       |
-| gimbal_core_center                     | 1        | steel - 5mm     |                                       |
-| gimbal_frame_core                      | 4        | steel - 5mm     |                                       |
-| gimbal_core_screw_aligner              | 3        | steel - 3mm     |                                       |
-| gimbal_frame_side                      | 4        | steel - 5mm     |                                       |
-| gimbal_pulley_spacer                   | 2        | steel - 6mm     |                                       |
-| round_bearing_block                    | 4        | steel - 2mm     | alu will be ok as well                |
+| Part name                              | Quantity | Material    | Comment                               |
+|----------------------------------------|----------|-------------|---------------------------------------|
+| enclosure_back_side_panel              | 1        | alu - 3mm   |                                       |
+| enclosure_bottom_plate                 | 1        | alu - 4mm   | could be other material and thickness |
+| enclosure_connector_side_panel_odrive  | 1        | alu - 3mm   |                                       |
+| enclosure_cover_bracket                | 4        | alu - 3mm   | to hold dust cover                    |
+| enclosure_motor_mount                  | 2        | alu - 3mm   |                                       |
+| enclosure_motor_side_panel             | 2        | alu - 3mm   |                                       |
+| enclosure_top_plate                    | 1        | alu - 3mm   |                                       |
+| square_bearing_block                   | 9        | alu - 2mm   | 8 for enclosure + 1 for gimbal        |
+| gimbal_arm_bearing_block               | 1        | steel - 5mm |                                       |
+| gimbal_arm_leg                         | 2        | steel - 5mm |                                       |
+| gimbal_arm_stick_connector             | 2        | steel - 5mm |                                       |
+| gimbal_core_center                     | 1        | steel - 5mm |                                       |
+| gimbal_frame_core                      | 4        | steel - 5mm |                                       |
+| gimbal_core_screw_aligner              | 3        | steel - 3mm |                                       |
+| gimbal_frame_side                      | 4        | steel - 5mm |                                       |
+| gimbal_pulley_spacer                   | 2        | steel - 6mm |                                       |
+| round_bearing_block                    | 4        | steel - 2mm | alu will be ok as well                |
 
 ## Build specific sheet metal parts
 

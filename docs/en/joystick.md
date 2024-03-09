@@ -52,16 +52,7 @@ for flight simmers.
 There are several options:
 
 ## Build it! 
-It is possible to build device yourself. Construction does not require use of special tooling and can be done by anyone
-Technical documentation and firmware are available for purchase:
-
-- DXF files ready for cutting + BOM - **25 Euro**
-- Firmware license for one device - **50 Euro**
-
-<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e73dd6a088a09dc43?mode=embed" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-{: .important }
- >**Building instructions will be available soon!**
+It is possible to [**build device yourself**](docs/en/joystick_DIY.html). Construction does not require use of special tooling and can be done by anyone
 
 ## Or buy it!
 In case you want to have ready made device I can build FFBeast base for you.   
