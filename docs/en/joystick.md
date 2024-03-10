@@ -52,7 +52,7 @@ for flight simmers.
 There are several options:
 
 ## Build it! 
-It is possible to [**build device yourself**](docs/en/joystick_DIY.html). 
+It is possible to [**build device yourself**](joystick_DIY.html). 
 Construction does not require use of special tooling and can be done by anyone. 
 You just need some time and passion to do it :)
 
