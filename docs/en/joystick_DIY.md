@@ -19,7 +19,9 @@ Technical documentation and firmware are available for purchase:
 <iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e73dd6a088a09dc43?mode=embed" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Building instructions
-Will be there soon!**
+Will be there soon!** 
+
+For now you can follow [**excellent Discord topic**](https://discord.com/channels/701699535424061480/1192729233437507614) where one of enthusiasts keep track of his real world experience with building it.**** 
 
 # BOM
 
