@@ -21,7 +21,7 @@ Technical documentation and firmware are available for purchase:
 # Building instructions
 **Will be there soon!** 
 
-For now you can follow [**excellent Discord topic**](https://discord.gg/jvdmCgNbqW) where one of enthusiasts keep track of his real world experience with building it.**** 
+For now you can follow [**excellent Discord topic**](https://discord.gg/jvdmCgNbqW) where one of enthusiasts keep track of his real world experience with building it. 
 
 # BOM
 
