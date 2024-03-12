@@ -9,6 +9,8 @@ nav_order: 1
 {:toc}
 
 ---
+<img src="../../assets/images/vkb_on_extender.jpg" width="360">
+<img src="../../assets/images/thrustmaster_on_extender.jpg" width="360">
 
 # Intro to FFBeast!
 
@@ -42,10 +44,6 @@ for flight simmers.
 > Is the way of connecting grip to the original controller. 
 > The cable will be routed from the extender outside of the box. 
 > You will need to have original controller standing close to the base and cable connected to it. 
-
-# Gallery
-<img src="../../assets/images/vkb_on_extender.jpg" width="360">
-<img src="../../assets/images/thrustmaster_on_extender.jpg" width="360">
 
 # Want one?
 
