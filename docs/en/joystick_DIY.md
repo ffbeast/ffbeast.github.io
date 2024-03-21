@@ -33,6 +33,11 @@ For now you can follow [**excellent Discord topic**](https://discord.gg/jvdmCgNb
 | [**Encoder**](hardware_encoder.html) (AMT10E or AMT102) | 2          | **AMT10E is highly recommended!** |
  | [**Motor**](hardware_motor.html)                        | 2          |                                   |
 
+## Alu extrusions
+| Part name | Length | Quantity | 
+|-----------|--------|----------|
+| 20x20     | 250    | 4        | 
+
 ## Sheet metal parts
 
 | Part name                              | Quantity | Material    | Comment                               |
