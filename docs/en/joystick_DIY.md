@@ -33,6 +33,7 @@ Prices for personal use:
  | [**Motor**](hardware_motor.html)                 | 2          |                                    |
 
 ## Alu extrusions
+
 | Part name | Length | Quantity | 
 |-----------|--------|----------|
 | 20x20     | 250    | 4        | 
@@ -141,9 +142,9 @@ Depending on it slight variation exists in BOM for those builds.
 | M3x12 (DIN 912 or ISO 7380) | 5(6)     | value in () is for 6 rays motor front face |  
 | M3x10 standoff              | 10(12)   | value in () is for 6 rays motor front face |
 
-### Stick connectors
+## Stick connectors
 
-here are two options available. Choose one for extender you will be using. 
+There are two options available. Choose one for extender you will be using. 
 Both parts need to be made from metal
 
 {: .important }
@@ -151,14 +152,14 @@ Both parts need to be made from metal
 > Them ask you for CAD fila and image with threads. 
 > Those files are available in CAD package.
 
-#### VKB adapter
+### VKB adapter
 <img src="../../assets/images/vkb_adapter.jpg" width="360">
 <img src="../../assets/images/vkb_adapter_1.jpg" width="360">
 
 It is intended to be used with standard VKB extender. You will need to purchase extender from official VKB 
 store if you do not have one. This part replaces lower part from original extender.  
 
-#### Thrustmaster style adapter
+### Thrustmaster style adapter
 <img src="../../assets/images/thrustmaster_adapter.jpg" width="360">
 <img src="../../assets/images/thrustmaster_adapter_1.jpg" width="360">
 
