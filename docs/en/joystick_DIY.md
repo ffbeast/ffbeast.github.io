@@ -10,28 +10,27 @@ nav_order: 1
 
 ---
 # Intro
-Technical documentation and firmware are available for purchase:
+Technical documentation for DIY build and firmware are available for purchase. For details contact me by <a href="mailto:ffbeast.devices@gmail.com"><b>email</b></a> or in [**Discord**](https://discordapp.com/users/606515769542443019).
 
-- DXF files ready for cutting - **25 Euro**
-- Firmware license for one device - **50 Euro**
+Prices for personal use:
+- DXF files ready for cutting  - **25 Euro.**
+- Firmware license for one device - **50 Euro.**
+
+{: .important }
+> If you plan to build and use it for other purposes then personal - contact me and we will find a solution! 
 
 # Project preview
 <iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e73dd6a088a09dc43?mode=embed" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-# Building instructions
-**Will be there soon!** 
-
-For now you can follow [**excellent Discord topic**](https://discord.gg/jvdmCgNbqW) where one of enthusiasts keep track of his real world experience with building it. 
 
 # BOM
 
 ## Electronics
 
-| Part name                                               | Quantity   | Comment                           |
-|---------------------------------------------------------|------------|-----------------------------------|
-| [**ODrive/ODESC**](hardware_controller.html)            | 1          | Dual axis version needed          |
-| [**Encoder**](hardware_encoder.html) (AMT10E or AMT102) | 2          | **AMT10E is highly recommended!** |
- | [**Motor**](hardware_motor.html)                        | 2          |                                   |
+| Part name                                        | Quantity   | Comment                            |
+|--------------------------------------------------|------------|------------------------------------|
+| [**ODrive/ODESC**](hardware_controller.html)     | 1          | Dual axis version needed           |
+| [**Encoder**](hardware_encoder.html) (AMT10E2)   | 2          | **AMT10E2 is highly recommended!** |
+ | [**Motor**](hardware_motor.html)                 | 2          |                                    |
 
 ## Alu extrusions
 | Part name | Length | Quantity | 
@@ -141,3 +140,32 @@ Depending on it slight variation exists in BOM for those builds.
 | M3x6 (DIN 912 or ISO 7380)  | 5(6)     | value in () is for 6 rays motor front face |      
 | M3x12 (DIN 912 or ISO 7380) | 5(6)     | value in () is for 6 rays motor front face |  
 | M3x10 standoff              | 10(12)   | value in () is for 6 rays motor front face |
+
+### Stick connectors
+
+here are two options available. Choose one for extender you will be using. 
+Both parts need to be made from metal
+
+{: .important }
+>If you do not have local shop that can produce such part, adapters could be ordered from [**JLCPCB CNC**](https://jlc3dp.com/cnc-machining-quote) service. 
+> Them ask you for CAD fila and image with threads. 
+> Those files are available in CAD package.
+
+#### VKB adapter
+<img src="../../assets/images/vkb_adapter.jpg" width="360">
+<img src="../../assets/images/vkb_adapter_1.jpg" width="360">
+
+It is intended to be used with standard VKB extender. You will need to purchase extender from official VKB 
+store if you do not have one. This part replaces lower part from original extender.  
+
+#### Thrustmaster style adapter
+<img src="../../assets/images/thrustmaster_adapter.jpg" width="360">
+<img src="../../assets/images/thrustmaster_adapter_1.jpg" width="360">
+
+This adapter has standard M36x2 thread and  is intended to be used with all kinds of extenders compatible with Thrustmaster(and VPC).
+
+# Building instructions
+**Will be there soon!**
+
+{: .important }
+> For now you can follow [**excellent Discord topic**](https://discord.gg/jvdmCgNbqW) where one of enthusiasts keep track of his real world experience with building it. 

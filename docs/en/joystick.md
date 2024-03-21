@@ -12,7 +12,7 @@ nav_order: 1
 <img src="../../assets/images/vkb_on_extender.jpg" width="360">
 <img src="../../assets/images/thrustmaster_on_extender.jpg" width="360">
 
-# Intro to FFBeast!
+# Intro to FFBeast! ([Discord](https://discord.gg/Gt6rnvrZKu))
 
 In developing this project, my goal was to create a device that bridges the gap between the world of simulation and reality,
 both in terms of a wide variety of supported effects and the ability to emulate forces as closely as real pilots
@@ -83,14 +83,11 @@ Depending on your needs and **for additional cost**, basic bundle could be exten
 ## Ready to preorder?
 
 {: .warning }
->Just [**fill the form**](https://forms.gle/nyH7mn7TG4byqH4g7), and I will contact you with provided email as soon as your preorder will be ready to go to production.
+>By [**fill the form**](https://forms.gle/nyH7mn7TG4byqH4g7) you will be signed up to the "Waitlist", and I will contact you with provided email as soon as your preorder will be ready to go to production.
 > 
 > **No payment required. You will get final invoice for payment when device will be ready for shipping!**
 
-## Still have a question?
-
-Join [**FFBeast Discord**](https://discord.gg/Gt6rnvrZKu) to ask any questions about the project, become part of the community and to get the latest news.  
-
+## PSU options
 
 
 
