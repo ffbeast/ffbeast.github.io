@@ -12,10 +12,6 @@ nav_order: 1
 # Intro
 Technical documentation for DIY build and firmware are available for purchase. For details contact me by <a href="mailto:ffbeast.devices@gmail.com"><b>email</b></a> or in [**Discord**](https://discordapp.com/users/606515769542443019).
 
-<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-<stripe-pricing-table pricing-table-id="prctbl_1OxSLhAUMJA5adUcwf9XqC0I"
-publishable-key="pk_live_51N3FsMAUMJA5adUcbQwaE8tIDLRbB2bW94T4SqdYEUYhwdWbFbXKoHiOzETl6WpBpZRtQtBqq701Ug5q8gA1CVn500WyNLoWsx">
-</stripe-pricing-table>
 
 {: .important }
 > If you plan to build and use it for other purposes then personal - contact me and we will find a solution! 
