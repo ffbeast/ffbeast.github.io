@@ -114,7 +114,7 @@ Depending on it slight variation exists in BOM for those builds.
 | M5x12 (DIN 7991 or ISO 10642)      | 4        |                                       |
 | M5 T-Nut                           | 24       | Standard nut for slotted alu profiles |
 | M4x10 (DIN 912 or ISO 7380)        | 44       |                                       |
-| M4 thin (ISO 4035)                 | 44       |                                       |
+| M4 (DIN 557 or DIN 934)            | 44       | Could interchange each other          |
 | M3x8 (DIN 912 or ISO 7380)         | 4        |                                       |
 | M3 (DIN 934)                       | 4        |                                       |
 
