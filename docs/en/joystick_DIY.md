@@ -162,6 +162,14 @@ store if you do not have one. This part replaces lower part from original extend
 
 This adapter has standard M36x2 thread and  is intended to be used with all kinds of extenders compatible with Thrustmaster(and VPC).
 
+# Wiring diagram
+[<img src="../../assets/images/dual_axis_wiring_diagram.jpg" width="720">](../../assets/images/dual_axis_wiring_diagram.jpg)
+
+{: .important }
+>Keep order of encoders and motors! 
+> 
+>Both axis need to be connected as on the picture! **Pitch** to **M1** and **Roll** to **M0**
+
 # Building instructions
 **Will be there soon!**
 
