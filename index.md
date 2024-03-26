@@ -28,6 +28,15 @@ to durability, precision and immersion.
 
 [<img src="assets/images/joystick_rotating.gif" width = "360">](docs/en/joystick.html)
 
+## [Simnautica rudder pedals](docs/en/joystick.html)
+
+Dream of rudder pedals with FFB? Consider the project from one of my partners - Simnautica.
+
+[<img src="assets/images/simnautica-rudder-1.jpg" width="360">](/assets/images/simnautica-rudder-1.jpg)
+[<img src="assets/images/simnautica-rudder-2.jpg" width="360">](/assets/images/simnautica-rudder-2.jpg)
+
+
+You can contact him directly by <a href="mailto:Info@simnautica.com"><b>email</b></a> or via [**instagram**](https://www.instagram.com/simnautica/) 
 
 ## [DIY Force Feedback Wheel](docs/en/wheel.html)
 
