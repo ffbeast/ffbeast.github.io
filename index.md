@@ -28,7 +28,7 @@ to durability, precision and immersion.
 
 [<img src="assets/images/joystick_rotating.gif" width = "360">](docs/en/joystick.html)
 
-## [Simnautica rudder pedals](docs/en/joystick.html)
+## Simnautica rudder pedals
 
 Dream of rudder pedals with FFB? Consider the project from one of my partners - **Simnautica**.
 
