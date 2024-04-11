@@ -179,8 +179,13 @@ This adapter has standard M36x2 thread and  is intended to be used with all kind
 > 
 >Both axis need to be connected as on the picture! **Pitch** to **M1** and **Roll** to **M0**
 
+# Software
+
+Check [**download**](downloads.md) section, [**firmware flashing**](software_firmware_flashing.html) section,
+and how to use [**settings app**](software_hardware_settings_ui.html).
+
 # Building instructions
 **Will be there soon!**
 
 {: .important }
-> For now you can follow [**excellent Discord topic**](https://discord.gg/jvdmCgNbqW) where one of enthusiasts keep track of his real world experience with building it. 
+> For now you can follow [**excellent Discord topic**](https://discord.gg/3pc2Zuf7DW) where one of enthusiasts keep track of his real world experience with building it. 
