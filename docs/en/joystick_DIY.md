@@ -1,8 +1,7 @@
 ---
 layout: default
-title: DIY
-parent: FFB flight controls
-nav_order: 1
+title: FFB flight controls DIY
+nav_order: 2
 ---
 
 - TOC

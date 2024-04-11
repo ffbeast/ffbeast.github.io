@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reference assembly
-parent: FFB wheel
+parent: FFB wheel DIY
 nav_order: 1
 ---
 

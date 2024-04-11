@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wiring controller
-parent: FFB wheel
+parent: FFB wheel DIY
 nav_order: 2
 ---
 

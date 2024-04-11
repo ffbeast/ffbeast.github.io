@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Donate
-parent: FFB wheel
+parent: FFB wheel DIY
 nav_order: 4
 ---
 
