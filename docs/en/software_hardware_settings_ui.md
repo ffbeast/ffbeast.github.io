@@ -26,6 +26,3 @@ After uploading firmware to ODrive hardware setup used for initial configuration
 
 ### Effects configuration
 [<img src="../../assets/images/step_5_en.jpg" width="720">](../../assets/images/step_5_en.jpg)
-
-# Detailed settings description 
-W.I.P
