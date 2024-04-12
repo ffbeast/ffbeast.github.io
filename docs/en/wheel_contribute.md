@@ -13,8 +13,13 @@ You will get single license in form of **Serial Key** for provided **Device ID**
 Extended functionality is not critical for building a wheel, it just gives possibility to change some extra non critical settings
 and connect additional buttons/axis directly to ODrive.
 
-<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-<stripe-pricing-table pricing-table-id="prctbl_1P4oh2AUMJA5adUc4vlj8FXA"
-publishable-key="pk_live_51N3FsMAUMJA5adUcbQwaE8tIDLRbB2bW94T4SqdYEUYhwdWbFbXKoHiOzETl6WpBpZRtQtBqq701Ug5q8gA1CVn500WyNLoWsx">
-</stripe-pricing-table>
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+buy-button-id="buy_btn_1P4ox3AUMJA5adUcFstvg88p"
+publishable-key="pk_live_51N3FsMAUMJA5adUcbQwaE8tIDLRbB2bW94T4SqdYEUYhwdWbFbXKoHiOzETl6WpBpZRtQtBqq701Ug5q8gA1CVn500WyNLoWsx"
+>
+</stripe-buy-button>
 
