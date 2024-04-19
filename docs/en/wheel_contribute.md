@@ -13,6 +13,10 @@ You will get single license in form of **Serial Key** for provided **Device ID**
 Extended functionality is not critical for building a wheel, it just gives possibility to change some extra non critical settings
 and connect additional buttons/axis directly to ODrive.
 
+{: .important }
+> **Check [**instruction where to get Device ID**](../../assets/images/deviceId.jpg) for firmware license!** 
+
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
