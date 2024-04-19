@@ -14,7 +14,7 @@ Extended functionality is not critical for building a wheel, it just gives possi
 and connect additional buttons/axis directly to ODrive.
 
 {: .important }
-> **Check [**instruction where to get Device ID**](../../assets/images/deviceId.jpg) for firmware license!** 
+> **Check [instruction where to get Device ID](../../assets/images/deviceId.jpg) for firmware license!** 
 
 
 <script async

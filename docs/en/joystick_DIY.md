@@ -17,7 +17,7 @@ Technical documentation for DIY build and firmware are available for purchase. F
 >**In case you do not receive it within 24 hours, please reach out to me via personal message!**
 
 {: .important }
-> **Check [**instruction where to get Device ID**](../../assets/images/deviceId.jpg) for firmware license!**
+> **Check [instruction where to get Device ID](../../assets/images/deviceId.jpg) for firmware license!**
 
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
 <stripe-pricing-table pricing-table-id="prctbl_1OxSLhAUMJA5adUcwf9XqC0I"
