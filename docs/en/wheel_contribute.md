@@ -14,6 +14,12 @@ Extended functionality is not critical for building a wheel, it just gives possi
 and connect additional buttons/axis directly to ODrive.
 
 {: .important }
+> **You will receive purchased package via email, sent to the address provided during checkout.**
+
+{: .important }
+>**In case you do not receive it within 24 hours, please reach out to me via personal message!**
+
+{: .important }
 > **Check [instruction where to get Device ID](../../assets/images/deviceId.jpg) for firmware license!** 
 
 
