@@ -15,7 +15,16 @@ If you find your questions unanswered, feel free to ask them in  [**Discord**](h
 
 ### Some example builds made by community members:
 
+
+{: .important }
+> Reference build
+
 [<img src="../../assets/images/showcase_06.jpg">](wheel_assembly.html)
+
+{: .important }
+> Video tutorials of the build. **Highly recommended for viewing!**
+
+<iframe width="360" height="280" src="https://www.youtube.com/embed/cmQI4-SUhBw?si=gt7WLJSqljnJ9Jnn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="360" height="280" src="https://www.youtube.com/embed/a1Q18tryYvI?si=zpRuj6Hbqu3WUTTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
