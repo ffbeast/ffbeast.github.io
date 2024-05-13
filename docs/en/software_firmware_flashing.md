@@ -92,6 +92,11 @@ Firmware fleshing process is pretty simple. Just use one of methods described ab
 [<img src="../../assets/images/flashing_00.jpg" width="360">](../../assets/images/flashing_00.jpg)
 [<img src="../../assets/images/flashing_01.jpg" width="360">](../../assets/images/flashing_01.jpg)
 
+{: .warning }
+>**Important!** Perform **Full Chip Erase** before uploading firmware on fresh device!
+> Further updates do not require erasing, but on new controller it is highly recommended.
+
+
 1. Select method (USB for DFU, ST-LINK for ST-LINK).
 2. Press "Refresh" button to see connected controller or ST-Link.
 3. Press "Connect"
