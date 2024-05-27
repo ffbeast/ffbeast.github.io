@@ -28,6 +28,7 @@ nav_order: 1
 This set is common for any variant of the build. 
 
 ## Common sheet metal
+
 | Part name                              | Quantity | Material    | Comment                               |
 |----------------------------------------|----------|-------------|---------------------------------------|
 | enclosure_back_side_panel              | 1        | alu - 3mm   |                                       |
@@ -49,11 +50,13 @@ This set is common for any variant of the build.
 | round_bearing_block                    | 4        | steel - 2mm | alu will be ok as well                |
 
 ## Bearings
+
 | Part name    | Quantity | Comment                        |
 |--------------|----------|--------------------------------|
 | 608 (8x22x7) | 9        | RS and ZZ version will be ok   |
 
 ## Reducer
+
 | Part name          | Quantity| Comment                                                                                |
 |--------------------|---------|----------------------------------------------------------------------------------------|
 | HTD5M 60T pulley   | 2       | Must be exactly 20mm width and 8mm bore                                                |
@@ -61,6 +64,7 @@ This set is common for any variant of the build.
 | HTD5M-425 belt     | 2       | 15-16mm width in case pulleys have flanges, up to 20mm if pulley have full width teeth |
 
 ## Common Screws/Nuts
+
 | Part name                          | Quantity | Comment                               |
 |------------------------------------|----------|---------------------------------------|
 | M8x30 tube coupling nut (ART.9290) | 2        |                                       |
@@ -99,12 +103,14 @@ Depending on it slight variation exists in BOM for those builds.
 ## Encoder internal mounting
 
 ### Sheet metal
+
 | Part name                      | Quantity | Material  | Comment                                               |
 |--------------------------------|----------|-----------|-------------------------------------------------------|
 | encoder_internal_drill_pattern | 1        | any       | **Optional** to help drill motor for encoder mounting |
 | encoder_internal_plate         | 2        | alu - 3mm |                                                       |
 
 ### Screws/Nuts
+
 | Part name                   | Quantity | Comment |
 |-----------------------------|----------|---------|
 | M4x10 (DIN 912 or ISO 7380) | 16       |         |
@@ -114,6 +120,7 @@ Depending on it slight variation exists in BOM for those builds.
 ## Encoder external mounting
 
 ### Sheet metal
+
 | Part name                       | Quantity | Material         | Comment                                               |
 |---------------------------------|----------|------------------|-------------------------------------------------------|
 | encoder_external_drill_pattern  | 1        | any              | **Optional** to help drill motor for encoder mounting |
@@ -121,12 +128,14 @@ Depending on it slight variation exists in BOM for those builds.
 | encoder_external_top_Xholes     | 2        | alu - 1mm        | X - depending on face of the motor: 5 or 6            |
 
 ### 3D prints
+
 | Part name                       | Quantity | Material         | Comment                                               |
 |---------------------------------|----------|------------------|-------------------------------------------------------|
 | drill_pattern_centering_gage_3D | 1        | 3D print plastic | **Optional** to help drill motor for encoder mounting |
 | encoder_enclosure_Xholes        | 2        | 3D print plastic | X - depending on face of the motor: 5 or 6            |
 
 ### Screws/Nuts
+
 | Part name                   | Quantity | Comment |
 |-----------------------------|----------|---------|
 | M4x10 (DIN 912 or ISO 7380) | 16       |         |
