@@ -18,8 +18,8 @@
   "RC": {
     "ui": {
       "release_year": 24,
-      "release_version": 0,
-      "release_patch": 0,
+      "release_version": 1,
+      "release_patch": 1,
       "whats_new": [
         "Common - changed setting applied immediately",
         "Common - additional axis inversion",
