@@ -16,7 +16,7 @@
     ]
   },
   "RC": {
-    "ui": {
+    "setup": {
       "release_year": 24,
       "release_version": 1,
       "release_patch": 1,
@@ -27,7 +27,14 @@
         "Common - single app instance",
         "Wheel - soft stop damper added",
         "Wheel - center offset setting for wheel swap",
-        "Joystick - hard and relaxed force clipping modes",
+        "Joystick - hard and relaxed force clipping modes"
+      ]
+    },
+    "commander": {
+      "release_year": 24,
+      "release_version": 1,
+      "release_patch": 1,
+      "whats_new": [
         "Joystick - dynamic range and center"
       ]
     }
