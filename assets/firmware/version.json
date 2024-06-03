@@ -19,7 +19,7 @@
     "setup": {
       "release_year": 24,
       "release_version": 1,
-      "release_patch": 1,
+      "release_patch": 0,
       "whats_new": [
         "Common - changed setting applied immediately",
         "Common - additional axis inversion",
@@ -33,7 +33,7 @@
     "commander": {
       "release_year": 24,
       "release_version": 1,
-      "release_patch": 1,
+      "release_patch": 0,
       "whats_new": [
         "Joystick - dynamic range and center"
       ]
