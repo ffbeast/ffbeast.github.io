@@ -3,16 +3,33 @@
     "version": 240120,
     "min_supported_fw": 240120,
     "whats_new": [
-		"All-in-one firmware for flight controls and wheel",
-		"All new hardware setup app",
-		"All new companion app for telemetry effect generation",
-		"Updated DCS telemetry script"
+      "All-in-one firmware for flight controls and wheel",
+      "All new hardware setup app",
+      "All new companion app for telemetry effect generation",
+      "Updated DCS telemetry script"
     ]
   },
   "fw": {
     "version": 240124,
     "whats_new": [
-		"Firmware fix of constant vibration in il-2 Shturmovik"
+      "Firmware fix of constant vibration in il-2 Shturmovik"
     ]
+  },
+  "RC": {
+    "ui": {
+      "release_year": 24,
+      "release_version": 0,
+      "release_patch": 0,
+      "whats_new": [
+        "Common - changed setting applied immediately",
+        "Common - additional axis inversion",
+        "Common - new button mode for safe boot",
+        "Common - single app instance",
+        "Wheel - soft stop damper added",
+        "Wheel - center offset setting for wheel swap",
+        "Joystick - hard and relaxed force clipping modes",
+        "Joystick - dynamic range and center"
+      ]
+    }
   }
 }
