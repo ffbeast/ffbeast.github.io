@@ -10,6 +10,9 @@ nav_order: 2
 
 ---
 # Intro
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2OWXP4v0cFY?si=AswVoGpU9D7czVV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Technical documentation for DIY build and firmware are available for purchase. For details contact me by <a href="mailto:ffbeast.devices@gmail.com"><b>email</b></a> or in [**Discord**](https://discordapp.com/users/606515769542443019).
 
 {: .important }
