@@ -134,14 +134,6 @@ Depending on it slight variation exists in BOM for those builds.
 | drill_pattern_centering_gage_3D | 1        | 3D print plastic | **Optional** to help drill motor for encoder mounting |
 | encoder_enclosure_Xholes        | 2        | 3D print plastic | X - depending on face of the motor: 5 or 6            |
 
-### Screws/Nuts
-
-| Part name                   | Quantity | Comment |
-|-----------------------------|----------|---------|
-| M4x10 (DIN 912 or ISO 7380) | 16       |         |
-| M4x30 standoff              | 8        |         |
-
-
 # Stick extension
 There are some options available. Choose one for extender you will be using. Those parts need to be made from metal.
 
