@@ -54,18 +54,24 @@ This boards have jumper on it. So process of booting in DFU mode will be followi
 - Install DFU jumper.
 - Connect external power - controller will boot in normal mode.
 
-### ODESC 4.2
+### ODESC 4.2 / MKS XDrive Mini
 <img src="../../assets/images/odesc_42_dfu.jpg" width="360">
 
 This boards do not have dedicated switch or jumper but have special button:
 
 - Connect board to PC via USB cable.
-- Connect external power. Controller will boot in normal mode.
+- Disconnect external power. 
 - Press and hold **BOOT** button.
-- Press **RESET** button - controller will reboot in DFU mode.
+- Connect external power - controller will reboot in DFU mode.
 - [Flash firmware](https://ffbeast.github.io/docs/en/software_firmware_flashing.html#flashing-process).
 - Press **RESET** button - controller will boot in normal mode.
- 
+
+{: .important }
+> **Important!**
+>
+> Option with pressing **RESET** button do not work! You need disconnect and connect power to boot in DFU!
+
+
 ## ST-LINK
 Unfortunately not all boards available on market have physical DFU mode switch. In case it is missing on your board
 you will need to use ST-LINK to flash firmware to the controller. This procedure requires an STLink/V2 or compatible programmer.
