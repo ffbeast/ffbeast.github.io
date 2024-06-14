@@ -25,7 +25,17 @@ Right after calibration device is ready to be used as the standard DirectX FFB d
 
 # Game setup
 
-Aa for today, there are only two games with native implementation of DirectX FFB, and allowing to use the device without additional software. **DCS** and **Il-2** series. In order to use the device with other games check [**FFBeast Commander**](joystick_manual_ffbeast_commander.html) manual page. 
+As for today, there are only two games with native implementation of DirectX FFB, and allowing to use the device without additional software. **DCS** and **Il-2** series. In order to use the device with other games check [**FFBeast Commander**](joystick_manual_ffbeast_commander.html) manual page. 
 
 ## DCS
+To start using FFB in DCS first of all you need to enable **Force Feedback** in **MISC** settings.  
+<img src="../../assets/images/manual/dcs_enable_ffb.jpg" width="720">
+
+Next, check special settings for each of owned module and enable any setting related to FFB. It could be individual settings ar type of trim etc. Enable them all.
+
+<img src="../../assets/images/manual/dcs_special_01.jpg" width="720">
+<img src="../../assets/images/manual/dcs_special_02.jpg" width="720">
+
+As the last assign axis of FFBeast to main control axis, assign trim buttons and you are ready to go! Start the mission and you device will become alive! 
+
 ## Il-2
