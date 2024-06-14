@@ -20,8 +20,12 @@ Right after calibration device is ready to be used as the standard DirectX FFB d
 
 {: .warning }
 > **IMPORTANT!**
+> 
 > Keep stick centered and hold it slightly with your hand when activating effect. As with some settings and effects it could start moving quickly! 
 
 # Game setup
+
+Aa for today, there are only two games with native implementation of DirectX FFB, and allowing to use the device without additional software. **DCS** and **Il-2** series. In order to use the device with other games check [**FFBeast Commander**](joystick_manual_ffbeast_commander.html) manual page. 
+
 ## DCS
 ## Il-2
