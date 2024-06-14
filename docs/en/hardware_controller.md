@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Controllers
-parent: Hardware components
+parent: Common hardware
 nav_order: 1
 ---
 

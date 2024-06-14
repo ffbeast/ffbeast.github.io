@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Encoders
-parent: Hardware components
+parent: Common hardware
 nav_order: 3
 ---
 

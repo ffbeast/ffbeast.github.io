@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hardware components
+title: Common hardware
 has_children: true
 nav_order: 4
 ---
