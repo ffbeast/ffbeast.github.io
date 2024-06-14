@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FFB flight controls
+title: Flight Controls Bundle
 has_children: true
 nav_order: 1
 ---

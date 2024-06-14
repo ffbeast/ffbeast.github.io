@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FFB flight controls DIY
+title: Flight Controls DIY
 has_children: true
 nav_order: 2
 ---

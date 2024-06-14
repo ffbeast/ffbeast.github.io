@@ -2,7 +2,7 @@
 layout: default
 title: FFB wheel DIY
 has_children: true
-nav_order: 3
+nav_order: 4
 ---
 
 This project is all about building **DIY Direct Drive FFB Wheel** based on **ODrive/ODESC** controller boards and **BLDC** motors.

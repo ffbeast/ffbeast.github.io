@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: FFB flight controls DIY
+parent: Flight Controls DIY
 title: BOM
 nav_order: 1
 ---
