@@ -17,18 +17,18 @@ and the same time some parameters are critical for us.
 
 ## Important
 
-**Rated current/Peak current in Amps** - Show us how much current motor consumes and could indicate which current 
+**Rated current/Peak current in Amps** - Shows us how much current motor consumes and could indicate which current 
 we need to expect from PSU. This parameter in combination wit **kV** could be used for torque capabilities.
 
 **Rated torque/Peak torque in Nm** - Usually corresponds to previous parameter as it directly proportional to it.
 The higher this value the stronger will be final device. 
 
-**kV** - It say how many RPM motor spin if 1 volt applied to the motor.
+**kV** - It shows how many RPM motor spin if 1 volt applied to the motor.
 In addition it allow us to estimate or cross check motor torque by using the formula **60 / (2 * Pi * kV) * Amps = Torque**. 
 
 ## Could be ignored
 
-**Rated/Nominal voltage in V** - Do not care. As it do not affect motor in FFB use. 
+**Rated/Nominal voltage in V** - Do not care. It is nominal value and it does not affect motor in FFB use. 
 
 **Rated/Nominal power in W** - Do not tell us much because it is nominal on nominal RPM, but we use motor in specific so called "stall mode". So ignore it.
 
