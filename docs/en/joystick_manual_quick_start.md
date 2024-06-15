@@ -36,6 +36,7 @@ Next, check special settings for each of owned module and enable any setting rel
 <img src="../../assets/images/manual/dcs_special_01.jpg" width="720">
 <img src="../../assets/images/manual/dcs_special_02.jpg" width="720">
 
-As the last assign axis of FFBeast to main control axis, assign trim buttons and you are ready to go! Start the mission and you device will become alive! 
+As the last assign axis of FFBeast to main control axis, assign trim buttons and you are ready to go! Start the mission and you device will become alive! Most of modules have Ok-ish native FFB implementation and you do not need additional software to enjoy them.  
 
 ## Il-2
+Coming soon
