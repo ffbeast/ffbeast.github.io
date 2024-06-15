@@ -29,7 +29,7 @@ It is part of the UI which outputs some helpful information
 ## Profiles
 Profile section allows to save effect profiles and then autoload them when game and flight module detected or select them manually.
 
-In order to create a profile which can be automatically selected when flight module is detected you need:
+In order to create a profile which can be automatically selected when flight module is detected:
 - Select game from dropdown list.
 - Input flight module name (just copy paste it from **Flight module** field when mission is running)
 - Save profile.
@@ -57,7 +57,7 @@ To start telemetry emulation just switch **Enable telemetry data override** chec
 {: .important }
 > **Important!**
 >
-> Only common telemetry data is output there and can be emulated. Game and module specific data is not available there!
+> Only common telemetry data is output there and can be emulated. Game/module specific data is not available for emulating!
 
 
 # Game support 
