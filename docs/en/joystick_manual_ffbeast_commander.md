@@ -34,17 +34,31 @@ In order to create a profile which can be automatically selected when flight mod
 - Input flight module name (just copy paste it from **Flight module** field when mission is running)
 - Save profile.
 
-Next time game will be running with that module and  **Enable automatic profile activation** is selected profile will be activated automatically
+Next time game will be running with that module and  **Enable automatic profile activation** checkbox is selected - profile will be activated automatically.
 
 {: .important }
 > **Important!**
 > 
 > Profile with same game selected, same flight module and same profile comment **will be overwritten**.
 > Alternating profile comment you can make several profiles for single flight module. 
-> **First profile in list will be automatically selected when module detected.**
+> 
+> **First profile in list matching criteria will be automatically selected when module detected.**
 
 ## Effects
-## Telemetry override
+
+## Telemetry
+This section has dual functionality. 
+
+- Output generic telemetry data received by software. 
+- Emulate telemetry data for effect testing purpose.
+
+To start telemetry emulation just switch **Enable telemetry data override** checkbox and move sliders to desired values. 
+
+{: .important }
+> **Important!**
+>
+> Only common telemetry data is output there and can be emulated. Game and module specific data is not available there!
+
 
 # Game support 
 ## DCS
