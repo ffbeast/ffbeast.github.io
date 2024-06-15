@@ -36,6 +36,12 @@ In order to create a profile which can be automatically selected when flight mod
 
 Next time game will be running with that module and  **Enable automatic profile activation** is selected profile will be activated automatically
 
+{: .important }
+> Profile with same game selected, same flight module and same profile comment will be overwritten.
+> 
+> Alternating profile comment you can make several profiles for single flight module. 
+> First profile in list will be automatically selected when module detected.
+
 ## Effects
 ## Telemetry override
 
