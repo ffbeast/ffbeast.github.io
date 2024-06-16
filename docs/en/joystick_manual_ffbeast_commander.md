@@ -39,12 +39,10 @@ Next time game will be running with that module and  **Enable automatic profile 
 {: .important }
 > **Important!**
 > 
-> Profile with same game selected, same flight module and same profile comment **will be overwritten**.
-> Alternating profile comment you can make several profiles for single flight module. 
+> Profile with same game selected, same flight module and same profile comment **will be overwritten** when saved.
+> you can make several profiles for single flight module by alternating profile comment. 
 > 
 > **First profile in list matching criteria will be automatically selected when module detected.**
-
-## Effects
 
 ## Telemetry
 This section has dual functionality. 
@@ -58,6 +56,8 @@ To start telemetry emulation just switch **Enable telemetry data override** chec
 > **Important!**
 >
 > Only common telemetry data is output there and can be emulated. Game/module specific data is not available for emulating!
+
+## Effects
 
 
 # Game support 
