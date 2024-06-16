@@ -95,13 +95,27 @@ Add this effect to enable native FFB effects provided by the game (if any). You 
 
 - **Spring effect strength** - strength of centering effects
 - **Periodic effects strength** - strength of all kinds of shakers and vibrations
-- **Trimmer effect strength** - strength of trimmer.
+- **Trimmer effect strength** - strength of trim effect.
 
 {: .important }
 > **Hint!**
 > 
 > By setting spring to 0 and trimmer effect to 100 you can replace DirectX centering effects with custom centering 
 > same time keeping trim effects natively provided by the game. 
+
+### Simple spring
+
+Does what it say. Just simple linear spring dependant on stick deflection
+
+### Natural airflow spring
+
+The main effect for all prop airplanes as it models variable stick load depending on speed of airplane and prop airflow.
+
+### Elevator weight
+
+### All kinds of shakers
+
+### Smart dampers
 
 # Game support 
 ## DCS
