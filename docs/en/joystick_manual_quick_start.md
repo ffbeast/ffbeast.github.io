@@ -2,7 +2,7 @@
 layout: default
 parent: Flight Controls Manuals
 title: Quick Start
-nav_order: 2
+nav_order: 1
 ---
 
 - TOC
@@ -12,7 +12,7 @@ nav_order: 2
 # Physical connection
 
 Assuming you have got device as PNP bundle or device is already activated and properly setup 
-according to [**hardware setup guide**](joystick_maunal_hardware_setup.html) in case of DIY.
+according to [**hardware setup guide**](joystick_DIY_hardware_setup.html) in case of DIY.
 
 Not much to say there. Just plug USB cable, connect power, and play. 
 Right after calibration device is ready to be used as the standard DirectX FFB device.

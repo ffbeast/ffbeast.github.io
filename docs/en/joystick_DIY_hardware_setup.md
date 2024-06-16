@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Hardware setup
-parent: Flight Controls Manuals
-nav_order: 1
+parent: Flight Controls DIY
+nav_order: 2
 ---
 
 - TOC
