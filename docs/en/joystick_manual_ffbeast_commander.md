@@ -61,14 +61,13 @@ To start telemetry emulation just switch **Enable telemetry data override** chec
 Effect editor allows to assign effects to individual axes. Only effects present in the list are active.
 So each axis could have different set of effects and not cluttered with those that are not used for specific axis.
 
-### Common effect concepts
 {: .warning }
-> By default when **FFBeast Commander** is running it overrides default effects set in hardware. 
-> So **DirectX** effects and **Dampers** will not be active unless effect is not added to active effects list! 
+> By default when **FFBeast Commander** is running it overrides default effects set in hardware.
+> So **DirectX** effects and **Dampers** will not be active unless effect is not added to active effects list!
 
-All effects have **Total effect strength** parameter to control overall effect strength 
-without need to adjust multiple parameters.
-Can be used for quick enable/disable effect without need to delete it from the active effects list.  
+{: .important }
+> All effects have **Total effect strength** parameter to control overall effect strength without need to adjust multiple parameters.
+> Can be used for quick enable/disable effect without need to delete it from the active effects list.  
 
 ### Min - Max - Exponent concept
 All effects depending on some variable parameter have concept of **Min-Max-Exponent** parametric curve.
