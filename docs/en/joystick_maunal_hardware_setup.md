@@ -10,8 +10,6 @@ nav_order: 1
 
 ---
 
-# Quick Start
-
 After uploading firmware to ODrive hardware setup used for initial configuration. 
 
 ### Device activation
