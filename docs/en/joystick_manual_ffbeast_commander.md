@@ -111,6 +111,13 @@ Does what it say. Just simple linear spring dependant on stick deflection
 
 The main effect for all prop airplanes as it models variable stick load depending on speed of airplane and prop airflow.
 
+<img src="../../assets/images/manual/airflow_spring_settings.jpg">
+
+- **Speed force effect** - reaction of force on speed change. With rise of speed force increases with square law.
+ <img src="../../assets/images/manual/speed_effect.jpg">
+- **Thrust force effect** - reaction of force on prop airflow. With increase of thrust force increases linearly.
+- 
+
 ### Elevator weight
 
 ### All kinds of shakers
