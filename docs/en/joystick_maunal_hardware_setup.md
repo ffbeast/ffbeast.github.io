@@ -1,8 +1,8 @@
 ---
 layout: default
-title: FFBeast Settings UI
-parent: Software/Firmware
-nav_order: 2
+title: Hardware setup
+parent: Flight Controls Manuals
+nav_order: 1
 ---
 
 - TOC

@@ -2,7 +2,7 @@
 layout: default
 parent: Flight Controls Manuals
 title: FFBeast Commander
-nav_order: 2
+nav_order: 3
 ---
 
 - TOC
