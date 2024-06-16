@@ -57,8 +57,34 @@ To start telemetry emulation just switch **Enable telemetry data override** chec
 >
 > Only common telemetry data is output there and can be emulated. Game/module specific data is not available for emulating!
 
-## Effects
+## Effects editor
+Effect editor allows to assign effects to individual axes. Only effects present in the list are active.
+So each axis could have different set of effects and not cluttered with those that are not used for specific axis.
 
+### Common effect concepts
+All effects have **Total effect strength** parameter to control overall effect strength 
+without need to adjust multiple parameters.
+Can be used for quick enable/disable effect without need to delete it from the active effects list.  
+
+### Min - Max - Exponent concept
+All effects depending on some variable parameter have concept of **min - max - exponent** parametric curve.
+
+<img src="../../assets/images/manual/min_max_exponent_curve.jpg" width="720">
+
+For example lets take random shaking effect and analise its settings.
+
+<img src="../../assets/images/manual/min_max_exponent_setting.jpg">
+
+You should read it as following:
+ - Before speed **60** strength of shaking is **0** 
+ - Starting from speed **60** to speed **200** strength of shaking rises linearly(exponent is **0**) to its maximum strength
+ - After speed **200** strength of shaking is fixed to maximum value
+ - Before speed **60** frequency of shaking is **7Hz**
+ - Starting from speed **60** to speed **200** frequency of shaking rises quickly(exponent is **-15**) to **12Hz**
+ - After speed **200** frequency is fixed to **12Hz**
+
+{: .important }
+> Whenever you see in settings of effect those combination of **Min-Max-Exponent** parameters you can apply the principle described there for understanding it. 
 
 # Game support 
 ## DCS
