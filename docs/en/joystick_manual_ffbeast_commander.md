@@ -89,6 +89,20 @@ You should read it as following:
 {: .important }
 > Whenever you see in settings of effect those combination of **Min-Max-Exponent** parameters you can apply the principle described there for understanding it. 
 
+### Standard FFB (DirectX)
+
+Add this effect to enable native FFB effects provided by the game (if any). You can control individual components for the effects.
+
+- **Spring effect strength** - strength of centering effects
+- **Periodic effects strength** - strength of all kinds of shakers and vibrations
+- **Trimmer effect strength** - strength of trimmer.
+
+{: .important }
+> **Hint!**
+> 
+> By setting spring to 0 and trimmer effect to 100 you can replace DirectX centering effects with custom centering 
+> same time keeping trim effects natively provided by the game. 
+
 # Game support 
 ## DCS
 ## Il-2
