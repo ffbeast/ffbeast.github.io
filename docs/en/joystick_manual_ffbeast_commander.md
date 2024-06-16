@@ -114,9 +114,15 @@ The main effect for all prop airplanes as it models variable stick load dependin
 <img src="../../assets/images/manual/airflow_spring_settings.jpg">
 
 - **Speed force effect** - reaction of force on speed change. With rise of speed force increases with square law.
- <img src="../../assets/images/manual/speed_effect.jpg">
+
+ <img src="../../assets/images/manual/speed_effect.jpg"  width="720">
+
 - **Thrust force effect** - reaction of force on prop airflow. With increase of thrust force increases linearly.
-- 
+- **Effect attenuation** - as with natural law forces rises quickly and could reach physical limit of the device
+at low speed, effect attenuation added. It allows to change force law starting from some speed to be not a parabola
+but smoothly reaching at **Attenuation end speed** the value x2 times higher than force at **Attenuation start speed**. 
+ 
+<img src="../../assets/images/manual/attenuation_curve.jpg" width="720">
 
 ### Elevator weight
 
