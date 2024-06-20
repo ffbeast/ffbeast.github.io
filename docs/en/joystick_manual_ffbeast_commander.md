@@ -126,12 +126,21 @@ but smoothly reaching at **Attenuation end speed** the value x2 times higher tha
 
 ### Elevator weight
 
+Emulates elevator weight. Both stationary and dynamically with G force change.
+
 ### All kinds of shakers
+
+
 
 ### Smart dampers
 
 # Game support 
 ## DCS
+Archive contains folder named **"DCS"**. Copy contained in it **"Scripts"** folder to **"Saved Games/DCS<version>"**.
+Restart DCS. Now **FFBeast Commander** will see telemetry from DCS when mission starts
+
+[<img src="../../assets/images/manual/dcs_script.jpg" width="720">](../../assets/images/manual/dcs_script.jpg)
+
 ## Il-2
 ## MSFS
 ## Condor 2
