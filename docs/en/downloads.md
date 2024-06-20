@@ -7,7 +7,7 @@ nav_order: 5
 ## Before download
 
  Check corresponding chapters about [**firmware flashing**](software_firmware_flashing.html) 
- and how to use [**settings app**](software_hardware_settings_ui.html)  
+ and how to use [**settings app**](joystick_DIY_hardware_setup.html)  
 ## Helpful programs 
 - [**JoystickTest**](../../assets/firmware/JoystickTest.exe)
 - [**VkbJoyTester**](../../assets/firmware/VKB_JoyTester.exe)

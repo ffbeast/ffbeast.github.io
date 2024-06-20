@@ -45,7 +45,7 @@ publishable-key="pk_live_51N3FsMAUMJA5adUcbQwaE8tIDLRbB2bW94T4SqdYEUYhwdWbFbXKoH
 # Software
 
 Check [**download**](downloads.md) section, [**firmware flashing**](software_firmware_flashing.html) section,
-and how to use [**settings app**](software_hardware_settings_ui.html).
+and how to use [**settings app**](joystick_DIY_hardware_setup.html).
 
 # Building instructions
 **Will be there soon!**
