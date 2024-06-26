@@ -18,8 +18,35 @@ nav_order: 5
 <table> 
 <thead> 
   <tr> 
-   <th><a href="/assets/firmware/ffbeast-software-240120.zip"><strong>FFBeast software v.240120</strong></a></th> 
+   <th><a href="/assets/firmware/ffbeast-software-240626.zip"><strong>FFBeast software v.240626</strong></a></th> 
    <th><a href="/assets/firmware/ffbeast-firmware-240124.zip"><strong>FFBeast firmware v.240124</strong></a></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td>
+    <ul> 
+     <li>Simple spring customizable with curve.</li> 
+     <li>GForce spring customizable with curve.</li> 
+     <li>AoA spring customizable with curve.</li> 
+    </ul>  
+   </td>
+   <td>
+     <ul> 
+      <li>Firmware fix of infinite kicks in il-2 Shturmovik when stick is deflected.</li> 
+     </ul>
+   </td> 
+  </tr> 
+ </tbody> 
+</table>
+
+
+## Previous versions
+
+<table> 
+<thead> 
+  <tr> 
+   <th><a href="/assets/firmware/ffbeast-software-240120.zip"><strong>FFBeast software v.240120</strong></a></th>
   </tr> 
  </thead> 
  <tbody> 
@@ -32,11 +59,6 @@ nav_order: 5
      <li>Updated DCS telemetry script.</li> 
     </ul>  
    </td>
-   <td>
-     <ul> 
-      <li>Firmware fix of infinite kicks in il-2 Shturmovik when stick is deflected.</li> 
-     </ul>
-   </td> 
   </tr> 
  </tbody> 
 </table>

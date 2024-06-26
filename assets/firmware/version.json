@@ -1,12 +1,11 @@
 {
   "commander": {
-    "version": 240120,
+    "version": 240626,
     "min_supported_fw": 240120,
     "whats_new": [
-      "All-in-one firmware for flight controls and wheel",
-      "All new hardware setup app",
-      "All new companion app for telemetry effect generation",
-      "Updated DCS telemetry script"
+      "Simple spring customizable with curve.",
+      "GForce spring customizable with curve.",
+      "AoA spring customizable with curve."
     ]
   },
   "fw": {
