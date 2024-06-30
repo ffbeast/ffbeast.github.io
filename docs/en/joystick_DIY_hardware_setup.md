@@ -2,7 +2,7 @@
 layout: default
 title: Hardware setup
 parent: Flight Controls DIY
-nav_order: 2
+nav_order: 3
 ---
 
 - TOC
