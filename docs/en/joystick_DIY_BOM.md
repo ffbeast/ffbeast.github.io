@@ -76,7 +76,7 @@ This set is common for any variant of the build.
 | M6x30 tube coupling nut (ART.9290) | 2        |                                       |
 | M6x20 tube coupling nut (ART.9290) | 2        |                                       |
 | M6x10 (ISO 7380)                   | 20       | Could be other head type              |
-| M6x16 (ISO 7380)                   | 4        | Could be other head type              |
+| M6x16 (ISO 7380)                   | 8        | Could be other head type              |
 | M6x35 (DIN 7991 or ISO 10642)      | 8        |                                       |
 | M6 (DIN 557 or DIN 934)            | 16       | Could interchange each other          |
 | M6 thin (ISO 4035)                 | 8        |                                       |
