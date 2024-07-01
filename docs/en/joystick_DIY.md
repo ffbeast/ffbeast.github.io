@@ -32,7 +32,7 @@ publishable-key="pk_live_51N3FsMAUMJA5adUcbQwaE8tIDLRbB2bW94T4SqdYEUYhwdWbFbXKoH
 > If you plan to build and use it for other purposes then personal - contact me and we will find a solution! 
 
 # Project preview
-<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH512d4QTec90decfa6e73dd6a088a09dc43?mode=embed" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://gmail2239807.autodesk360.com/shares/public/SH286ddQT78850c0d8a470e1dea5c14f5f6f?mode=embed" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Wiring diagram
 [<img src="../../assets/images/dual_axis_wiring_diagram.jpg" width="720">](../../assets/images/dual_axis_wiring_diagram.jpg)
