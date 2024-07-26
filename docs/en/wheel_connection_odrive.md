@@ -10,8 +10,8 @@ nav_order: 2
 
 ---
 
+## Warning!
 {: .warning }
->## Warning! 
 > **NEWER, EVER, TRUST WIRE COLOR CODING!**
 > 
 > Check name of the pin or wire coming from encoder and **ALWAYS** connect by the name, not by the color of the wire. 
