@@ -2,7 +2,7 @@
 layout: default
 title: Software/Firmware licenses
 parent: FFBeast Shop
-nav_order: 1
+nav_order: 2
 ---
 
 - TOC

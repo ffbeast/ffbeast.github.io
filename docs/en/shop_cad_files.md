@@ -2,7 +2,7 @@
 layout: default
 title: CAD files
 parent: FFBeast Shop
-nav_order: 1
+nav_order: 3
 ---
 
 - TOC
@@ -11,6 +11,7 @@ nav_order: 1
 ---
 
 ## Bundles comparison
+
 |                                | Format | DIY files bundle | CAD files bundle | 
 |--------------------------------|--------|------------------|------------------|
 | Metal cut parts                | DXF    | YES              | YES              | 
