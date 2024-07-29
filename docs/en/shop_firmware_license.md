@@ -5,8 +5,8 @@ parent: FFBeast Shop
 nav_order: 2
 ---
 
-- TOC
-  {:toc}
+- TOC 
+{:toc}
 
 ---
 

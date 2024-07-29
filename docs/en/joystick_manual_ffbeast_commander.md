@@ -145,3 +145,5 @@ Restart DCS. Now **FFBeast Commander** will see telemetry from DCS when mission 
 ## MSFS
 ## Condor 2
 ## War Thunder
+
+# Profile force scaling
