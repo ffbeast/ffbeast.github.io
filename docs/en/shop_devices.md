@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Devices
-parent: FFBeast Shop
+parent: FFBeast Shop1
 nav_order: 1
 ---
 
