@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Wheel firmware licenses
+title: Wheel Premium License
 parent: FFBeast Shop
 nav_order: 2
 ---
 
-# Wheel premium license
+# Wheel Premium License
 
 You can say your "thanks" there by buying premium license for DIY FFB Wheel firmware.
 It will let me know, that my work is important, and motivate me for further development!

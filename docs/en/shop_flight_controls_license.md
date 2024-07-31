@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Flight controls license
+title: Flight Controls License
 parent: FFBeast Shop
 nav_order: 1
 ---
 
-# Flight controls premium license
+# Flight Controls License
 
 You will get single serial key for provided device ID in order to activate firmware as any kind of flight controls device, either Joystick, Rudder or Collective.
 
