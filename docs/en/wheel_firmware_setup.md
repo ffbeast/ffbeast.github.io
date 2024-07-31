@@ -101,5 +101,5 @@ If during quick rotations left-right PSU keep working - it's done. If no - incre
 
 ## Enjoy!
 That's all. You've gone through all needed settings and your DIY Wheel is ready to go! 
-If you like the journey - feel free to [**donate on further project development**](wheel_contribute.md).
+If you like the journey - feel free to [**donate on further project development**](shop_wheel_license.md).
 Your thanks will be much appreciated :) 
