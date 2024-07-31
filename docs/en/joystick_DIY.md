@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Flight Controls DIY
-has_children: true
+title: DIY Intro
+parent: Flight Controls
 nav_order: 2
 ---
 

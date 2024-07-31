@@ -1,8 +1,8 @@
 ---
 layout: default
-parent: Flight Controls DIY
-title: BOM
-nav_order: 1
+parent: Flight Controls
+title: DIY BOM
+nav_order: 3
 ---
 
 - TOC

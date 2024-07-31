@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Assembly process
-parent: Flight Controls DIY
-nav_order: 2
+title: DIY Assembly process
+parent: Flight Controls
+nav_order: 4
 ---
 
 - TOC
