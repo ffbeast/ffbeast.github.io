@@ -25,7 +25,7 @@ nav_order: 2
 You can say your "thanks" there by buying premium license for DIY FFB Wheel firmware.
 It will let me know, that my work is important, and motivate me for further development!
 
-You will get single license in form of **Serial Key** for provided **Device ID**. The key will unlock extended functionality:
+You will get single serial key for provided device ID in order to activate firmware as Wheel with unlocked extended functionality:
 
 - Possibility to change some extra non critical settings.
 - Possibility to connect additional buttons/axis directly to ODrive.
@@ -41,11 +41,13 @@ publishable-key="pk_live_51N3FsMAUMJA5adUcbQwaE8tIDLRbB2bW94T4SqdYEUYhwdWbFbXKoH
 
 # Flight controls premium license
 
+You will get single serial key for provided device ID in order to activate firmware as any kind of flight controls device, either Joystick, Rudder or Collective.
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
 <stripe-buy-button
-buy-button-id="buy_btn_1Pia7hAUMJA5adUcZ86cVd3v"
+buy-button-id="buy_btn_1PiaRFAUMJA5adUcnrWNXyPX"
 publishable-key="pk_live_51N3FsMAUMJA5adUcbQwaE8tIDLRbB2bW94T4SqdYEUYhwdWbFbXKoHiOzETl6WpBpZRtQtBqq701Ug5q8gA1CVn500WyNLoWsx"
 ></stripe-buy-button>
