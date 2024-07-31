@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wheel Premium License 2
+title: Wheel Premium License
 parent: FFBeast Shop
 nav_order: 4
 ---
