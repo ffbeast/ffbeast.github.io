@@ -25,5 +25,5 @@ callouts:
   important:
     color: blue
 
-plugins:
+gems:
   - jekyll-redirect-from
