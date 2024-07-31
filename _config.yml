@@ -24,3 +24,6 @@ callouts:
     color: green
   important:
     color: blue
+
+plugins:
+  - jekyll-redirect-from
