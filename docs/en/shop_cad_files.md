@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAD files
+title: Flight Controls CAD files
 parent: FFBeast Shop
 nav_order: 3
 ---

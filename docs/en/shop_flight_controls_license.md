@@ -2,7 +2,7 @@
 layout: default
 title: Flight Controls License
 parent: FFBeast Shop
-nav_order: 1
+nav_order: 2
 ---
 
 # Flight Controls License
