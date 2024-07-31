@@ -118,3 +118,7 @@ Most of the process is close to roll axis assembly:
 [<img src="../../assets/images/assembly/gimbal_step_54.jpg" width="360">](../../assets/images/assembly/gimbal_step_54.jpg)
 [<img src="../../assets/images/assembly/gimbal_step_55.jpg" width="360">](../../assets/images/assembly/gimbal_step_55.jpg)
 [<img src="../../assets/images/assembly/gimbal_step_56.jpg" width="360">](../../assets/images/assembly/gimbal_step_56.jpg)
+
+# Other resources
+{: .important }
+> You can follow [**excellent Discord topic**](https://discord.gg/3pc2Zuf7DW) as well where one of enthusiasts keep track of his real world experience with building it. 

@@ -47,8 +47,3 @@ publishable-key="pk_live_51N3FsMAUMJA5adUcbQwaE8tIDLRbB2bW94T4SqdYEUYhwdWbFbXKoH
 Check [**download**](downloads.md) section, [**firmware flashing**](software_firmware_flashing.html) section,
 and how to use [**settings app**](joystick_DIY_hardware_setup.html).
 
-# Building instructions
-**Will be there soon!**
-
-{: .important }
-> For now you can follow [**excellent Discord topic**](https://discord.gg/3pc2Zuf7DW) where one of enthusiasts keep track of his real world experience with building it. 
