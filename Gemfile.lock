@@ -74,6 +74,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   just-the-docs (= 0.4.0)
+  jekyll-redirect-from (~> 0.16.0)
 
 BUNDLED WITH
    2.3.9
