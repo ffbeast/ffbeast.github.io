@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Wheel Premium License
+title: Wheel Premium License 2
 parent: FFBeast Shop
 nav_order: 4
-redirect_from:
-- /docs/en/wheel_contribute.html
 ---
 
 # Wheel Premium License
