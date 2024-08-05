@@ -142,8 +142,45 @@ Restart DCS. Now **FFBeast Commander** will see telemetry from DCS when mission 
 [<img src="../../assets/images/manual/dcs_script.jpg" width="720">](../../assets/images/manual/dcs_script.jpg)
 
 ## Il-2
+
+Locate your **Il2** install folder. Under the **data** folder there is **startup.cfg** file. 
+Open it in text editor and add (or edit  in case it is already present) the next block: 
+
+```
+[KEY = telemetrydevice]
+    addr = "127.0.0.1"
+    addr1 = "127.0.0.1:29777"
+    decimation = 2
+    enable = true
+    port = 29373
+[END]
+```
+
 ## MSFS
+
+No additional setup is needed. MSFS telemetry works out of the box.
+
 ## Condor 2
+
+Locate your **Condor2** install folder. Under the **Settings** folder there is **UDP.ini** file.
+Edit this file and change it's content as following:
+
+```
+[General]
+Enabled=1
+
+[Connection]
+Host=127.0.0.1
+Port=55278
+
+[Misc]
+SendIntervalMs=10
+ExtendedData=1
+ExtendedData1=1
+LogToFile=0
+```
+
 ## War Thunder
+No additional setup is needed. War Thunder telemetry works out of the box.
 
 # Profile force scaling
