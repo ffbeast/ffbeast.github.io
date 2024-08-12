@@ -5,6 +5,13 @@ parent: FFBeast Shop
 nav_order: 2
 ---
 
+{: .important }
+> **You will receive purchased package via email, sent to the address provided during checkout.**
+
+{: .important }
+>**Orders are fulfilled manually, so it could take up to 24 hours to get answer from me!**
+
+
 # Flight Controls License
 
 You will get single serial key for provided device ID in order to activate firmware as any kind of flight controls device, either Joystick, Rudder or Collective.

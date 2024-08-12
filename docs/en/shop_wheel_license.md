@@ -7,6 +7,12 @@ redirect_from:
  - /docs/en/wheel_contribute.html
 ---
 
+{: .important }
+> **You will receive purchased package via email, sent to the address provided during checkout.**
+
+{: .important }
+>**Orders are fulfilled manually, so it could take up to 24 hours to get answer from me!**
+> 
 # Wheel Premium License
 
 You can say your "thanks" there by buying premium license for DIY FFB Wheel firmware.
