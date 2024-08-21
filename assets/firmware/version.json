@@ -1,6 +1,6 @@
 {
   "commander": {
-    "version": 240719,
+    "version": 24719,
     "min_supported_fw": 240719,
     "whats_new": [
       "Commander:Curve editor improvements.",
