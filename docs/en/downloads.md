@@ -14,7 +14,42 @@ nav_order: 5
 - [**ForceTest**](../../assets/firmware/ForceTest.exe)
 
 ## Current version
-     
+
+<table> 
+<thead> 
+  <tr> 
+   <th><a href="/assets/firmware/ffbeast-software-240719.zip"><strong>FFBeast software v.240719</strong></a></th> 
+   <th><a href="/assets/firmware/ffbeast-firmware-240719.zip"><strong>FFBeast firmware v.240719</strong></a></th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td>
+    <ul> 
+     <li>compatible with v240124 firmware</li>
+     <li>Curve editor improvements</li> 
+     <li>Throttle/Collective device support</li> 
+     <li>AoA spring is now spring instead of constant force</li> 
+     <li>GForce spring is now spring instead of constant force</li> 
+    </ul>  
+   </td>
+   <td>
+     <ul> 
+      <li>Throttle/Collective device mode</li> 
+      <li>Hardware test mode for flight controls (No serial key required)</li> 
+      <li>Initial support for VKB FLNKR and VPC Alpha Prime R grips</li> 
+      <li>Calibration start angle bug fix</li>
+      <li>Reset center GPIO mode added</li>
+      <li>Analog GPIO setup improvements</li>
+      <li>Soft stop dampening added</li>
+     </ul>
+   </td> 
+  </tr> 
+ </tbody> 
+</table>
+
+## Previous versions
+
 <table> 
 <thead> 
   <tr> 
@@ -41,7 +76,7 @@ nav_order: 5
 </table>
 
 
-## Previous versions
+
 
 <table> 
 <thead> 

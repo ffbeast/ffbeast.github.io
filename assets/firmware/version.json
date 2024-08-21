@@ -1,17 +1,25 @@
 {
   "commander": {
-    "version": 240626,
-    "min_supported_fw": 240120,
+    "version": 240719,
+    "min_supported_fw": 240719,
     "whats_new": [
-      "Simple spring customizable with curve.",
-      "GForce spring customizable with curve.",
-      "AoA spring customizable with curve."
+      "Commander:Curve editor improvements.",
+      "Commander:AoA spring is now spring instead of constant force.",
+      "Commander:GForce spring is now spring instead of constant force.",
+      "Commander:Throttle/Collective device support.",
+      "FW:Throttle/Collective device mode.",
+      "FW:Initial support for VKB FLNKR and VPC Alpha Prime R grips.",
+      "FW:Hardware test mode for flight controls (No serial key required).",
+      "FW:Reset center GPIO mode added.",
+      "FW:Analog GPIO setup improvements.",
+      "FW:Soft stop dampening added."
     ]
   },
   "fw": {
-    "version": 240124,
+    "version": 240719,
     "whats_new": [
-      "Firmware fix of constant vibration in il-2 Shturmovik"
+      "Throttle/Collective device mode",
+      "Initial support for VKB FLNKR and VPC Alpha Prime R grips"
     ]
   },
   "RC": {
