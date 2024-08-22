@@ -47,7 +47,7 @@ nav_order: 5
      <ul> 
       <li>Throttle/Collective device mode</li> 
       <li>Hardware test mode for flight controls (No serial key required)</li> 
-      <li>Initial support for VKB FLNKR and VPC Alpha Prime R grips</li> 
+      <li>Initial support for VPC FLNKR and VPC Alpha Prime R grips</li> 
       <li>Calibration start angle bug fix</li>
       <li>Reset center GPIO mode added</li>
       <li>Analog GPIO setup improvements</li>

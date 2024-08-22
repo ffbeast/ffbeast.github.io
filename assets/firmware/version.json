@@ -8,7 +8,7 @@
       "Commander:GForce spring is now spring instead of constant force.",
       "Commander:Throttle/Collective device support.",
       "FW:Throttle/Collective device mode.",
-      "FW:Initial support for VKB FLNKR and VPC Alpha Prime R grips.",
+      "FW:Initial support for VPC FLNKR and VPC Alpha Prime R grips.",
       "FW:Hardware test mode for flight controls (No serial key required).",
       "FW:Reset center GPIO mode added.",
       "FW:Analog GPIO setup improvements.",
