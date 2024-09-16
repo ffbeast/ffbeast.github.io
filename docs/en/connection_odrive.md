@@ -92,9 +92,7 @@ So to make things easier for SPI purpose we need to use normal GPIO pins as stan
 >One of SPI extension modes must be selected and proper SPI GPIO pins assigned in configurator in order to activate functionality! 
 
 
-### Shift registers
-
-#### 3xCD4201
+### 3xCD4201
 
 This configuration is used in most of Thrustmaster wheel extensions. So use it when you want to connect TM wheel or have 
 DIY shift registers board from mentioned shift registers.
@@ -122,10 +120,42 @@ Recommended configuration on Buttons tab:
 > Remember to set **nCS** mode for corresponding pin you in configurator!    
 
 {: .warning }
-> [**Always keep in mind**](#warning)**!**
+> [**Always keep the disclaimer in mind**](#warning)**!**
 
 
-#### 3xSN74hc165
+### 3xSN74hc165
+
+There is support of extension board that you can purchase at Aliexpress.
+
+[<img src="../../assets/images/wiring/sn74HC165.jpg" width="360">](../../assets/images/wiring/sn74HC165.jpg)
+
+{: .important }
+>Marking on those boards is wrong! 
+> **OUT** side is for connecting other boards in chane. 
+> **IN** side is for connecting to microcontroller.  Connect **IN** side to the **ODrive**!
+
+Recommended connection:
+- Connect **GND** line of extension to **GND** on ODrive.
+- Connect **MISO** line of extension to **GPIO 4** on ODrive.
+- Connect **SCK** line of extension to **GPIO 3** on ODrive.
+- Connect **nCS** line of extension to **GPIO 5** on ODrive (See comment below).
+- Connect **5V** line of extension to **3.3V** on ODrive (Despite what is written on board it works better on 3.3V power).
+
+Recommended configuration on GPIO tab:
+- Set SPI extension mode to **3xSN74hc165**.
+- Set GPIO mode for **Pin 3** to **SCK**.
+- Set GPIO mode for **Pin 4** to **MISO**.
+- Set GPIO mode for **Pin 5** to **nCS** (See comment below).
+
+Recommended configuration on Buttons tab:
+- Set **Button mode** for all buttons in **Shift register** groups to **Normal**.
+
+{: .important }
+> Some boards do not have  Pin 5 exposed on board. In that case use **any free GPIO** pin for connecting **nCS** line.
+> Remember to set **nCS** mode for corresponding pin you in configurator!
+
+{: .warning }
+> [**Always keep the disclaimer in mind**](#warning)**!**
 
 
 ### Thrustmaster wheel extensions
