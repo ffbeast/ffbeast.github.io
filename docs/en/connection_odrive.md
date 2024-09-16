@@ -80,5 +80,56 @@ enough pins (ODESC, XDDRIVE MINI, XDRIVE-S do not have all gpio pins routed to c
 
 ## Connecting SPI extensions
 
+FFBeast firmware supports connecting additional SPI extensions.
+Unfortunately shift registers in most cases actively drive MISO line and interfere with driver initialization. 
+We can not connect it just to exposed on board SPI pins without proper tristate buffers. 
+So to make things easier for SPI purpose we need to use normal GPIO pins as standard nCS, SCK and MISO lines.    
+
+{: .important }
+>In ODrive/XDrive schematic only pins 3,4,and 5 do not have additional filtering so those lines are recommended for connecting SPI extensions.
+
+{: .important }
+>One of SPI extension modes must be selected and proper SPI GPIO pins assigned in configurator in order to activate functionality! 
+
+
 ### Shift registers
 
+#### 3xCD4201
+
+This configuration is used in most of Thrustmaster wheel extensions. So use it when you want to connect TM wheel or have 
+DIY shift registers board from mentioned shift registers.
+
+[<img src="../../assets/images/wiring/tm_wheel.jpg" width="360">](../../assets/images/wiring/tm_wheel.jpg)
+
+Recommended connection:
+- Connect **GND** line of extension to **GND** on ODrive.
+- Connect **MISO** line of extension to **GPIO 4** on ODrive.
+- Connect **SCK** line of extension to **GPIO 3** on ODrive.
+- Connect **nCS** line of extension to **GPIO 5** on ODrive (See comment below).
+- Connect **VCC** line of extension to **3.3V** on ODrive.
+
+Recommended configuration on GPIO tab:
+- Set SPI extension mode to **3xCD4201**.
+- Set GPIO mode for **Pin 3** to **SCK**.
+- Set GPIO mode for **Pin 4** to **MISO**.
+- Set GPIO mode for **Pin 5** to **nCS** (See comment below).
+
+Recommended configuration on Buttons tab:
+- Set **Button mode** for all buttons in **Shift register** groups to **Normal**.
+
+{: .important }
+> Some boards do not have  Pin 5 exposed on board. In that case use **any free GPIO** pin for connecting **nCS** line. 
+> Remember to set **nCS** mode for corresponding pin you in configurator!    
+
+{: .warning }
+> [**Always keep in mind**](#warning)**!**
+
+
+#### 3xSN74hc165
+
+
+### Thrustmaster wheel extensions
+
+### Thrustmaster grips
+
+### VPC grips
