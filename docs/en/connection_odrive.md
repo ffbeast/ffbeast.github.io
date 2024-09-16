@@ -125,7 +125,7 @@ DIY shift registers board from mentioned shift registers.
 
 ### 3xSN74hc165
 
-There is support of extension board that you can purchase at Aliexpress.
+There is support of extension board that you can purchase on Aliexpress.
 
 [<img src="../../assets/images/wiring/sn74HC165.jpg" width="360">](../../assets/images/wiring/sn74HC165.jpg)
 
@@ -159,4 +159,4 @@ There is support of extension board that you can purchase at Aliexpress.
 
 ### Thrustmaster grips
 
-### VPC grips
+### VPC grips (WIP)
