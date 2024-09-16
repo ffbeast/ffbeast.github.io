@@ -99,20 +99,20 @@ DIY shift registers board from mentioned shift registers.
 
 [<img src="../../assets/images/wiring/tm_wheel.jpg" width="360">](../../assets/images/wiring/tm_wheel.jpg)
 
-Recommended connection:
+**Recommended connection:**
 - Connect **GND** line of extension to **GND** on ODrive.
 - Connect **MISO** line of extension to **GPIO 4** on ODrive.
 - Connect **SCK** line of extension to **GPIO 3** on ODrive.
 - Connect **nCS** line of extension to **GPIO 5** on ODrive (See comment below).
 - Connect **VCC** line of extension to **3.3V** on ODrive.
 
-Recommended configuration on GPIO tab:
+**Recommended configuration on GPIO tab:**
 - Set SPI extension mode to **3xCD4201**.
 - Set GPIO mode for **Pin 3** to **SCK**.
 - Set GPIO mode for **Pin 4** to **MISO**.
 - Set GPIO mode for **Pin 5** to **nCS** (See comment below).
 
-Recommended configuration on Buttons tab:
+**Recommended configuration on Buttons tab:**
 - Set **Button mode** for all buttons in **Shift register** groups to **Normal**.
 
 {: .important }
@@ -134,20 +134,20 @@ There is support of extension board that you can purchase at Aliexpress.
 > **OUT** side is for connecting other boards in chain. 
 > **IN** side is for connecting to microcontroller.  Connect **IN** side to the **ODrive**!
 
-Recommended connection:
+**Recommended connection:**
 - Connect **GND** line of extension to **GND** on ODrive.
 - Connect **MISO** line of extension to **GPIO 4** on ODrive.
 - Connect **SCK** line of extension to **GPIO 3** on ODrive.
 - Connect **nCS** line of extension to **GPIO 5** on ODrive (See comment below).
-- Connect **5V** line of extension to **3.3V** on ODrive (Despite what is written on board it works better on 3.3V power).
+- Connect **5V** line of extension to **3.3V** on ODrive (_Despite what is written on board it works better with 3.3V power_).
 
-Recommended configuration on GPIO tab:
+**Recommended configuration on GPIO tab:**
 - Set SPI extension mode to **3xSN74hc165**.
 - Set GPIO mode for **Pin 3** to **SCK**.
 - Set GPIO mode for **Pin 4** to **MISO**.
 - Set GPIO mode for **Pin 5** to **nCS** (See comment below).
 
-Recommended configuration on Buttons tab:
+**Recommended configuration on Buttons tab:**
 - Set **Button mode** for all buttons in **Shift register** groups to **Normal**.
 
 {: .important }
@@ -156,9 +156,6 @@ Recommended configuration on Buttons tab:
 
 {: .warning }
 > [**Always keep the disclaimer in mind**](#warning)**!**
-
-
-### Thrustmaster wheel extensions
 
 ### Thrustmaster grips
 
