@@ -131,7 +131,7 @@ There is support of extension board that you can purchase at Aliexpress.
 
 {: .important }
 >Marking on those boards is wrong! 
-> **OUT** side is for connecting other boards in chane. 
+> **OUT** side is for connecting other boards in chain. 
 > **IN** side is for connecting to microcontroller.  Connect **IN** side to the **ODrive**!
 
 Recommended connection:
