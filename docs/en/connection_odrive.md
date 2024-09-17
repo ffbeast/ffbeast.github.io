@@ -159,4 +159,53 @@ There is support of extension board that you can purchase on Aliexpress.
 
 ### Thrustmaster grips
 
+Thrustmaster grip extensions are supported natively.
+
+**Connection diagram:**
+
+[<img src="../../assets/images/wiring/thrustmaster_cable.png" width="360">](../../assets/images/wiring/thrustmaster_cable.png)
+
+**Recommended connection:**
+- Connect **GND** line of extension to **GND** on ODrive.
+- Connect **MISO** line of extension to **GPIO 4** on ODrive.
+- Connect **SCK** line of extension to **GPIO 3** on ODrive.
+- Connect **nCS** line of extension to **GPIO 5** on ODrive (See comment below).
+- Connect **POWER** line of extension to **3.3V** or **5V** on ODrive (_TM grips work both from 3.3v and 5v power._).
+
+**Recommended configuration on GPIO tab:**
+- Set SPI extension mode to **Thrustmaster**.
+- Set GPIO mode for **Pin 3** to **SCK**.
+- Set GPIO mode for **Pin 4** to **MISO**.
+- Set GPIO mode for **Pin 5** to **nCS**.
+
+**Recommended configuration on Buttons tab:**
+- No additional configuration needed on button tab. All settings there are ignored when TM extension is selected
+
 ### VPC grips (WIP)
+
+VPC grips are in WIP stage so some functionality can be missing at the moment.
+**Connection diagram:**
+
+[<img src="../../assets/images/wiring/thrustmaster_cable.png" width="360">](../../assets/images/wiring/thrustmaster_cable.png)
+
+**Recommended connection:**
+- Connect **GND** line of extension to **GND** on ODrive.
+- Connect **MISO** line of extension to **GPIO 4** on ODrive.
+- Connect **SCK** line of extension to **GPIO 3** on ODrive.
+- Connect **nCS** line of extension to **GPIO 5** on ODrive (See comment below).
+- Connect **POWER** line of extension to **5V** on ODrive.
+
+{: .important }
+> VPC grips require **5V** power. They will not work from 3.3V power!
+
+{: .important }
+> VPC grips work stable if pins other than 3,4,5 are used for communication. Connect signal wires as recommended!
+
+**Recommended configuration on GPIO tab:**
+- Set SPI extension mode to one of **VPC** modes.
+- Set GPIO mode for **Pin 3** to **SCK**.
+- Set GPIO mode for **Pin 4** to **MISO**.
+- Set GPIO mode for **Pin 5** to **nCS**.
+
+**Recommended configuration on Buttons tab:**
+- No additional configuration needed on button tab. All settings there are ignored when VPC extension is selected
