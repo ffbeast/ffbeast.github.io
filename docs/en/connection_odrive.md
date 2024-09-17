@@ -196,7 +196,7 @@ VPC grips are in WIP stage so some functionality can be missing at the moment.
 - Connect **POWER** line of extension to **5V** on ODrive.
 
 {: .important }
-> VPC grips require **5V** power. They will not work from 3.3V power!
+> VPC grips **require 5V** and will not work from 3.3V!
 
 {: .important }
 > VPC grips work stable if pins other than 3,4,5 are used for communication. Connect signal wires as recommended!
