@@ -169,7 +169,7 @@ Thrustmaster grip extensions are supported natively.
 - Connect **GND** line of extension to **GND** on ODrive.
 - Connect **MISO** line of extension to **GPIO 4** on ODrive.
 - Connect **SCK** line of extension to **GPIO 3** on ODrive.
-- Connect **nCS** line of extension to **GPIO 5** on ODrive (See comment below).
+- Connect **nCS** line of extension to **GPIO 5** on ODrive.
 - Connect **POWER** line of extension to **3.3V** or **5V** on ODrive (_TM grips work both from 3.3v and 5v power._).
 
 **Recommended configuration on GPIO tab:**
@@ -192,7 +192,7 @@ VPC grips are in WIP stage so some functionality can be missing at the moment.
 - Connect **GND** line of extension to **GND** on ODrive.
 - Connect **MISO** line of extension to **GPIO 4** on ODrive.
 - Connect **SCK** line of extension to **GPIO 3** on ODrive.
-- Connect **nCS** line of extension to **GPIO 5** on ODrive (See comment below).
+- Connect **nCS** line of extension to **GPIO 5** on ODrive.
 - Connect **POWER** line of extension to **5V** on ODrive.
 
 {: .important }
