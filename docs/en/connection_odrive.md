@@ -199,7 +199,7 @@ VPC grips are in WIP stage so some functionality can be missing at the moment.
 > VPC grips **require 5V** and will not work from 3.3V!
 
 {: .important }
-> VPC grips work stable if pins other than 3,4,5 are used for communication. Connect signal wires as recommended!
+> VPC grips work stable if pins 3, 4, 5 are used for communication. **Connect signal wires as recommended!**
 
 **Recommended configuration on GPIO tab:**
 - Set SPI extension mode to one of **VPC** modes.
