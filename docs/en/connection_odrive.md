@@ -47,6 +47,10 @@ Schematic is identical. Exact location of specific pins vary depending on the ac
 
 [<img src="../../assets/images/dual_axis_wiring_diagram.jpg" width="720">](../../assets/images/dual_axis_wiring_diagram.jpg)
 
+{: .warning }
+>**Warning!**
+> 
+>SECURE ODESC board need modification to work correctly. [**See note there!**](hardware_controller.html#odesc-input-filtering-note)
 
 # Optional connections
 
