@@ -46,6 +46,21 @@ This is a remixed version of a well-known schematic,
 produced by trusted RC components manufacturers such as Flipsky and SEQURE.
 It features a slightly different alignment and includes a full-body heat sink for effective heat dissipation.
 
+#### ODESC Input filtering note
+
+{: .warning }
+>**Warning!** 
+> 
+> Version from SECURE have changes in schematic, that affect stability of encoder readings. 
+> There are additional filtering capacitors which affect form of input signal and encoder do not read correct values.
+> To fix it you need to unsolder capacitors marked on the image above!
+> 
+> <img src="../../assets/images/secure_odesc_capacitors_before.png" width="720">
+> 
+> With those capacitors removed encoders work as expected.
+
+
+
 ### Single axis ODESC 3.6/4.0
 <img src="../../assets/images/odesc_single.jpg" width="360">
 
