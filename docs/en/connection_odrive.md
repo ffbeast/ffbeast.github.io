@@ -96,7 +96,7 @@ So to make things easier for SPI purpose we need to use normal GPIO pins as stan
 >One of SPI extension modes must be selected and proper SPI GPIO pins assigned in configurator in order to activate functionality! 
 
 
-### 3xCD4201
+### 3xCD4021
 
 This configuration is used in most of Thrustmaster wheel extensions. So use it when you want to connect TM wheel or have 
 DIY shift registers board from mentioned shift registers.
