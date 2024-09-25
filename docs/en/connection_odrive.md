@@ -50,7 +50,7 @@ Schematic is identical. Exact location of specific pins vary depending on the ac
 {: .warning }
 >**Warning!**
 > 
->SECURE ODESC board need modification to work correctly. [**See note there!**](hardware_controller.html#odesc-input-filtering-note)
+>SECURE ODESC board need modification to work correctly. [**See note there!**](hardware_controller.html#note-on-odesc-input-filtering)
 
 # Optional connections
 

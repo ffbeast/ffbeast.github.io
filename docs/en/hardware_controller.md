@@ -46,7 +46,7 @@ This is a remixed version of a well-known schematic,
 produced by trusted RC components manufacturers such as Flipsky and SEQURE.
 It features a slightly different alignment and includes a full-body heat sink for effective heat dissipation.
 
-### ODESC Input filtering note
+### Note on ODESC Input filtering
 
 {: .warning }
 >**Warning!** 
