@@ -24,9 +24,11 @@ If you find your questions unanswered, feel free to ask them in  [**Discord**](h
 {: .important }
 > Video tutorials of the build. **Highly recommended for viewing!**
 
-<iframe width="360" height="280" src="https://www.youtube.com/embed/cmQI4-SUhBw?si=gt7WLJSqljnJ9Jnn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/5OEI5KC-7Pc?si=IIiCZRbhw6iY92u0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="360" height="280" src="https://www.youtube.com/embed/a1Q18tryYvI?si=zpRuj6Hbqu3WUTTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/cmQI4-SUhBw?si=gt7WLJSqljnJ9Jnn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="500" height="300" src="https://www.youtube.com/embed/a1Q18tryYvI?si=zpRuj6Hbqu3WUTTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [<img src="../../assets/images/showcase_05.jpg">](https://discord.com/channels/1043156600468287539/1043161800545423411/1186788522473037947)
 
