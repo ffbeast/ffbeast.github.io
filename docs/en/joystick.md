@@ -29,15 +29,15 @@ for flight simmers.
 
 # Specs
 
- - 35Nm peak torque. It allows to achieve 8+ kg force on full length stick.
+ - High peak torque. It allows to achieve high force on full length stick.
  - Full metal construction for maximum rigidity and durability.
  - Ball bearings an all moving joints.
- - Compatible with PSU from 12V to 24V.
+ - Compatible with variety of PSUs from 12V to 24V.
  - Compatible with DCS, MSFS, il-2, Warthunder, Condor2.
  - Other games support is on roadmap.
  - Compatible with Thrustmaster (Native support. No additional controllers needed).
+ - Compatible with Virpil (Native support. No additional controllers needed).
  - Compatible with VKB (**In form of "Path through"**).
- - Compatible with Virpil (**In form of "Path through"**).
 
 {: .important }
 > **"Path through"**
@@ -59,24 +59,25 @@ You just need some time and passion to do it :)
 In case you want to have ready made device I can build FFBeast base for you.   
 
 ### Basic version bundle
-It is the version for those who want to spend as low as possible to enter FFB world. 
-The price of basic version is **899 Euro + Shipping**. 
+It is the version for those who want to spend as low as possible to enter FFB world.  
+Base prices for FFBeast base in bare metal look (not painted):
+   - 20Nm version is **799 Euro + Shipping**.
+   - 35Nm version is **899 Euro + Shipping**.
+   - 45Nm+ version available on special request. 
 
-It includes:
- - FFBeast base in bare metal look(not painted).
+Base bundle includes:
+ - FFBeast base.
  - Single adapter of choice (either Thrustmaster style connector or adapter to VKB extender).
  - USB cable.
- - Power cable to connect PSU of your choice. 
+ - Adapter to connect 2 standard laptop PSU in parallel to achieve required Amp rating. . 
 
 {: .important }
->No PSU will be present in this bundle so you could use any PSU 12V-24V possible to deliver 15A and more.   
+>No PSU will be present in this bundle so you could use any PSU 12V-24V possible to deliver 13A and more.   
 
 ### Extended bundle
-Depending on your needs and **for additional cost**, basic bundle could be extended with different options:
-- Painted enclosure (Black).
-- Stick extenders.
-- Adapter to connect 2 standard laptop PSU in parallel to achieve required Amp rating. 
-- Compatible PSUs.
+Depending on your needs basic bundle could be extended with different options(for additional price):
+- Powder coated enclosure (Black) for **59 Euro**.
+- Adjustable stick extenders for **49 Euro**.
 - USB isolator.
 - Adaptation of physical dimensions and mounting accessories for your cockpit.
 - Anything not mentioned in the list :)
@@ -84,11 +85,9 @@ Depending on your needs and **for additional cost**, basic bundle could be exten
 ## Ready to preorder?
 
 {: .warning }
->By [**fill the form**](https://forms.gle/nyH7mn7TG4byqH4g7) you will be signed up to the "Waitlist", and I will contact you with provided email as soon as your preorder will be ready to go to production.
+>By [**filling the form**](https://forms.gle/nyH7mn7TG4byqH4g7) you will be signed up to the "Waitlist", and I will contact you with provided email as soon as your preorder will be ready to go to production.
 > 
 > **No payment required. You will get final invoice for payment when device will be ready for shipping!**
-
-## PSU options
 
 
 
