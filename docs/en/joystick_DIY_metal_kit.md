@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hardware setup
+title: DIY parts kits
 parent: Flight Controls
 nav_order: 3
 ---
@@ -10,7 +10,9 @@ nav_order: 3
 
 ---
 
-For those who do not want to bother with searching places where to order metal parts and source other parts separately I can propose a kit of metals. All parts are as they come from machining shop. You will need to deburr/sand them on your own if needed.
+For those who do not want to bother with searching places where to order metal parts and source other major parts separately I can propose a kits of them. 
+All parts are as they come from machining shop. 
+You will need to deburr/sand them on your own if needed.
 
 Kit will include only parts on photo. You will need to obtain screws/nuts and electronic on your own according to the BOM.
 
@@ -33,6 +35,7 @@ In addition to the basic set there is an option of purchasing adapter interface:
 
 ### Interface for VKB MCG grip (1)
 It is compatible with extender only and need to be mounted directly to MCG grip. Interface provides adjustable rotation angle 0-30 degrees.
+Intended to be used with [**extender**](joystick_DIY_metal_kit.html#adjustable-extender-kit).
 
 Made of stainless steel.
 
@@ -46,7 +49,7 @@ Machined from aluminium.
 Price is **29 Eur + Shipping**
 
 ### Thrustmaster/VPC style interface (3)
-Gives option to connect Thrustmaster style grips and extenders either to the gimbal or to the extender. 
+Gives option to connect Thrustmaster style grips and extenders either directly to the gimbal or to the [**extender**](joystick_DIY_metal_kit.html#adjustable-extender-kit). 
 
 Machined from aluminium.
 
@@ -56,9 +59,10 @@ Price is **29 Eur + Shipping**
 [<img src="../../assets/images/kit/extender.jpg" width="360">](../../assets/images/kit/extender.jpg)
 
 This kit allows to assembly adjustable extension that from bottom side will be connected to the gimbal,
-and on top part will have either [**VKB MCG adapter**](joystick_DIY_metal_kit.html#note-on-odesc-input-filtering) or [**Thrustmaster/VPC adapter**](joystick_DIY_metal_kit.html#note-on-odesc-input-filtering).
+and on top part will have either [**VKB MCG adapter**](joystick_DIY_metal_kit.html#interface-for-vkb-mcg-grip-1) or [**Thrustmaster/VPC adapter**](joystick_DIY_metal_kit.html#thrustmastervpc-style-interface-3).
 
 1) Alu profile. Need to be cut in half with proportion that suits your need in length and offset of extender.
+
 2) Brackets holding profiles together.
 
 Price is **49 Eur + Shipping**
