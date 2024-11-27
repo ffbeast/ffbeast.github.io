@@ -9,15 +9,16 @@ nav_order: 3
 {:toc}
 
 ---
-
 For those who do not want to bother with searching places where to order metal parts and source other major parts separately I can propose a kits of them. 
-All parts are as they come from machining shop. 
-You will need to deburr/sand them on your own if needed.
-
-Kit will include only parts on photo. You will need to obtain screws/nuts and electronic on your own according to the BOM.
 
 {: .important }
-> For availability of kits contact me directly via <a href="mailto:ffbeast.devices@gmail.com"><b>email</b></a>. 
+>All parts are as they come from machining shop. You will need to deburr/sand them on your own if needed.
+
+{: .important }
+>Kit will include only parts on photo. You will need to obtain screws/nuts and electronic on your own according to the BOM.
+
+{: .important }
+> For availability of kits contact me directly via <a href="mailto:ffbeast.devices@gmail.com"><b>e-mail</b></a>. 
 
 
 ## Base metal set
