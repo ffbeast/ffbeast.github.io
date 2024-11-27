@@ -16,6 +16,10 @@ You will need to deburr/sand them on your own if needed.
 
 Kit will include only parts on photo. You will need to obtain screws/nuts and electronic on your own according to the BOM.
 
+{: .important }
+> For availability of kits contact me directly via <a href="mailto:ffbeast.devices@gmail.com"><b>email</b></a>. 
+
+
 ## Base metal set
 [<img src="../../assets/images/kit/base_set.jpg" width="360">](../../assets/images/kit/base_set.jpg)
 
