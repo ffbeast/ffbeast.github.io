@@ -20,11 +20,11 @@ Kit will include only parts on photo. You will need to obtain screws/nuts and el
 [<img src="../../assets/images/kit/base_set.jpg" width="360">](../../assets/images/kit/base_set.jpg)
 
 It includes basic set of metal/prints to assembly the base:
-1) All needed bearings.
-2) Pulleys and belts.
-3) Gimbal parts.
-4) Enclosure parts.
-5) Covers for encoder for outside mounting.
+1. All needed bearings.
+2. Pulleys and belts.
+3. Gimbal parts.
+4. Enclosure parts.
+5. Covers for encoder for outside mounting.
 
 Price for basic set is **249 Eur + Shipping**.
 
@@ -61,8 +61,7 @@ Price is **29 Eur + Shipping**
 This kit allows to assembly adjustable extension that from bottom side will be connected to the gimbal,
 and on top part will have either [**VKB MCG adapter**](joystick_DIY_metal_kit.html#interface-for-vkb-mcg-grip-1) or [**Thrustmaster/VPC adapter**](joystick_DIY_metal_kit.html#thrustmastervpc-style-interface-3).
 
-1) Alu profile. Need to be cut in half with proportion that suits your need in length and offset of extender.
-
-2) Brackets holding profiles together.
+1. Alu profile. Need to be cut in half with proportion that suits your need in length and offset of extender.
+2. Brackets holding profiles together.
 
 Price is **49 Eur + Shipping**
