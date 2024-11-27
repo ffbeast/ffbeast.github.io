@@ -33,25 +33,19 @@ Price for basic set is **249 Eur + Shipping**.
 
 In addition to the basic set there is an option of purchasing adapter interface:
 
-### Interface for VKB MCG grip (1)
-It is compatible with extender only and need to be mounted directly to MCG grip. Interface provides adjustable rotation angle 0-30 degrees.
-Intended to be used with [**extender**](joystick_DIY_metal_kit.html#adjustable-extender-kit).
-
-Made of stainless steel.
+### Interface for VKB MCG grip
+3D printed of **stainless steel**. It is compatible with extender only and need to be mounted directly to MCG grip. Interface provides adjustable rotation angle 0-30 degrees.
+Intended to be used with **adjustable extender**. 
 
 Price is **49 Eur + Shipping**
 
-### VKB extended interface (2)
-Allows to use native VKB extender by replacing lower part of it and connecting it to the gimbal.
-
-Machined from aluminium.
+### VKB extended interface
+Machined of **aluminium**. Allows to use native VKB extender by replacing lower part of it and connecting it to the gimbal. 
 
 Price is **29 Eur + Shipping**
 
-### Thrustmaster/VPC style interface (3)
-Gives option to connect Thrustmaster style grips and extenders either directly to the gimbal or to the [**extender**](joystick_DIY_metal_kit.html#adjustable-extender-kit). 
-
-Machined from aluminium.
+### Thrustmaster/VPC style interface
+Machined of **aluminium**. Gives option to connect Thrustmaster style grips and extenders either directly to the gimbal or to the **adjustable extender**. 
 
 Price is **29 Eur + Shipping**
 
@@ -59,7 +53,7 @@ Price is **29 Eur + Shipping**
 [<img src="../../assets/images/kit/extender.jpg" width="360">](../../assets/images/kit/extender.jpg)
 
 This kit allows to assembly adjustable extension that from bottom side will be connected to the gimbal,
-and on top part will have either [**VKB MCG adapter**](joystick_DIY_metal_kit.html#interface-for-vkb-mcg-grip-1) or [**Thrustmaster/VPC adapter**](joystick_DIY_metal_kit.html#thrustmastervpc-style-interface-3).
+and on top part will have either **interface for VKB MCG grip** or **Thrustmaster/VPC style interface**.
 
 1. Alu profile. Need to be cut in half with proportion that suits your need in length and offset of extender.
 2. Brackets holding profiles together.
