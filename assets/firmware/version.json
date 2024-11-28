@@ -26,12 +26,12 @@
     "setup": {
       "release_year": 24,
       "release_version": 1,
-      "release_patch": 3
+      "release_patch": 0
     },
     "commander": {
       "release_year": 24,
       "release_version": 1,
-      "release_patch": 3
+      "release_patch": 0
     }
   }
 }
