@@ -26,24 +26,12 @@
     "setup": {
       "release_year": 24,
       "release_version": 1,
-      "release_patch": 3,
-      "whats_new": [
-        "Common - changed setting applied immediately",
-        "Common - additional axis inversion",
-        "Common - new button mode for safe boot",
-        "Common - single app instance",
-        "Wheel - soft stop damper added",
-        "Wheel - center offset setting for wheel swap",
-        "Joystick - hard and relaxed force clipping modes"
-      ]
+      "release_patch": 3
     },
     "commander": {
       "release_year": 24,
       "release_version": 1,
-      "release_patch": 3,
-      "whats_new": [
-        "Joystick - dynamic range and center"
-      ]
+      "release_patch": 3
     }
   }
 }
