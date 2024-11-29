@@ -34,7 +34,7 @@ It includes basic set of metal/prints to assembly the base:
 Price for basic set is **249 Eur + Shipping**.
 
 ## Connection interfaces
-[<img src="../../assets/images/kit/connection_interfaces.jpg" width="360">](../../assets/images/kit/base_set.jpg)
+[<img src="../../assets/images/kit/connection_interfaces.jpg" width="360">](../../assets/images/kit/connection_interfaces.jpg)
 
 In addition to the basic set there is an option of purchasing adapter interface:
 
