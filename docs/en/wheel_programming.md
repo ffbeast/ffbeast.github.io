@@ -15,7 +15,7 @@ All types and constants needed for communication are described in header file:
 
 ### Custom HID types and constants
 
-``` C
+```c
 #define USB_VID                             1115
 #define WHEEL_PID_FS                        22999
 
@@ -374,7 +374,7 @@ To obtain device connections with hidapi you can use next code snippet:
 
 ### Obtaining custom interface device handle
 
-```C
+```c
 hid_device * obtainDeviceConnection(){
     struct hid_device_info *devs, *cur_dev;
     const char *path_to_open = nullptr;
