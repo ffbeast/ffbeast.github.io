@@ -5,13 +5,17 @@ parent: FFB wheel DIY
 nav_order: 5
 ---
 
+- TOC
+  {:toc}
+
+---
+
 There is a possibility for custom USB communication with device.
 All types and constants needed for communication are described in header file:
 
-<details>
-  <summary>Custom HID types and constants</summary>
+### Custom HID types and constants
 
-  ``` C
+``` C
 #define USB_VID                             1115
 #define WHEEL_PID_FS                        22999
 
@@ -362,16 +366,13 @@ typedef struct __attribute__((packed)) {
 
 } DeviceStateTypeDef;
 
-  ```
-</details>
-
+```
 
 FFBeast wheel is a combined interface. Interface 0 is custom HID. Interface 1 is standard Joystick HID. All custom communication is done with interface 0.
 To obtain device connections with hidapi you can use next code snippet:
 
 
-<details>
-  <summary>Obtaining custom interface device handle</summary>
+### Obtaining custom interface device handle
 
 ```C
 hid_device * obtainDeviceConnection(){
@@ -398,12 +399,10 @@ hid_device * obtainDeviceConnection(){
     return handle;
 }
 ```
-</details>
 
 When device connection is established you can perform communication. Here are couple of examples.
 
-<details>
-  <summary>Read device state</summary>
+### Read device state
 
 Device state is constantly reported by device so it can be read just with hid read method.
 
@@ -416,10 +415,8 @@ DeviceStateTypeDef readState(DeviceStateTypeDef *state, hid_device *handle){
     return result;
 }
 ```
-</details>
 
-<details>
-  <summary>Read effect settings</summary>
+### Read effect settings
 
 Settings on other hand are read with get feature report. This principle can be applied to other reports:
 
@@ -437,10 +434,8 @@ EffectSettingsReportTypeDef readEffectSettings(){
     return effectSettingsReport;
 }
 ```
-</details>
 
-<details>
-  <summary>Reboot command</summary>
+### Reboot command
 
 Commands can be sent to device with norma hid write methods. Other commands supported:
 
@@ -457,10 +452,8 @@ void rebootControllerRequest(){
     hid_write(handle, (const unsigned char *) &genericReport, 65);
 }
 ```
-</details>
 
-<details>
-  <summary>Change setting</summary>
+### Change setting
 
 Same principle is applied to settings wrapped into uin8, uint16, int8, int16, float values.
 
@@ -479,10 +472,8 @@ void sendUInt8SettingReport(SettingsFieldEnum field, int8_t index, uint8_t data)
     hid_write(handle, (const unsigned char *) &genericReport, 65);
 }
 ```
-</details>
 
-<details>
-  <summary>Send direct control</summary>
+### Send direct control
 
 This approach can be used for buffer reports:
 
@@ -497,4 +488,3 @@ void sendUInt8SettingReport(DirectControlTypeDef control){
     memcpy(genericData->Buffer,&control,sizeof(DirectControlTypeDef));
     hid_write(handle, (const unsigned char *) &genericReport, 65);
 ```
-</details>
