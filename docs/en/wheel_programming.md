@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
