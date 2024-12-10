@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FFB wheel communication
-parent: FFB wheel DIY
+parent: FFBeast Wheel
 nav_order: 5
 ---
 

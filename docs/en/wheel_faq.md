@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-parent: FFB wheel DIY
+parent: FFBeast Wheel
 nav_order: 6
 ---
 

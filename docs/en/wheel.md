@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FFB wheel DIY
+title: FFBeast Wheel
 has_children: true
 nav_order: 4
 ---

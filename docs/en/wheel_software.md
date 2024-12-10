@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Software/Firmware
+title: Wheel Setup App
 parent: FFBeast Wheel
 nav_order: 3
 ---
