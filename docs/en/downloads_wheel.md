@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wheel
+title: Wheel apps
 parent: Downloads
 nav_order: 2
 ---
@@ -8,7 +8,7 @@ nav_order: 2
 ## Latest version
 
 ### Release candidate
-- [**RC.24.1.4.Full**](../../assets/firmware/wheel-RC.24.1.4.zip) (Software + Firmware)
+- [**RC.24.1.4.Full**](../../assets/firmware/wheel-RC.24.1.4.Full.zip) (Software + Firmware)
   - Starting from this version wheel software/firmware ecosystem is separate from flight controls. No need to switch firmware into **Wheel** mode. After firmware flashing device will be immediately recognized as **FFB Wheel device**.
   - New **Integrated spring** is added. It emulates centering forces in games without FFB.
   - **Reset center** button added for wheel centering from UI.
