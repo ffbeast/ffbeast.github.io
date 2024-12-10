@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flight controls software/firmware
+title: Flight controls
 parent: Downloads
 nav_order: 1
 ---
