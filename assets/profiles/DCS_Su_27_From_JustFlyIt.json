@@ -1,0 +1,202 @@
+{
+    "effects": {
+        "ailerons": {
+            "direct_x": {
+                "active": true,
+                "force": 0,
+                "periodic": 5,
+                "total_effect_strength": 100,
+                "trimmer": 100
+            },
+            "simple_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": -100,
+                        "out": -100
+                    },
+                    {
+                        "in": -80,
+                        "out": -80
+                    },
+                    {
+                        "in": -60,
+                        "out": -60
+                    },
+                    {
+                        "in": -40,
+                        "out": -40
+                    },
+                    {
+                        "in": -20,
+                        "out": -20
+                    },
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 20,
+                        "out": 20
+                    },
+                    {
+                        "in": 40,
+                        "out": 40
+                    },
+                    {
+                        "in": 60,
+                        "out": 60
+                    },
+                    {
+                        "in": 80,
+                        "out": 80
+                    },
+                    {
+                        "in": 100,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 100,
+                "total_effect_strength": 3
+            },
+            "smart_damper": {
+                "active": true,
+                "dynamic_dampening": 100,
+                "static_dampening": 35,
+                "total_effect_strength": 100
+            }
+        },
+        "elevator": {
+            "direct_x": {
+                "active": true,
+                "force": 0,
+                "periodic": 10,
+                "total_effect_strength": 100,
+                "trimmer": 100
+            },
+            "simple_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": -100,
+                        "out": -100
+                    },
+                    {
+                        "in": -80.98197937011719,
+                        "out": -84.35054779052734
+                    },
+                    {
+                        "in": -65.86786651611328,
+                        "out": -72.14396667480469
+                    },
+                    {
+                        "in": -47.75074768066406,
+                        "out": -56.4945182800293
+                    },
+                    {
+                        "in": -15.5,
+                        "out": -30
+                    },
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 15.5,
+                        "out": 30
+                    },
+                    {
+                        "in": 50.15315628051758,
+                        "out": 58.99843215942383
+                    },
+                    {
+                        "in": 67.969970703125,
+                        "out": 74.02190399169922
+                    },
+                    {
+                        "in": 81.28228759765625,
+                        "out": 84.03755950927734
+                    },
+                    {
+                        "in": 100,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 50,
+                "total_effect_strength": 5
+            },
+            "smart_damper": {
+                "active": true,
+                "dynamic_dampening": 60,
+                "static_dampening": 20,
+                "total_effect_strength": 100
+            }
+        },
+        "rudder": {
+            "simple_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": -100,
+                        "out": -100
+                    },
+                    {
+                        "in": -80,
+                        "out": -100
+                    },
+                    {
+                        "in": -50,
+                        "out": -100
+                    },
+                    {
+                        "in": -31.98198127746582,
+                        "out": -82.5
+                    },
+                    {
+                        "in": -1,
+                        "out": -15
+                    },
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 1,
+                        "out": 15
+                    },
+                    {
+                        "in": 32,
+                        "out": 82.5
+                    },
+                    {
+                        "in": 50,
+                        "out": 100
+                    },
+                    {
+                        "in": 80,
+                        "out": 100
+                    },
+                    {
+                        "in": 100,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 100,
+                "total_effect_strength": 14
+            },
+            "smart_damper": {
+                "active": true,
+                "dynamic_dampening": 100,
+                "static_dampening": 30,
+                "total_effect_strength": 100
+            }
+        },
+        "throttle_collective": {
+        }
+    },
+    "metadata": {
+        "comment": "From JustFlyIt",
+        "flight_data_source": 1,
+        "flight_module": "Su-27"
+    }
+}

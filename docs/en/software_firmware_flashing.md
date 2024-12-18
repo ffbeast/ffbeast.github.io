@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Firmware flashing
-parent: Software/Firmware
-nav_order: 1
+nav_order: 7
 ---
 
 - TOC

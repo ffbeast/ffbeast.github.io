@@ -8,13 +8,21 @@ nav_order: 2
 {: .important }
 > **You will receive purchased package via email, sent to the address provided during checkout.**
 
-{: .important }
->**Orders are fulfilled manually, so it could take up to 24 hours to get answer from me!**
-
+{: .warning}
+> **Important note!**
+>
+>- Starting from the date **01.01.2025** no replacement keys will be provided in case you burn your device!
+>- Consider properly secure all connections and wires **BEFORE** purchasing license and activating it. 
+>Starting from version **24.1.4** software have [**Hardware test mode**](ffbeast_setup_license.html#hardware-test-mode-flight-controls-only) which do not require entering serial key. Do all initial setup, 
+>test if everything works, perform experiments with connections when using this mode. Once all is setup and secure -
+>purchase and activate license. **In normal usage chance of burning ODrive is close to zero!**  
 
 # Flight Controls License
 
 You will get single serial key for provided device ID in order to activate firmware as any kind of flight controls device, either Joystick, Rudder or Collective.
+
+{: .important }
+> Check device [**Device ID**](ffbeast_setup_license.html) of your controller. You will need to provide it during checkout.
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">

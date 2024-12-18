@@ -29,7 +29,7 @@ from the encoder by combining the pulses from both channels (A and B).
 
 Relation: **CPR = 4 x PPR**
 
-{: .highlight-title }
+{: .highlight }
 > In the encoder datasheet, any of these values may be provided. Throughout the following text, 
 > CPR (Counts Per Rotation) will be used. Therefore, if you encounter
 > PPR (Pulses Per Revolution) in the datasheet for your encoder, simply multiply it by 4 to obtain the equivalent CPR.

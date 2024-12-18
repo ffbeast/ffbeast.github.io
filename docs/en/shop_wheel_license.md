@@ -10,8 +10,13 @@ redirect_from:
 {: .important }
 > **You will receive purchased package via email, sent to the address provided during checkout.**
 
-{: .important }
->**Orders are fulfilled manually, so it could take up to 24 hours to get answer from me!**
+{: .warning}
+> **Important note!**
+>
+>- Starting from the date **01.01.2025** no replacement keys will be provided in case you burn your device!
+>- Consider properly secure all connections and wires **BEFORE** purchasing license and activating it.
+> Do all initial setup, test if everything works, perform experiments with connections when using Light mode. Once all is setup and secure -
+> purchase and activate license. **In normal usage chance of burning ODrive is close to zero!**
  
 # Wheel Premium License
 
@@ -22,6 +27,9 @@ You will get single serial key for provided device ID in order to activate firmw
 
 - Possibility to change some extra non critical settings.
 - Possibility to connect additional buttons/axis directly to ODrive.
+
+{: .important }
+> Check device [**Device ID**](ffbeast_setup_license.html) of your controller. You will need to provide it during checkout.
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">

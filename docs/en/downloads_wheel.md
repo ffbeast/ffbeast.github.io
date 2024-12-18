@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Wheel apps
+title: Wheel
 parent: Downloads
-nav_order: 2
+nav_order: 3
 ---
 
 ## Latest version
@@ -12,7 +12,7 @@ nav_order: 2
   - Starting from this version wheel software/firmware ecosystem is separate from flight controls. No need to switch firmware into **Wheel** mode. After firmware flashing device will be immediately recognized as **FFB Wheel device**.
   - New **Integrated spring** is added. It emulates centering forces in games without FFB.
   - **Reset center** button added for wheel centering from UI.
-  - **Custom USB communication protocol** added for controlling device from additional software without usage of DirectX FFB protocol.
+  - [**Custom USB communication protocol**](wheel_programming.html) added for controlling device from additional software without usage of DirectX FFB protocol.
 
 ## Older versions
 

@@ -481,7 +481,7 @@ This approach can be used for buffer reports:
 - DATA_FIRMWARE_ACTIVATION_DATA
 
 ```c
-void sendUInt8SettingReport(DirectControlTypeDef control){
+void sendBufferReport(DirectControlTypeDef control){
     report->ReportId = REPORT_GENERIC_INPUT_OUTPUT;
     DataReportTypeDef *genericData = (DataReportTypeDef *) &report->Buffer;
     genericData->ReportData = DATA_OVERRIDE_DATA;

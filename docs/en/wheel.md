@@ -2,7 +2,7 @@
 layout: default
 title: FFBeast Wheel
 has_children: true
-nav_order: 4
+nav_order: 2
 ---
 
 This project is all about building **DIY Direct Drive FFB Wheel** based on **ODrive/ODESC** controller boards and **BLDC** motors.

@@ -3,23 +3,11 @@
     "version": 24719,
     "min_supported_fw": 240719,
     "whats_new": [
-      "Commander:Curve editor improvements.",
-      "Commander:AoA spring is now spring instead of constant force.",
-      "Commander:GForce spring is now spring instead of constant force.",
-      "Commander:Throttle/Collective device support.",
-      "FW:Throttle/Collective device mode.",
-      "FW:Initial support for VPC FLNKR and VPC Alpha Prime R grips.",
-      "FW:Hardware test mode for flight controls (No serial key required).",
-      "FW:Reset center GPIO mode added.",
-      "FW:Analog GPIO setup improvements.",
-      "FW:Soft stop dampening added."
     ]
   },
   "fw": {
     "version": 240719,
     "whats_new": [
-      "Throttle/Collective device mode",
-      "Initial support for VKB FLNKR and VPC Alpha Prime R grips"
     ]
   },
   "RC": {
@@ -44,6 +32,6 @@
     "release_type": "RC",
     "release_major": 24,
     "release_minor": 1,
-    "release_patch": 4
+    "release_patch": 5
   }
 }
