@@ -2,7 +2,7 @@
 layout: default
 title: Effect profiles
 parent: Downloads
-nav_order: 4
+nav_order: 2
 ---
 
 # DCS

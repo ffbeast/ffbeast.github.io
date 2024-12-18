@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Wheel apps
+title: Wheel
 parent: Downloads
-nav_order: 2
+nav_order: 3
 ---
 
 ## Latest version
