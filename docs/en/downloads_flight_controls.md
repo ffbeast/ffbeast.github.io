@@ -9,10 +9,10 @@ nav_order: 1
 
 ### Release candidate
 - [**RC.24.1.4.Full**](../../assets/firmware/ffbeast-flight-controls-RC.24.1.4.Full.zip) (Software + Firmware)
-  - Starting from this version wheel software/firmware ecosystem is separate from flight controls. No need to switch firmware into **Wheel** mode. After firmware flashing device will be immediately recognized as **FFB Wheel device**.
+  - Starting from this version flight controls software/firmware ecosystem is separate from wheel.
   - Firmware changes:
     - Hardware test mode added when activated without a license key.
-    - New **Integrated spring** is added. It emulates centering forces in games without FFB.
+    - New integrated spring effect is added. It emulates centering forces in games without FFB.
     - Support for VPC grips (FLNKR, Alpha, Alpha Prime, MongoosT, VXF).
     - Support for TIANHANG F18 grip.
   - Software changes:
