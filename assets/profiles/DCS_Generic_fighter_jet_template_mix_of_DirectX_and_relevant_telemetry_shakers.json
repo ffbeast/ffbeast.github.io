@@ -658,6 +658,105 @@
                     }
                 ]
             },
+            "landing_jolt": {
+                "active": true,
+                "base_frequency": 8,
+                "curve1": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 25,
+                        "out": 19
+                    },
+                    {
+                        "in": 50,
+                        "out": 36
+                    },
+                    {
+                        "in": 75,
+                        "out": 51
+                    },
+                    {
+                        "in": 100,
+                        "out": 64
+                    },
+                    {
+                        "in": 125,
+                        "out": 75
+                    },
+                    {
+                        "in": 150,
+                        "out": 84
+                    },
+                    {
+                        "in": 175,
+                        "out": 91
+                    },
+                    {
+                        "in": 200,
+                        "out": 96
+                    },
+                    {
+                        "in": 225,
+                        "out": 99
+                    },
+                    {
+                        "in": 250,
+                        "out": 100
+                    }
+                ],
+                "curve2": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 1,
+                        "out": 10
+                    },
+                    {
+                        "in": 2,
+                        "out": 20
+                    },
+                    {
+                        "in": 3,
+                        "out": 30
+                    },
+                    {
+                        "in": 4,
+                        "out": 40
+                    },
+                    {
+                        "in": 5,
+                        "out": 50
+                    },
+                    {
+                        "in": 6,
+                        "out": 60
+                    },
+                    {
+                        "in": 7,
+                        "out": 70
+                    },
+                    {
+                        "in": 8,
+                        "out": 80
+                    },
+                    {
+                        "in": 9,
+                        "out": 90
+                    },
+                    {
+                        "in": 10,
+                        "out": 100
+                    }
+                ],
+                "frequency_mode": 0,
+                "max_frequency": 16,
+                "total_effect_strength": 50
+            },
             "on_ground_shaker": {
                 "active": true,
                 "base_frequency": 3,
@@ -768,6 +867,12 @@
                 "dynamic_dampening": 50,
                 "static_dampening": 30,
                 "total_effect_strength": 100
+            },
+            "trim": {
+                "active": true,
+                "force_release_allowed": false,
+                "trim_buttons_allowed": true,
+                "trim_reset_allowed": false
             },
             "weapon_release_jolt": {
                 "active": true,
@@ -1240,6 +1345,57 @@
                 "max_frequency": 20,
                 "total_effect_strength": 5
             },
+            "g_force_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 1,
+                        "out": 10
+                    },
+                    {
+                        "in": 2,
+                        "out": 20
+                    },
+                    {
+                        "in": 3,
+                        "out": 30
+                    },
+                    {
+                        "in": 4,
+                        "out": 40
+                    },
+                    {
+                        "in": 5,
+                        "out": 50
+                    },
+                    {
+                        "in": 6,
+                        "out": 60
+                    },
+                    {
+                        "in": 7,
+                        "out": 70
+                    },
+                    {
+                        "in": 8,
+                        "out": 80
+                    },
+                    {
+                        "in": 9,
+                        "out": 90
+                    },
+                    {
+                        "in": 10,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 40,
+                "total_effect_strength": 4
+            },
             "gear_jolt": {
                 "active": true,
                 "base_frequency": 20,
@@ -1529,7 +1685,7 @@
                 ],
                 "frequency_mode": 0,
                 "max_frequency": 25,
-                "total_effect_strength": 1
+                "total_effect_strength": 50
             },
             "on_ground_shaker": {
                 "active": true,
@@ -1589,6 +1745,12 @@
                 "dynamic_dampening": 50,
                 "static_dampening": 30,
                 "total_effect_strength": 100
+            },
+            "trim": {
+                "active": true,
+                "force_release_allowed": false,
+                "trim_buttons_allowed": true,
+                "trim_reset_allowed": false
             },
             "weapon_release_jolt": {
                 "active": true,
@@ -1706,8 +1868,8 @@
         }
     },
     "metadata": {
-        "comment": "mix of DirectX and telemetry shakers",
+        "comment": "mix of DirectX and relevant telemetry shakers",
         "flight_data_source": 1,
-        "flight_module": "Generic jet template"
+        "flight_module": "Generic fighter jet template"
     }
 }
