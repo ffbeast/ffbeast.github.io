@@ -19,13 +19,13 @@ nav_order: 2
  </thead> 
  <tbody> 
   <tr> 
-    <td>
+    <td style="vertical-align: top">
         <a href="/assets/profiles/DCS_Generic_jet_template_mix_of_DirectX_and_telemetry_shakers.json"><strong>Generic Jet</strong></a>
     </td>
-    <td>
+    <td style="vertical-align: top">
         FFBeast
     </td>
-    <td>
+    <td style="vertical-align: top">
         Totally unrealistic but immersive profile with all shakers. 
         <br> You can use it to learn how effect works and as the template for other jet airplanes.
         <br> Effects for Roll and Pitch axes.
