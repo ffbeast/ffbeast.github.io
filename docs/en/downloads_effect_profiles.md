@@ -10,31 +10,16 @@ nav_order: 2
 
 ---
 
-## DCS
+# DCS
 
-### Generic
+## Generic
 
-<table> 
-<thead> 
-  <tr> 
-    <th>Profile Name</th> 
-    <th>Author</th> 
-    <th>Description</th>
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-    <td style="vertical-align: top">
-        <a href="/assets/profiles/DCS_Generic_jet_template_mix_of_DirectX_and_telemetry_shakers.json"><strong>Generic Jet</strong></a>
-    </td>
-    <td style="vertical-align: top">
-        FFBeast
-    </td>
-    <td style="vertical-align: top">
-        Totally unrealistic but immersive profile with all shakers. 
-        <br> You can use it to learn how effect works and as the template for other jet airplanes.
-        <br> Effects for Roll and Pitch axes.
-    </td>
-  </tr> 
- </tbody> 
-</table>
+### [Generic combat jet]("../../assets/profiles/DCS_Generic_jet_template_mix_of_DirectX_and_telemetry_shakers.json") (by FFBeast)
+**Supported axes**
+ - Roll
+ - Pitch
+
+**Description**
+- Totally unrealistic but immersive profile with all shakers and gunnery effects.
+- Use it to learn how effect works and as the template for other jet airplanes.
+
