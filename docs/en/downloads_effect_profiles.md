@@ -5,14 +5,19 @@ parent: Downloads
 nav_order: 2
 ---
 
-# DCS
+- TOC
+{:toc}
 
-## Generic
+---
+
+## DCS
+
+### Generic
 
 <table> 
 <thead> 
   <tr> 
-    <th>Name</th> 
+    <th>Profile Name</th> 
     <th>Author</th> 
     <th>Description</th>
   </tr> 
