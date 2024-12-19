@@ -9,7 +9,7 @@ nav_order: 1
 
 ### Release candidate
 - [**RC.24.1.4.Full**](../../assets/firmware/ffbeast-flight-controls-RC.24.1.4.Full.zip) (Software + Firmware)
-  - **Starting from this version flight controls software/firmware ecosystem is separate from wheel**.
+  - **Starting from this version flight controls software/firmware ecosystem is separate from wheel firmware/software. All further updates will be separate for both ecosystems.**
   - **Firmware changes:**
     - Hardware test mode added when activated without a license key.
     - New integrated spring effect is added. It emulates centering forces in games without FFB.
