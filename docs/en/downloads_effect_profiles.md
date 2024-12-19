@@ -10,6 +10,12 @@ nav_order: 2
 
 ---
 
+{: .warning }
+> ## Disclaimer
+> As each and every FFBEast base is unique because can be built with different components (motors, controllers) and
+> with different mechanical scheme, profiles created on one device can occasionally cause oscillations on another device. 
+> In that case some tuning of effects (usually spring forces and smart dampening) could be needed for your specific FFB base.    
+
 {: .important }
 > All profiles there are in JSON format, and often browser treat it as normal document and opens in a new page. Use **"
 > Right Click"** and **"Save As"** approach for downloading it.
