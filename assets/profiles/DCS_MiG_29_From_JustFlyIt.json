@@ -1,0 +1,304 @@
+{
+    "effects": {
+        "ailerons": {
+            "direct_x": {
+                "active": true,
+                "force": 0,
+                "periodic": 5,
+                "total_effect_strength": 100,
+                "trimmer": 100
+            },
+            "simple_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": -100,
+                        "out": -10
+                    },
+                    {
+                        "in": -76.73921203613281,
+                        "out": -7.949918270111084
+                    },
+                    {
+                        "in": -53.47843551635742,
+                        "out": -5.884195327758789
+                    },
+                    {
+                        "in": -31.149248123168945,
+                        "out": -4.0375590324401855
+                    },
+                    {
+                        "in": -1.5,
+                        "out": -1
+                    },
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 1.5,
+                        "out": 1
+                    },
+                    {
+                        "in": 26.422706604003906,
+                        "out": 3.41157865524292
+                    },
+                    {
+                        "in": 45.85931396484375,
+                        "out": 4.945228099822998
+                    },
+                    {
+                        "in": 63.48347854614258,
+                        "out": 6.447576522827148
+                    },
+                    {
+                        "in": 100,
+                        "out": 10
+                    }
+                ],
+                "dampening_contribution": 80,
+                "total_effect_strength": 12
+            },
+            "smart_damper": {
+                "active": true,
+                "dynamic_dampening": 100,
+                "static_dampening": 43,
+                "total_effect_strength": 100
+            }
+        },
+        "elevator": {
+            "airspeed_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 90.20978546142578,
+                        "out": 0
+                    },
+                    {
+                        "in": 201.39859008789062,
+                        "out": 0
+                    },
+                    {
+                        "in": 309.7901916503906,
+                        "out": 0
+                    },
+                    {
+                        "in": 400,
+                        "out": 0
+                    },
+                    {
+                        "in": 506.9930419921875,
+                        "out": 16.54929542541504
+                    },
+                    {
+                        "in": 604.19580078125,
+                        "out": 33.18309783935547
+                    },
+                    {
+                        "in": 700,
+                        "out": 49
+                    },
+                    {
+                        "in": 795.80419921875,
+                        "out": 64.156494140625
+                    },
+                    {
+                        "in": 893.0069580078125,
+                        "out": 80
+                    },
+                    {
+                        "in": 1000,
+                        "out": 80
+                    }
+                ],
+                "dampening_contribution": 0,
+                "total_effect_strength": 3
+            },
+            "aoa_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 3.1258742809295654,
+                        "out": 0
+                    },
+                    {
+                        "in": 5.748251914978027,
+                        "out": 0
+                    },
+                    {
+                        "in": 11,
+                        "out": 0
+                    },
+                    {
+                        "in": 14,
+                        "out": 0
+                    },
+                    {
+                        "in": 17,
+                        "out": 0
+                    },
+                    {
+                        "in": 18,
+                        "out": 0
+                    },
+                    {
+                        "in": 22.552446365356445,
+                        "out": 0
+                    },
+                    {
+                        "in": 25.00699234008789,
+                        "out": 0
+                    },
+                    {
+                        "in": 26.00699234008789,
+                        "out": 100
+                    },
+                    {
+                        "in": 30,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 12,
+                "total_effect_strength": 30
+            },
+            "direct_x": {
+                "active": true,
+                "force": 0,
+                "periodic": 20,
+                "total_effect_strength": 100,
+                "trimmer": 100
+            },
+            "simple_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": -100,
+                        "out": -14.5
+                    },
+                    {
+                        "in": -65.66973114013672,
+                        "out": -10.293270111083984
+                    },
+                    {
+                        "in": -45.49747085571289,
+                        "out": -7.66400671005249
+                    },
+                    {
+                        "in": -23.812803268432617,
+                        "out": -4.946166038513184
+                    },
+                    {
+                        "in": -2,
+                        "out": -1.7000000476837158
+                    },
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 2,
+                        "out": 1.7000000476837158
+                    },
+                    {
+                        "in": 31.097923278808594,
+                        "out": 2.906729221343994
+                    },
+                    {
+                        "in": 57.03263473510742,
+                        "out": 3.9195621013641357
+                    },
+                    {
+                        "in": 80.29673767089844,
+                        "out": 4.861032962799072
+                    },
+                    {
+                        "in": 100,
+                        "out": 5.599999904632568
+                    }
+                ],
+                "dampening_contribution": 75,
+                "total_effect_strength": 27
+            },
+            "smart_damper": {
+                "active": true,
+                "dynamic_dampening": 70,
+                "static_dampening": 35,
+                "total_effect_strength": 100
+            }
+        },
+        "rudder": {
+            "simple_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": -100,
+                        "out": -100
+                    },
+                    {
+                        "in": -61.081077575683594,
+                        "out": -83.75586700439453
+                    },
+                    {
+                        "in": -25,
+                        "out": -70
+                    },
+                    {
+                        "in": -23,
+                        "out": -30
+                    },
+                    {
+                        "in": -1.5,
+                        "out": -14.992176055908203
+                    },
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 1.5,
+                        "out": 15
+                    },
+                    {
+                        "in": 23,
+                        "out": 30
+                    },
+                    {
+                        "in": 25,
+                        "out": 70
+                    },
+                    {
+                        "in": 70.6906967163086,
+                        "out": 85.94679260253906
+                    },
+                    {
+                        "in": 100,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 100,
+                "total_effect_strength": 14
+            },
+            "smart_damper": {
+                "active": true,
+                "dynamic_dampening": 100,
+                "static_dampening": 40,
+                "total_effect_strength": 100
+            }
+        },
+        "throttle_collective": {
+        }
+    },
+    "metadata": {
+        "comment": "From JustFlyIt",
+        "flight_data_source": 1,
+        "flight_module": "MiG-29"
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "effects": {
+        "ailerons": {
+            "airspeed_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 100,
+                        "out": 1
+                    },
+                    {
+                        "in": 200,
+                        "out": 4
+                    },
+                    {
+                        "in": 300,
+                        "out": 9
+                    },
+                    {
+                        "in": 400,
+                        "out": 16
+                    },
+                    {
+                        "in": 500,
+                        "out": 25
+                    },
+                    {
+                        "in": 600,
+                        "out": 36
+                    },
+                    {
+                        "in": 700,
+                        "out": 49
+                    },
+                    {
+                        "in": 800,
+                        "out": 64
+                    },
+                    {
+                        "in": 900,
+                        "out": 81
+                    },
+                    {
+                        "in": 1000,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 50,
+                "total_effect_strength": 13
+            },
+            "direct_x": {
+                "active": true,
+                "force": 0,
+                "periodic": 10,
+                "total_effect_strength": 100,
+                "trimmer": 100
+            },
+            "smart_damper": {
+                "active": true,
+                "dynamic_dampening": 50,
+                "static_dampening": 20,
+                "total_effect_strength": 100
+            }
+        },
+        "elevator": {
+            "airspeed_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 100,
+                        "out": 1
+                    },
+                    {
+                        "in": 200,
+                        "out": 4
+                    },
+                    {
+                        "in": 300,
+                        "out": 9
+                    },
+                    {
+                        "in": 400,
+                        "out": 16
+                    },
+                    {
+                        "in": 500,
+                        "out": 25
+                    },
+                    {
+                        "in": 600,
+                        "out": 36
+                    },
+                    {
+                        "in": 700,
+                        "out": 49
+                    },
+                    {
+                        "in": 800,
+                        "out": 64
+                    },
+                    {
+                        "in": 900,
+                        "out": 81
+                    },
+                    {
+                        "in": 1000,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 50,
+                "total_effect_strength": 45
+            },
+            "direct_x": {
+                "active": true,
+                "force": 0,
+                "periodic": 5,
+                "total_effect_strength": 100,
+                "trimmer": 100
+            },
+            "elevator_weight": {
+                "active": true,
+                "total_effect_strength": 4
+            },
+            "generic_shaker": {
+                "active": true,
+                "base_frequency": 20,
+                "curve1": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 10,
+                        "out": 10
+                    },
+                    {
+                        "in": 20,
+                        "out": 20
+                    },
+                    {
+                        "in": 30,
+                        "out": 30
+                    },
+                    {
+                        "in": 40,
+                        "out": 40
+                    },
+                    {
+                        "in": 50,
+                        "out": 50
+                    },
+                    {
+                        "in": 60,
+                        "out": 60
+                    },
+                    {
+                        "in": 70,
+                        "out": 70
+                    },
+                    {
+                        "in": 80,
+                        "out": 80
+                    },
+                    {
+                        "in": 90,
+                        "out": 90
+                    },
+                    {
+                        "in": 100,
+                        "out": 100
+                    }
+                ],
+                "frequency_mode": 0,
+                "total_effect_strength": 0
+            },
+            "prop_thrust_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 10,
+                        "out": 10
+                    },
+                    {
+                        "in": 20,
+                        "out": 20
+                    },
+                    {
+                        "in": 30,
+                        "out": 30
+                    },
+                    {
+                        "in": 40,
+                        "out": 40
+                    },
+                    {
+                        "in": 50,
+                        "out": 50
+                    },
+                    {
+                        "in": 60,
+                        "out": 60
+                    },
+                    {
+                        "in": 70,
+                        "out": 70
+                    },
+                    {
+                        "in": 80,
+                        "out": 80
+                    },
+                    {
+                        "in": 90,
+                        "out": 90
+                    },
+                    {
+                        "in": 100,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 40,
+                "total_effect_strength": 4
+            },
+            "smart_damper": {
+                "active": true,
+                "dynamic_dampening": 50,
+                "static_dampening": 7,
+                "total_effect_strength": 100
+            }
+        },
+        "rudder": {
+            "airspeed_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 100,
+                        "out": 1
+                    },
+                    {
+                        "in": 200,
+                        "out": 4
+                    },
+                    {
+                        "in": 300,
+                        "out": 9
+                    },
+                    {
+                        "in": 400,
+                        "out": 16
+                    },
+                    {
+                        "in": 500,
+                        "out": 25
+                    },
+                    {
+                        "in": 600,
+                        "out": 36
+                    },
+                    {
+                        "in": 700,
+                        "out": 49
+                    },
+                    {
+                        "in": 800,
+                        "out": 64
+                    },
+                    {
+                        "in": 900,
+                        "out": 81
+                    },
+                    {
+                        "in": 1000,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 30,
+                "total_effect_strength": 70
+            },
+            "prop_thrust_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 10,
+                        "out": 10
+                    },
+                    {
+                        "in": 20,
+                        "out": 20
+                    },
+                    {
+                        "in": 30,
+                        "out": 30
+                    },
+                    {
+                        "in": 40,
+                        "out": 40
+                    },
+                    {
+                        "in": 50,
+                        "out": 50
+                    },
+                    {
+                        "in": 60,
+                        "out": 60
+                    },
+                    {
+                        "in": 70,
+                        "out": 70
+                    },
+                    {
+                        "in": 80,
+                        "out": 80
+                    },
+                    {
+                        "in": 90,
+                        "out": 90
+                    },
+                    {
+                        "in": 100,
+                        "out": 100
+                    }
+                ],
+                "dampening_contribution": 40,
+                "total_effect_strength": 4
+            },
+            "smart_damper": {
+                "active": true,
+                "dynamic_dampening": 50,
+                "static_dampening": 20,
+                "total_effect_strength": 100
+            }
+        },
+        "throttle_collective": {
+        }
+    },
+    "metadata": {
+        "comment": "From JustFlyIt",
+        "flight_data_source": 1,
+        "flight_module": "Spitfire"
+    }
+}
