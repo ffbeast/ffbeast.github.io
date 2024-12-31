@@ -92,7 +92,7 @@ templates to the most modules present in games.
 - [**F/A-18C**](../../assets/profiles/DCS_FA_18C_From_JustFlyIt.json) **(by** [**JustFlyIt**](https://www.youtube.com/@justflyit7569))
   - Stick + Rudder
   - From real pilot as close IRL as possible.
-  - No "vanilla" effects and shakers on the stick
+  - Some "vanilla" effects and shakers on the stick and rudder
 
 <!-- -->
 
@@ -112,8 +112,15 @@ templates to the most modules present in games.
 - [**MiG-29**](../../assets/profiles/DCS_MiG_29_From_JustFlyIt.json) **(by** [**JustFlyIt**](https://www.youtube.com/@justflyit7569))
   - Stick + Rudder
   - From real pilot as close IRL as possible.
-  - No "vanilla" effects and shakers on the stick
+  - Some "vanilla" effects and shakers on the stick and rudder
 
+## Mosquito
+
+- [**Mosquito**](../../assets/profiles/DCS_P_47D_From_JustFlyIt.json) **(by** [**JustFlyIt**](https://www.youtube.com/@justflyit7569))
+  - Stick + Rudder
+  - From real pilot as close IRL as possible.
+  - Some "vanilla" effects and shakers on the stick and rudder
+  
 ## P-47D
 
 - [**P-47D**](../../assets/profiles/DCS_P_47D_From_JustFlyIt.json) **(by** [**JustFlyIt**](https://www.youtube.com/@justflyit7569))
@@ -130,13 +137,13 @@ templates to the most modules present in games.
 
 <!-- -->
 
-- [**Spitfire**](../../assets/profiles/DCS_Spitfire_Based_on_JustFlyIt_profile_with_all_relevant_shakers.json) **(by FFBeast)**
+- [**Spitfire**](../../assets/profiles/DCS_Spitfire_From_FFBeast.json) **(by FFBeast)**
   - Stick + Rudder
-  - Based on profile from **JustFlyIt** with addition of relevant shakers for all axes
+  - With addition of relevant shakers for all axes
 
 ## Su-27
 
 - [**Su-27**](../../assets/profiles/DCS_Su_27_From_JustFlyIt.json) **(by** [**JustFlyIt**](https://www.youtube.com/@justflyit7569))
   - Stick + Rudder
   - From real pilot as close IRL as possible.
-  - No "vanilla" effects and shakers on the stick
+  - Some "vanilla" effects and shakers on the stick and rudder

@@ -762,12 +762,6 @@
                 "static_dampening": 20,
                 "total_effect_strength": 100
             },
-            "trim": {
-                "active": true,
-                "force_release_allowed": false,
-                "trim_buttons_allowed": false,
-                "trim_reset_allowed": false
-            },
             "weapon_release_jolt": {
                 "active": true,
                 "base_frequency": 19,
@@ -831,43 +825,43 @@
                     },
                     {
                         "in": 100,
-                        "out": 0.8999999761581421
+                        "out": 1
                     },
                     {
                         "in": 200,
-                        "out": 3.5999999046325684
+                        "out": 4
                     },
                     {
                         "in": 300,
-                        "out": 8.100000381469727
+                        "out": 9
                     },
                     {
                         "in": 400,
-                        "out": 14.399999618530273
+                        "out": 16
                     },
                     {
                         "in": 500,
-                        "out": 22.5
+                        "out": 25
                     },
                     {
                         "in": 600,
-                        "out": 32.400001525878906
+                        "out": 36
                     },
                     {
                         "in": 700,
-                        "out": 44.099998474121094
+                        "out": 49
                     },
                     {
                         "in": 800,
-                        "out": 57.599998474121094
+                        "out": 64
                     },
                     {
                         "in": 900,
-                        "out": 72.9000015258789
+                        "out": 81
                     },
                     {
                         "in": 1000,
-                        "out": 90
+                        "out": 100
                     }
                 ],
                 "dampening_contribution": 50,
@@ -1487,12 +1481,6 @@
                 "static_dampening": 20,
                 "total_effect_strength": 100
             },
-            "trim": {
-                "active": true,
-                "force_release_allowed": false,
-                "trim_buttons_allowed": false,
-                "trim_reset_allowed": false
-            },
             "weapon_release_jolt": {
                 "active": true,
                 "base_frequency": 10,
@@ -1609,8 +1597,8 @@
         }
     },
     "metadata": {
-        "comment": "mix of DirectX and relevant telemetry shakers",
-        "flight_data_source": 0,
-        "flight_module": "_ Prop airplane template _"
+        "comment": "From FFBeast",
+        "flight_data_source": 1,
+        "flight_module": "Spitfire"
     }
 }

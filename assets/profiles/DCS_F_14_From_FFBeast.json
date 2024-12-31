@@ -51,7 +51,7 @@
                     }
                 ],
                 "frequency_mode": 0,
-                "total_effect_strength": 5
+                "total_effect_strength": 3
             },
             "airbrake_shaker": {
                 "active": true,
@@ -766,7 +766,7 @@
             "smart_damper": {
                 "active": true,
                 "dynamic_dampening": 50,
-                "static_dampening": 30,
+                "static_dampening": 50,
                 "total_effect_strength": 100
             },
             "weapon_release_jolt": {
@@ -873,7 +873,7 @@
                     }
                 ],
                 "frequency_mode": 0,
-                "total_effect_strength": 5
+                "total_effect_strength": 3
             },
             "airbrake_shaker": {
                 "active": true,
@@ -1136,7 +1136,7 @@
             },
             "direct_x": {
                 "active": true,
-                "force": 20,
+                "force": 40,
                 "periodic": 0,
                 "total_effect_strength": 100,
                 "trimmer": 100
@@ -1239,57 +1239,6 @@
                 "frequency_mode": 0,
                 "max_frequency": 18,
                 "total_effect_strength": 4
-            },
-            "g_force_spring": {
-                "active": true,
-                "curve1": [
-                    {
-                        "in": 0,
-                        "out": 0
-                    },
-                    {
-                        "in": 1,
-                        "out": 0
-                    },
-                    {
-                        "in": 2,
-                        "out": 0
-                    },
-                    {
-                        "in": 3,
-                        "out": 1.2519562244415283
-                    },
-                    {
-                        "in": 4,
-                        "out": 2.9108002185821533
-                    },
-                    {
-                        "in": 5,
-                        "out": 6.025040626525879
-                    },
-                    {
-                        "in": 6,
-                        "out": 12.425664901733398
-                    },
-                    {
-                        "in": 7,
-                        "out": 23.83411979675293
-                    },
-                    {
-                        "in": 8,
-                        "out": 37.43349075317383
-                    },
-                    {
-                        "in": 9,
-                        "out": 59.64006042480469
-                    },
-                    {
-                        "in": 10,
-                        "out": 100
-                    }
-                ],
-                "dampening_contribution": 40,
-                "total_effect_strength": 10
             },
             "gear_jolt": {
                 "active": true,
@@ -1638,7 +1587,7 @@
             "smart_damper": {
                 "active": true,
                 "dynamic_dampening": 50,
-                "static_dampening": 30,
+                "static_dampening": 50,
                 "total_effect_strength": 100
             },
             "weapon_release_jolt": {

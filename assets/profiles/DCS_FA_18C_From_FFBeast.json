@@ -212,7 +212,7 @@
             },
             "direct_x": {
                 "active": true,
-                "force": 25,
+                "force": 50,
                 "periodic": 0,
                 "total_effect_strength": 100,
                 "trimmer": 100
@@ -712,6 +712,57 @@
                 "frequency_mode": 0,
                 "total_effect_strength": 25
             },
+            "simple_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": -100,
+                        "out": -2
+                    },
+                    {
+                        "in": -80.28985595703125,
+                        "out": -1.9929612874984741
+                    },
+                    {
+                        "in": -50,
+                        "out": -1.9950510263442993
+                    },
+                    {
+                        "in": -20,
+                        "out": -2
+                    },
+                    {
+                        "in": -10.507246017456055,
+                        "out": -1.9999117851257324
+                    },
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 10.507246017456055,
+                        "out": 1.965456485748291
+                    },
+                    {
+                        "in": 20.869565963745117,
+                        "out": 1.977461814880371
+                    },
+                    {
+                        "in": 50,
+                        "out": 1.9765889644622803
+                    },
+                    {
+                        "in": 79.71014404296875,
+                        "out": 1.9811941385269165
+                    },
+                    {
+                        "in": 100,
+                        "out": 2
+                    }
+                ],
+                "dampening_contribution": 0,
+                "total_effect_strength": 100
+            },
             "smart_damper": {
                 "active": true,
                 "dynamic_dampening": 50,
@@ -1034,7 +1085,7 @@
             },
             "direct_x": {
                 "active": true,
-                "force": 50,
+                "force": 100,
                 "periodic": 0,
                 "total_effect_strength": 100,
                 "trimmer": 100
@@ -1533,10 +1584,61 @@
                 "max_frequency": 18,
                 "total_effect_strength": 15
             },
+            "simple_spring": {
+                "active": true,
+                "curve1": [
+                    {
+                        "in": -100,
+                        "out": -5.081174373626709
+                    },
+                    {
+                        "in": -79.27313232421875,
+                        "out": -4.484201431274414
+                    },
+                    {
+                        "in": -55.47366714477539,
+                        "out": -3.7876338958740234
+                    },
+                    {
+                        "in": -32.430145263671875,
+                        "out": -3.152387857437134
+                    },
+                    {
+                        "in": -9.455218315124512,
+                        "out": -2.436995029449463
+                    },
+                    {
+                        "in": 0,
+                        "out": 0
+                    },
+                    {
+                        "in": 9.747017860412598,
+                        "out": 2.491225481033325
+                    },
+                    {
+                        "in": 34.60246658325195,
+                        "out": 3.1444287300109863
+                    },
+                    {
+                        "in": 56.11372756958008,
+                        "out": 3.7129015922546387
+                    },
+                    {
+                        "in": 77.91559600830078,
+                        "out": 4.3074259757995605
+                    },
+                    {
+                        "in": 100,
+                        "out": 5.03277587890625
+                    }
+                ],
+                "dampening_contribution": 0,
+                "total_effect_strength": 100
+            },
             "smart_damper": {
                 "active": true,
                 "dynamic_dampening": 50,
-                "static_dampening": 30,
+                "static_dampening": 50,
                 "total_effect_strength": 100
             },
             "weapon_release_jolt": {
