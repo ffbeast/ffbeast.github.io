@@ -377,7 +377,7 @@
                         "out": -2
                     },
                     {
-                        "in": -1.5,
+                        "in": -2.6594202518463135,
                         "out": -0.8999999761581421
                     },
                     {
@@ -385,7 +385,7 @@
                         "out": 0
                     },
                     {
-                        "in": 1.5,
+                        "in": 2.6594202518463135,
                         "out": 0.8999999761581421
                     },
                     {
@@ -410,7 +410,7 @@
             },
             "smart_damper": {
                 "active": true,
-                "dynamic_dampening": 100,
+                "dynamic_dampening": 50,
                 "static_dampening": 50,
                 "total_effect_strength": 100
             },
@@ -1089,16 +1089,16 @@
                         "out": -5.300000190734863
                     },
                     {
-                        "in": -1.5,
-                        "out": -1.399999976158142
+                        "in": -2.974926471710205,
+                        "out": -1.4525821208953857
                     },
                     {
                         "in": 0,
                         "out": 0
                     },
                     {
-                        "in": 1.5,
-                        "out": 1.399999976158142
+                        "in": 2.974926233291626,
+                        "out": 1.5
                     },
                     {
                         "in": 26,
@@ -1122,8 +1122,8 @@
             },
             "smart_damper": {
                 "active": true,
-                "dynamic_dampening": 100,
-                "static_dampening": 50,
+                "dynamic_dampening": 50,
+                "static_dampening": 100,
                 "total_effect_strength": 100
             },
             "weapon_release_jolt": {

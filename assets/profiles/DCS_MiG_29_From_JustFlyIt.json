@@ -278,7 +278,7 @@
                         "out": -2
                     },
                     {
-                        "in": -1.5,
+                        "in": -2.949275493621826,
                         "out": -1
                     },
                     {
@@ -286,7 +286,7 @@
                         "out": 0
                     },
                     {
-                        "in": 1.5,
+                        "in": 2.949275255203247,
                         "out": 1
                     },
                     {
@@ -312,7 +312,7 @@
             "smart_damper": {
                 "active": true,
                 "dynamic_dampening": 100,
-                "static_dampening": 50,
+                "static_dampening": 70,
                 "total_effect_strength": 100
             },
             "weapon_release_jolt": {
@@ -568,7 +568,7 @@
                         "out": 100
                     }
                 ],
-                "dampening_contribution": 0,
+                "dampening_contribution": 25,
                 "total_effect_strength": 5
             },
             "aoa_spring": {
@@ -1092,15 +1092,15 @@
                         "out": -4.300000190734863
                     },
                     {
-                        "in": -1.5,
-                        "out": -1.5
+                        "in": -3.2804155349731445,
+                        "out": -1.474647879600525
                     },
                     {
                         "in": 0,
                         "out": 0
                     },
                     {
-                        "in": 1.5,
+                        "in": 3.2804152965545654,
                         "out": 1.5
                     },
                     {
@@ -1126,7 +1126,7 @@
             "smart_damper": {
                 "active": true,
                 "dynamic_dampening": 100,
-                "static_dampening": 30,
+                "static_dampening": 75,
                 "total_effect_strength": 100
             },
             "weapon_release_jolt": {
