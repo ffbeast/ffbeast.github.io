@@ -759,7 +759,7 @@
             "smart_damper": {
                 "active": true,
                 "dynamic_dampening": 20,
-                "static_dampening": 20,
+                "static_dampening": 25,
                 "total_effect_strength": 100
             },
             "weapon_release_jolt": {
@@ -1478,7 +1478,7 @@
             "smart_damper": {
                 "active": true,
                 "dynamic_dampening": 20,
-                "static_dampening": 20,
+                "static_dampening": 50,
                 "total_effect_strength": 100
             },
             "weapon_release_jolt": {

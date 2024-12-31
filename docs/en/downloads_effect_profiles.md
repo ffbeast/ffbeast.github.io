@@ -107,6 +107,13 @@ templates to the most modules present in games.
   - From real pilot as close IRL as possible.
   - No "vanilla" effects and shakers on the stick
 
+## Mi-24
+
+- [**Mi-24**](../../assets/profiles/DCS_Mi_24_From_JustFlyIt.json) **(by** [**JustFlyIt**](https://www.youtube.com/@justflyit7569))
+  - Stick + Rudder
+  - From real pilot as close IRL as possible.
+  - With "vanilla" effects and shakers on the stick and rudders
+   
 ## MiG-29
 
 - [**MiG-29**](../../assets/profiles/DCS_MiG_29_From_JustFlyIt.json) **(by** [**JustFlyIt**](https://www.youtube.com/@justflyit7569))
@@ -126,7 +133,7 @@ templates to the most modules present in games.
 - [**P-47D**](../../assets/profiles/DCS_P_47D_From_JustFlyIt.json) **(by** [**JustFlyIt**](https://www.youtube.com/@justflyit7569))
   - Stick + Rudder
   - From real pilot as close IRL as possible.
-  - No "vanilla" effects and shakers on the stick
+  - With "vanilla" effects and shakers on the stick
 
 ## Spitfire
 
@@ -147,3 +154,10 @@ templates to the most modules present in games.
   - Stick + Rudder
   - From real pilot as close IRL as possible.
   - Some "vanilla" effects and shakers on the stick and rudder
+
+## UH-1
+
+- [**UH-1**](../../assets/profiles/DCS_UH_1_From_JustFlyIt.json) **(by** [**JustFlyIt**](https://www.youtube.com/@justflyit7569))
+  - Stick + Rudder
+  - From real pilot as close IRL as possible.
+  - With "vanilla" effects and shakers on the stick and rudders

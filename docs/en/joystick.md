@@ -63,7 +63,7 @@ It is the version for those who want to spend as low as possible to enter FFB wo
 Base prices for FFBeast base in bare metal look (not painted):
    - 20Nm version is **799 Euro + Shipping**.
    - 35Nm version is **899 Euro + Shipping**.
-   - 45Nm+ version available on special request. 
+   - 45Nm+ version is **949 Euro + Shipping**.. 
 
 Base bundle includes:
  - FFBeast base.
@@ -76,7 +76,7 @@ Base bundle includes:
 
 ### Extended bundle
 Depending on your needs basic bundle could be extended with different options(for additional price):
-- Powder coated enclosure (Black) for **59 Euro**.
+- Powder coated enclosure (Black) for **99 Euro**.
 - Adjustable stick extenders for **49 Euro**.
 - USB isolator.
 - Adaptation of physical dimensions and mounting accessories for your cockpit.
