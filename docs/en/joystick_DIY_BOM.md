@@ -100,7 +100,8 @@ This set is common for any variant of the build.
 | M4x10 (DIN 912 or ISO 7380)        | 44       |                                          |
 | M4 (DIN 557 or DIN 934)            | 44       | Could interchange each other             |
 | M3x8 (DIN 912 or ISO 7380)         | 8        |                                          |
-| M3 (DIN 934)                       | 8        |                                          |
+| M3x16                              | 14       |                                          |
+| M3 (DIN 934)                       | 26       |                                          |
 
 # Build specific parts
 
