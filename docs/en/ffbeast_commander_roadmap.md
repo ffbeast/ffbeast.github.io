@@ -7,9 +7,6 @@ nav_order: 8
 
 FFBeast is constantly in development and do not stop where it is now. Some of the future plans are covered here.
 
-## USB
-- Fixing enumeration order for DirectX input devices.
-  
 ## Hardware trim
 - Assignment of button on state change so it will not pick up buttons in constantly pressed state.
 - Possibility to use analog axis as trim source.
@@ -36,3 +33,4 @@ FFBeast is constantly in development and do not stop where it is now. Some of th
 ## Other
 - Dark mode for UI.
 - Allow only single instance of app running.
+- Fixing enumeration order for DirectX input devices. 
