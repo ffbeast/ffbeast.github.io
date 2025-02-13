@@ -1,0 +1,15 @@
+Enumerated Joystick : FFBeast(Wheel)
+Supported Effects : 
+   - GUID_ConstantForce
+   - GUID_RampForce
+   - GUID_Square
+   - GUID_Sine
+   - GUID_Triangle
+   - GUID_SawtoothUp
+   - GUID_SawtoothDown
+   - GUID_Spring
+   - GUID_Damper
+   - GUID_Inertia
+   - GUID_Friction
+
+Creating effects for FFBeast(Wheel)

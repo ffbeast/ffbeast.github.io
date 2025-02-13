@@ -5,15 +5,47 @@ parent: Downloads
 nav_order: 1
 ---
 
+
+
+{: .important }
+> Check up to date documentation for [**FFBeast Setup**](ffbeast_setup.html) and [**FFBeast Commander.**](ffbeast_commander.html)
+
+{: .important }
+> Check [**effect profiles page**](downloads_effect_profiles.html) for profiles compatible with current version.
+
+### Release candidate
+- [**RC.25.1.1.Full**](../../assets/firmware/ffbeast-flight-controls-RC.25.1.1.Full.zip) (Software + Firmware)
+  - Fix for Condor 2 periodic effects (stall, flutter, etc).
+  - Fix for il-2 periodic effects (stall, gunfire, etc).
+  - Fix of XPlane plugin (require setup update in Commander).
+  - Fix for Elevator Weight effect.
+  - SimConnect library updated to the latest version (for MSFS telemetry).
+
+{: .note-title }
+> **Update from previous version process**
+> - Flash new firmware on top of previous version **WITHOUT ERASING!** All hardware settings will remain unchanged.
+> - Backup **config.ini** file from ui folder in case you want to keep Commander settings unchanged.
+> - Unzip files from archive to previous version install folder **WITH OVERWRITING** of older files.
+> - Restore **config.ini** file from backup.
+> - Run RC.25.1.1 exe files to use new version. 
+
+### Release candidate
+- [**RC.24.1.5.Patch**](../../assets/firmware/ffbeast-flight-controls-RC.24.1.5.Patch.zip) (Software + Firmware)
+   - Improved curve editor with possibility to generate the most used curves.
+   - Improved logic of scaling effects for different devices (check "[**Max force available**](ffbeast_setup_effects.html#max-force-available-flight-controls-only)" page for details how it works now).
+   - Added [**Local AoA**](ffbeast_commander_effects.html#local-aoa) effect.
+   - Fix for SPI and GPIO not works in [**Hardware test mode**](ffbeast_setup_license.html#hardware-test-mode-flight-controls-only).
+   - Fix for DCS telemetry translating high AoA and G effects when on ground, triggering AoA and G shakers.
+
 {: .note-title }
 > **What is a Patch?**
 >
 > - **Patch** is the type of archive, which contains only files that need to be updated.
-> - **Patch** need to be put into the folder where most recent **Full** version is installed. 
+> - **Patch** need to be put into the folder where most recent **Full** version is installed.
 > - If you do not have **Full** version installed yet you need to download it and install.
-> - **Patch** always changes only the last number in the version. 
+> - **Patch** always changes only the last number in the version.
 > - You need to use **Patch** on top of **Full** version with matching first two numbers.
-> 
+>
 > {: .opaque }
 > <div markdown="block">
 > {: .highlight-title}
@@ -26,20 +58,6 @@ nav_order: 1
 > > - Update firmware to the version containing in **24.1.5.Patch** archive.
 > > - Use new version of **FFBeast Setup** and **FFBeast Commander** to interact with devices.
 > </div>
-
-{: .important }
-> Check up to date documentation for [**FFBeast Setup**](ffbeast_setup.html) and [**FFBeast Commander.**](ffbeast_commander.html)
-
-{: .important }
-> Check [**effect profiles page**](downloads_effect_profiles.html) for profiles compatible with current version.
-
-### Release candidate
-- [**RC.24.1.5.Patch**](../../assets/firmware/ffbeast-flight-controls-RC.24.1.5.Patch.zip) (Software + Firmware)
-   - Improved curve editor with possibility to generate the most used curves.
-   - Improved logic of scaling effects for different devices (check "[**Max force available**](ffbeast_setup_effects.html#max-force-available-flight-controls-only)" page for details how it works now).
-   - Added [**Local AoA**](ffbeast_commander_effects.html#local-aoa) effect.
-   - Fix for SPI and GPIO not works in [**Hardware test mode**](ffbeast_setup_license.html#hardware-test-mode-flight-controls-only).
-   - Fix for DCS telemetry translating high AoA and G effects when on ground, triggering AoA and G shakers.
 
 
 ### Release candidate
