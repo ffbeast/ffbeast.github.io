@@ -38,12 +38,6 @@
     "release_type": "RC",
     "release_major": 25,
     "release_minor": 1,
-    "release_patch": 1
-  },
-  "flight_controls_firmware": {
-    "firmware_type": "RC",
-    "firmware_major": 24,
-    "firmware_minor": 1,
-    "firmware_patch": 5
+    "release_patch": 2
   }
 }
