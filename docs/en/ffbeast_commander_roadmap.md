@@ -31,7 +31,7 @@ FFBeast is constantly in development and do not stop where it is now. Some of th
 - Prepar3d support.
 
 ## Other
-- Dark mode for UI.
+- **Dark** mode for UI.
 - Allow only single instance of app running.
 - Fixing enumeration order for DirectX input devices. 
 - Communication between devices to organize dual cockpit functionality

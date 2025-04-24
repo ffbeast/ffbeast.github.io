@@ -86,7 +86,7 @@ This set is common for any variant of the build.
 | M8 thin (ISO 4035)                 | 10       |                                          |
 | M8 (DIN 934)                       | 4        | Could interchange each other             |
 | M6x30 tube coupling nut (ART.9290) | 2        |                                          |
-| M6x20 tube coupling nut (ART.9290) | 3        |                                          |
+| M6x20 tube coupling nut (ART.9290) | 4        |                                          |
 | M6x30 (DIN 933)                    | 10       |                                          |
 | M6x16 (ISO 7380)                   | 8        | Could be other head type                 |
 | M6 thin (ISO 4035)                 | 10       |                                          |
