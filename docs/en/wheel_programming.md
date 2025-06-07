@@ -40,6 +40,7 @@ typedef enum SettingsFieldEnum {
     SETTINGS_FIELD_SOFT_STOP_RANGE = 7,
     SETTINGS_FIELD_STATIC_DAMPENING_STRENGTH = 8,
     SETTINGS_FIELD_SOFT_STOP_DAMPENING_STRENGTH = 9,
+    SETTINGS_FIELD_DYNAMIC_DAMPENING_STRENGTH = 10,
     SETTINGS_FIELD_FORCE_ENABLED = 11,
     SETTINGS_FIELD_DEBUG_TORQUE = 12,
     SETTINGS_FIELD_AMPLIFIER_GAIN = 13,
@@ -280,7 +281,8 @@ typedef struct __attribute__((packed)) {
     uint8_t DirectXSpringStrength; // 0 to 100 in %.
     uint8_t DirectXConstantStrength; // 0 to 100 in %.
     uint8_t DirectXPeriodicStrength; // 0 to 100 in %.
-    uint8_t _padding[50]; // TODO:IMPORTANT! Keep size 64b. Report size must be same size as in descriptor otherwise Windows will drop the packet as corrupted
+    uint16_t DynamicDampeningStrength; // 0 to 100 in %.
+    uint8_t _padding[48]; // TODO:IMPORTANT! Keep size 64b. Report size must be same size as in descriptor otherwise Windows will drop the packet as corrupted
 } EffectSettingsTypeDef;
 
 typedef struct __attribute__((packed)) {
