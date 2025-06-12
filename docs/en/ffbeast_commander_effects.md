@@ -317,3 +317,25 @@ Emulates changing of force on control surfaces when AoA changes. Works in combin
 > - Static dampening strength in FFBeast Commander is set to 75%
 > - Static dampening strength in FFBeast Setup is set to 50%
 > - Resulting effect strength will be equal to 75% * 50% -> 37.5%
+
+
+### Dynamic motion range
+
+The idea of having this effect is to compensate adaptive stick travel in MSFS and il-2. 
+Those games change stick travel range depending on speed. At smaller speed stick travels 1 to 1 with joystick. 
+But with speed increase stick travel is scaled down comparing with real joystick travel. It causes "dull" and "rubber" control feel at higher speed.
+Here are examples illustrating this effect.
+
+- il-2
+  <img src="../../assets/images/manual/il2_300kmh.jpg">
+  <img src="../../assets/images/manual/il2_570kmh.jpg">
+
+
+- MSFS
+  <img src="../../assets/images/manual/msfs_120mph.jpg">
+  <img src="../../assets/images/manual/msfs_320mph.jpg">
+
+With introduction of **Dynamic motion range** effect we can compensate scaling of the input to some extent by introducing dynamic joystick motion range 
+The solution have limitation: as we can not output more than 100% to joystick axis we can not force full range of motion for control in game on higher speed. 
+But it is possible at least to make control 1 to 1 following joystick position inside the range allowed by game. 
+Proper scale curve significantly improves control feel and responsiveness of planes. **So this effect is a must for games like MSFS and il-2!**     
