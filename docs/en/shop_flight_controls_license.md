@@ -11,7 +11,7 @@ nav_order: 2
 {: .warning}
 > **Important note!**
 >
->- Starting from the date **01.01.2025** no replacement keys will be provided in case you burn your device!
+>- Starting from the date **01.01.2025** no replacement keys or refund will be provided in case you burn your device!
 >- Consider properly secure all connections and wires **BEFORE** purchasing license and activating it. 
 >Starting from version **24.1.4** software have [**Hardware test mode**](ffbeast_setup_license.html#hardware-test-mode-flight-controls-only) which do not require entering serial key. Do all initial setup, 
 >test if everything works, perform experiments with connections when using this mode. Once all is setup and secure -
