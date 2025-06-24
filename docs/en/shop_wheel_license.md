@@ -18,7 +18,7 @@ redirect_from:
 > Do all initial setup, test if everything works, perform experiments with connections when using Light mode. Once all is setup and secure -
 > purchase and activate license. **In normal usage chance of burning ODrive is close to zero!**
  
-# Wheel Premium License
+# Wheel Premium License (or personal use only. <a href="mailto:ffbeast.devices@gmail.com"><b>Contact me</b></a> for commercial license)
 
 You can say your "thanks" there by buying premium license for DIY FFB Wheel firmware.
 It will let me know, that my work is important, and motivate me for further development!

@@ -17,7 +17,7 @@ nav_order: 2
 >test if everything works, perform experiments with connections when using this mode. Once all is setup and secure -
 >purchase and activate license. **In normal usage chance of burning ODrive is close to zero!**  
 
-# Flight Controls License
+# Flight Controls License (For personal use only. <a href="mailto:ffbeast.devices@gmail.com"><b>Contact me</b></a> for commercial license)
 
 You will get single serial key for provided device ID in order to activate firmware as any kind of flight controls device, either Joystick, Rudder or Collective.
 

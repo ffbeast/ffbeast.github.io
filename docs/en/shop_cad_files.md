@@ -16,7 +16,7 @@ nav_order: 3
 | Full device assembly           | STEP   | NO            | YES         | 
 
 
-# DIY bundle
+# DIY bundle (or personal use only. <a href="mailto:ffbeast.devices@gmail.com"><b>Contact me</b></a> for commercial license)
 
 Set of DXF files ready for metal cutting. You will get all needed drawings of all metal cuts to build FFBeast Flight Controls Base.
 
@@ -30,7 +30,7 @@ publishable-key="pk_live_51N3FsMAUMJA5adUcbQwaE8tIDLRbB2bW94T4SqdYEUYhwdWbFbXKoH
 >
 </stripe-buy-button>
 
-# CAD bundle
+# CAD bundle (or personal use only. <a href="mailto:ffbeast.devices@gmail.com"><b>Contact me</b></a> for commercial license)
 
 Full project assembly for those who wants to make changes to the project in order to adapt for specific needs.
 
