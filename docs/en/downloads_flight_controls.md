@@ -12,6 +12,26 @@ nav_order: 1
 > Check [**effect profiles page**](downloads_effect_profiles.html) for profiles compatible with current version.
 
 ### Release candidate
+- [**RC.25.1.3.Full**](../../assets/firmware/ffbeast-flight-controls-RC.25.1.3.Full.zip) (Software + Firmware)
+  - MOZA grip support.
+  - VPC UH-60 grip support.
+  - VPC VFX analog axes fix.
+  - DCS periodic effects fix
+  - MSFS telemetry fix for missing flaps, gear, afterburner and spoilers data.
+  - Fix commander stutter when MSFS telemetry selected
+  - il-2 module recognition
+  - il-2 gunfire effect in telemetry
+  - Warthunder flight module recognition
+  - Warthunder periodic effect fixes (overspeed, overG, stall. Commander need to be running with Warthunder telemetry selected).
+  - Fix main rotor frequency multiplier was not saving
+  - New dynamic motion range effect added (check [**effect documentation**](ffbeast_commander_effects.html#dynamic-motion-range))
+  - Analog axis hardware trim support
+  - Assigning trim buttons on button state change instead of just on pressed state. Will not catch constantly pressed buttons automatically any more.
+  - Hardware trim smoothing
+  - Hardware trim profiles
+  - Automatic dead zones calibration of analog axes connected to ODrive.
+  
+### Release candidate
 - [**RC.25.1.2.Patch**](../../assets/firmware/ffbeast-flight-controls-RC.25.1.2.Patch.zip) (Software + Firmware)
   - Fix DCS DirectX constantly pulling to the side.
   - Fix for VPC Alpha analog axes.
