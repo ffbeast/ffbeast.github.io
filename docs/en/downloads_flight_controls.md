@@ -25,6 +25,7 @@ nav_order: 1
   - Warthunder periodic effect fixes (overspeed, overG, stall. Commander need to be running with Warthunder telemetry selected).
   - Fix main rotor frequency multiplier was not saving
   - New dynamic motion range effect added (check [**effect documentation**](ffbeast_commander_effects.html#dynamic-motion-range))
+  - Matching flight modules by part of the name
   - Analog axis hardware trim support
   - Assigning trim buttons on button state change instead of just on pressed state. Will not catch constantly pressed buttons automatically any more.
   - Hardware trim smoothing
