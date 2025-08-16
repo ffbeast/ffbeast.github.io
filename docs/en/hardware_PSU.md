@@ -31,7 +31,7 @@ Candidates:
 
 [<img src="../../assets/images/dell240W.jpg" width="360">](../../assets/images/dell240W.jpg)
 
-[<img src="../../assets/images/GST360A15.jpg" width="360">](../../assets/images/GST360A15.jpg)
+[<img src="../../assets/images/GTS36015.jpg" width="360">](../../assets/images/GTS36015.jpg)
 
 **Pros:**
 - aesy to use
