@@ -34,7 +34,7 @@ Candidates:
 [<img src="../../assets/images/GTS36015.jpg" width="360">](../../assets/images/GTS36015.jpg)
 
 **Pros:**
-- aesy to use
+- easy to use
 - plastic enclosure
 - no open terminals
 - silent
