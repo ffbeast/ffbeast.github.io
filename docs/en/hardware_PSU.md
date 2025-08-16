@@ -54,6 +54,12 @@ Candidates:
 - modular
 - powerful LED PSU
 
+[<img src="../../assets/images/modular_200w.jpg" width="360">](../../assets/images/modular_200w.jpg)
+
+[<img src="../../assets/images/modular_200w1.jpg" width="360">](../../assets/images/modular_200w1.jpg)
+
+[<img src="../../assets/images/atx_psu.jpg" width="360">](../../assets/images/atx_psu.jpg)
+
 **Pros:**
 - you can get them in any power needed
 
