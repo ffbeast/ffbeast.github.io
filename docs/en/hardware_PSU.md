@@ -79,8 +79,7 @@ Here is a video illustrating the principle:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WVK1tkCYy9U?si=z5hPbAxnW74FXhOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Specially for this case I've developed small PCB, which allows to connect two Dell laptop PSU in parallel. 
-The project is open and available for all!
+Specially for this case I've developed small PCB (open for all), which allows to parallel two Dell laptop PSU. 
 
 [<img src="https://image.easyeda.com/pullimage/1IABTSYuqxotfj1UcyqbyELUlFLvsR92TRZPrAva.jpeg" width="360">](https://oshwlab.com/ffbeast.devices/parallel-psu)
 
