@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Hardware setup
+title: Quick start
 parent: Flight Controls
-nav_order: 7
+nav_order: 8
 ---
 
 - TOC
@@ -100,8 +100,11 @@ At the moment list of games supporting native FFB is not big:
 
 - DCS
 - Condor 2
-- il-2 Shturmovik (with nuances. there is a bug in implementation and Commander need to be run in background)
-- Warthunder (with nuances. there is a bug in implementation and Commander need to be run in background)
+- il-2 Shturmovik (with nuances). there is a bug in implementation and Commander need to be run in background)
+- Warthunder (with nuances). there is a bug in implementation and Commander need to be run in background)
+
+**Nuances**. some games have bugs in implementation of FFB. Those bugs are compensated in FFBeast but Commander need to be 
+running in background to determine which game is running and make correct bug compensations.
 
 ### DCS
 
@@ -161,13 +164,17 @@ Usually ports closer to 30000 are fre so pick random number around it.
 WIP
 
 ### MSFS
+WIP
 
 ### X-Plane
+WIP
 
 ### Warthunder
 WIP
 
 ### Condor
+WIP
 
 ## Profiles
-Some effect profiles are available in download section. You can use them as is or modify to your likings by editing active effects. 
+Some effect profiles are available in [**download section**](downloads_effect_profiles.html).
+You can use them as is or modify to your likings by [**editing active effects**](ffbeast_commander_effects.html). 
