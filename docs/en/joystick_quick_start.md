@@ -145,8 +145,8 @@ You can check [**full documentation**](ffbeast_commander.html) later. For now yo
 - Commander need to be running. To start using it just run _**ffbeast-commander.exe**_
 - Telemetry need to be setup for game (if any setup needed).
 - Game need to be running and translating telemetry.
-- Proper telemetry mode need to be selected in telemetry tab.
-- Some effects need to be present in the list of active effects.
+- Proper telemetry mode need to be selected in [**telemetry section**](ffbeast_commander_telemetry.html).
+- Some effects need to be present in the list of [**active effects**](ffbeast_commander_effects.html#active-effects-list).
 
 ### DCS
 In Commander navigate to "**Game Config > DCS**" tab.
