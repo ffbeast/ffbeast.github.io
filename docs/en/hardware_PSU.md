@@ -40,7 +40,7 @@ Candidates:
 - silent
 
 **Cons:**
-- only enough for medium forces ([**unless is not used in parallel**](hardware_PSU.html#pairing_psu_for_more_power) )
+- only enough for medium forces ([**unless is not used in parallel**](hardware_PSU.html#pairing-psu-for-more-power) )
 
 ### Absolute maximum
 

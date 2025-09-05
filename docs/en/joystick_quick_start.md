@@ -33,7 +33,7 @@ All devices come with cables:
 - USB
 - 50cm cable XT60 to open ends for connecting modular PSU
 - 25cs cable XT60 to XT60
-- adapter for connecting [**two PSU in parallel**](hardware_PSU.html#pairing_psu_for_more_power)
+- adapter for connecting [**two PSU in parallel**](hardware_PSU.html#pairing-psu-for-more-power)
 
 [<img src="../../assets/images/manual/cords.jpg" width="360">](../../assets/images/manual/cords.jpg)
 
