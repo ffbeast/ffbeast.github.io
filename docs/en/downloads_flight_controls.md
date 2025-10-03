@@ -23,6 +23,7 @@ nav_order: 1
   - Local AoA effect for rudder (At the moment Warthunder and MSFS only)
   - Prop thrust spring depends on speed.
   - Possibility to turn of all effects on joystick button press (assignable)
+  - il-2 small fix. Now works without need to run commander.
   
 ### Release candidate
 - [**RC.25.1.3.Full**](../../assets/firmware/ffbeast-flight-controls-RC.25.1.3.Full.zip) (Software + Firmware)
