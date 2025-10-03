@@ -16,6 +16,15 @@ nav_order: 1
 [//]: # (<iframe width="560" height="315" src="https://www.youtube.com/embed/tf08TGMFgdo?si=JhXzllNthwEHj5nG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
 ### Release candidate
+- [**RC.25.1.4.Full**](../../assets/firmware/ffbeast-flight-controls-RC.25.1.4.Full.zip) (Software + Firmware)
+  - Enable analog axes when VPC UH-60 grip selected.
+  - Enable analog axes when TIANHANG grip selected.
+  - VPC WarBRD grip support.
+  - Local AoA effect for rudder (At the moment Warthunder and MSFS only)
+  - Prop thrust spring depends on speed.
+  - Possibility to turn of all effects on joystick button press (assignable)
+  
+### Release candidate
 - [**RC.25.1.3.Full**](../../assets/firmware/ffbeast-flight-controls-RC.25.1.3.Full.zip) (Software + Firmware)
   - MOZA grip support.
   - VPC UH-60 grip support.
