@@ -51,13 +51,6 @@ Matching happens by combination of game and part of module name. If two profiles
 > - **DCS** is running and detects **F-14A** module.
 > - Profile will be matched and selected automatically(part of the name matches in profile name to running module).
 
-{: .highlight-title }
-> **Example 3**
-> - **Enable automatic profile activation** checkbox is checked.
-> - List contains profile **F-14** with telemetry data source **DCS** selected.
-> - **DCS** is running and detects **F-14** module.
-> - Profile will be matched and selected automatically.
-
 
 ## Creating new profiles
 
