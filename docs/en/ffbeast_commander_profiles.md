@@ -29,7 +29,7 @@ When unchecked, last selected profile will be active no mater which module is de
 ## Naming and auto detection
 
 FFBeast Commander tries to find the profile associated with module detected by telemetry each time such detection occurs.
-Matching happens by combination of game and module name. If two profiles are present for given combination, first in the list is auto selected.
+Matching happens by combination of game and part of module name. If two profiles are present for given combination, first in the list is auto selected.
 
 {: .important}
 > Module matching logic is still in WIP state and subject to change in next versions.
@@ -47,9 +47,9 @@ Matching happens by combination of game and module name. If two profiles are pre
 {: .highlight-title }
 > **Example 2**
 > - **Enable automatic profile activation** checkbox is checked.
-> - List contains profile **F-14A** with telemetry data source **DCS** selected.
-> - **DCS** is running and detects **F-14** module.
-> - Profile will not be matched and not selected automatically(name does not match).
+> - List contains profile **F-14** with telemetry data source **DCS** selected.
+> - **DCS** is running and detects **F-14A** module.
+> - Profile will be matched and selected automatically(part of the name matches in profile name to running module).
 
 {: .highlight-title }
 > **Example 3**
