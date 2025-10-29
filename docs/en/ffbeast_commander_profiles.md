@@ -34,8 +34,8 @@ Matching happens by combination of game and part of module name. If two profiles
 {: .important}
 > Module matching logic is still in WIP state and subject to change in next versions.
 >
-> - **In 24.1.5 matching happens by EXACT name!** 
-> - Check that name of module reported by telemetry is the same as put in **Select on telemetry data source detected** field. 
+> - **In 24.1.5 matching happens by PART of name!** 
+> - Check that name of module reported by telemetry contains a part of name in **Select on telemetry data source detected** field. 
 
 {: .highlight-title }
 > **Example 1**
