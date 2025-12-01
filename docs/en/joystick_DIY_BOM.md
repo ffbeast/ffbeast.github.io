@@ -51,7 +51,7 @@ This set is common for any variant of the build.
 | gimbal_frame_core                     | 4        | steel - 4mm |                                       |
 | gimbal_core_screw_aligner             | 3        | steel - 3mm |                                       |
 | gimbal_frame_side                     | 4        | steel - 4mm |                                       |
-| round_bearing_block                   | 4        | steel - 2mm | alu will be ok as well                |
+| round_bearing_block                   | 4        | steel - 3mm | alu will be ok as well                |
 
 ## 3D prints
 
