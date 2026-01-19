@@ -9,3 +9,4 @@ nav_order: 4
 - [**JoystickTest**](../../assets/firmware/JoystickTest.exe)
 - [**VkbJoyTester**](../../assets/firmware/VKB_JoyTester.exe)
 - [**ForceTest**](../../assets/firmware/ForceTest.exe)
+- [**Deview**](../../assets/firmware/usbdeview.zip)
