@@ -13,7 +13,7 @@ nav_order: 1
 <img src="../../assets/images/thrustmaster_on_extender.jpg" width="360">
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/xtge1SGVlzA?si=RDobarisOLbw1zWy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-# Intro to FFBeast! ([Discord](https://discord.gg/Gt6rnvrZKu))
+# Intro to FFBeast! ([Discord](https://discord.gg/5ZKD46zQSU))
 
 In developing this project, my goal was to create a device that bridges the gap between the world of simulation and reality,
 both in terms of a wide variety of supported effects and the ability to emulate forces as closely as real pilots

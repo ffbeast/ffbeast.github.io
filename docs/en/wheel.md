@@ -11,7 +11,7 @@ By carefully selecting parts with the help of this site, you can build the most 
 yet significantly more powerful (**up to 15Nm** with a good motor) than entry-level branded DD alternatives.
 
 To begin, explore all pages for a wealth of existing information.
-If you find your questions unanswered, feel free to ask them in  [**Discord**](https://discord.gg/Gt6rnvrZKu)!
+If you find your questions unanswered, feel free to ask them in  [**Discord**](https://discord.gg/5ZKD46zQSU)!
 
 ### Some example builds made by community members:
 

@@ -14,7 +14,7 @@ nav_order: 1
 > **THIS PAGE COVERS THE VARIANT OF ASSEMBLY SHOWN ON THE PICTURES BELOW!** 
 >
 >It is only **ONE OF MANY** possible ways how to build DD base. 
-If you find this variant too expensive or complicated, feel free to visit the [**FFBeast Discord**](https://discord.gg/Gt6rnvrZKu) for inspiration. 
+If you find this variant too expensive or complicated, feel free to visit the [**FFBeast Discord**](https://discord.gg/5ZKD46zQSU) for inspiration. 
 There, you will find discussions on multiple other technical solutions for each step, 
 possibly discovering alternatives that are easier to implement.
 

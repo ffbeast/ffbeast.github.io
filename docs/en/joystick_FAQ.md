@@ -30,5 +30,5 @@ At the moment I'm able to ship EU/US. I'm investigating possibilities and prices
 Rudder pedals are in development. More details will be there as development progress!
 
 ## Still have a question?
-Join [**FFBeast Discord**](https://discord.gg/Gt6rnvrZKu) to ask any questions about the project, become part of the community and to get the latest news.  
+Join [**FFBeast Discord**](https://discord.gg/5ZKD46zQSU) to ask any questions about the project, become part of the community and to get the latest news.  
 
