@@ -48,47 +48,14 @@ for flight simmers.
 
 # Want one?
 
-There are several options:
+## Buy it!
+In case you want to have ready made device you can purchase it at our [**FFBeast Official Store**](https://ffbeast-devices.com/).
+No preorder, no waiting! Just plan your purchase and do it when you are ready.
 
-## Build it! 
+## Or build it! 
 It is possible to [**build device yourself**](joystick_DIY.html). 
 Construction does not require use of special tooling and can be done by anyone. 
 You just need some time and passion to do it :)
-
-## Or buy it!
-In case you want to have ready made device I can build FFBeast base for you.   
-
-### Basic version bundle
-It is the version for those who want to spend as low as possible to enter FFB world.  
-Base prices for FFBeast base in bare metal look (not painted):
-   - 20Nm version is **799 Euro + Shipping**.
-   - 35Nm version is **899 Euro + Shipping**.
-   - 45Nm+ version is **949 Euro + Shipping**.. 
-
-Base bundle includes:
- - FFBeast base.
- - Single adapter of choice (either Thrustmaster style connector or adapter to VKB extender).
- - USB cable.
- - Adapter to connect 2 standard laptop PSU in parallel to achieve required Amp rating. . 
-
-{: .important }
->No PSU will be present in this bundle so you could use any PSU 12V-24V possible to deliver 13A and more.   
-
-### Extended bundle
-Depending on your needs basic bundle could be extended with different options(for additional price):
-- Powder coated enclosure (Black) for **99 Euro**.
-- Adjustable stick extenders for **49 Euro**.
-- USB isolator.
-- Adaptation of physical dimensions and mounting accessories for your cockpit.
-- Anything not mentioned in the list :)
-
-## Ready to preorder?
-
-{: .warning }
->By [**filling the form**](https://forms.gle/nyH7mn7TG4byqH4g7) you will be signed up to the "Waitlist", and I will contact you with provided email as soon as your preorder will be ready to go to production.
-> 
-> **No payment required. You will get final invoice for payment when device will be ready for shipping!**
-
 
 
 
