@@ -52,10 +52,21 @@ for flight simmers.
 In case you want to have ready made device you can purchase it at our [**FFBeast Official Store**](https://ffbeast-devices.com/).
 No preorder, no waiting! Just plan your purchase and do it when you are ready.
 
-## Or build it! 
-It is possible to [**build device yourself**](joystick_DIY.html). 
+## Build it! 
+FFBeast proposes cosystem for force feedback enthusiasts and builders, so t is possible to [**build device yourself**](joystick_DIY.html). 
 Construction does not require use of special tooling and can be done by anyone. 
 You just need some time and passion to do it :)
+
+## Or delegate building to third party vendor
+If devices are not in stock at official store, you do not want to build them yourself - you can chose other vendor to build a device for you.
+
+{: .important }
+>If you are eager to build devices for other - build your trust and you will be in the list!
+
+### GVL224
+For a long time building FFBeast comapatible devices. He has both joystick, rudders, throttles and collectives. Visit [**his page**](https://gvl224.com/) for details 
+
+
 
 
 
