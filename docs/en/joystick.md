@@ -64,7 +64,7 @@ If devices are not in stock at official store, you do not want to build them you
 >If you are eager to build devices for other - build your trust and you will be in the list!
 
 ### GVL224
-For a long time building FFBeast comapatible devices. He has both joystick, rudders, throttles and collectives. Visit [**his page**](https://gvl224.com/) for details 
+For a long time building FFBeast comapatible devices. He has both joystick, rudders, throttles and collectives in his collection. Visit [**his page**](https://gvl224.com/) for details 
 
 
 
