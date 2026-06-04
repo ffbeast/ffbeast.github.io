@@ -1,17 +1,19 @@
 ---
 layout: default
 parent: Flight Controls
-title: DIY BOM
-nav_order: 4
+title: DIY BOM V5
+nav_order: 5
 ---
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
 {: .important }
-> **01.06.2025 BOM was updated to V5 revision of FFBeast flight controls base!**
+> **01.06.2025 BOM was updated to V5 revision of FFBeast flight controls base! For V4 check [**corresponding page**](joystick_DIY_BOM_V4.html)**
+
+<iframe src="https://gmail6450064.autodesk360.com/shares/public/SH90d2dQT28d5b60281115159c9679dc316d?mode=embed" width="720" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Electronics
 
