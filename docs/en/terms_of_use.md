@@ -9,7 +9,7 @@ nav_order: 20
 
    - Light version of firmware is allowed to use on any number of devices.
    - Payed version of firmware is bound to serial number of microcontroller and can be used on single microcontroller with matching serial numbe. Each microcontroller requires separate license. License is not transferable to another device with another microcontroler serial number.
-   - There is no restriction on building and selling devices with FFBeast firmware as soon as conditions above are satisfied.
+   - There is no restriction on building and selling devices with FFBeast firmware as long as conditions above are satisfied.
 
 ## Compatibility and Software Changes
 
