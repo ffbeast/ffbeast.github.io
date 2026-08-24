@@ -8,7 +8,8 @@ nav_order: 20
 ## License Usage
 
    - Light version of firmware is allowed to use on any number of devices.
-   - Payed version of firmware is bound to serial number of microcontroller and can be used on single microceontroler instance. Each microcontroller requires separate license. License is not transferable to another device with another microcontroler serial number.
+   - Payed version of firmware is bound to serial number of microcontroller and can be used on single microcontroller with matching serial numbe. Each microcontroller requires separate license. License is not transferable to another device with another microcontroler serial number.
+   - There is no restriction on building and selling devices with FFBeast firmware as soon as conditions above are satisfied
 
 ## Compatibility and Software Changes
 
@@ -17,7 +18,7 @@ nav_order: 20
 
 ## Intellectual Property
 
-   FFBeast software is protected by copyright. Any unauthorized reproduction, distribution, or modification is prohibited.
+   FFBeast software is protected by copyright. Any unauthorized reproduction, and modification is prohibited.
    Game names, logos, and trademarks shown on the website or in the software are used for illustrative purposes only.
    No affiliation, endorsement, or official partnership with the respective publishers is claimed.
 
