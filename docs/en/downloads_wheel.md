@@ -28,6 +28,11 @@ nav_order: 3
 > </div>
 
 ### Release candidate
+- [**RC.26.1.1.Full**](../../assets/firmware/ffbeast-wheel-RC.26.1.1.Full.zip) (Software + Firmware)
+  - Fix for saving motion range over 1080 in pro version
+  - More reliable settings saving (could fix a problem with saving on some devices)
+
+### Release candidate
 - [**RC.24.1.5.Patch**](../../assets/firmware/ffbeast-wheel-RC.24.1.5.Patch.zip) (Software + Firmware)
   - Dynamic dampening settings returned to PRO version.
   - Communication library and code example added for easier understanding and use of  [**custom USB communication protocol**](wheel_programming.html). Check **_ffbeast-wheel-api-example-app_** folder in archive.

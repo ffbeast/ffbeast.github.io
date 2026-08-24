@@ -24,15 +24,15 @@
   },
   "wheel": {
     "release_type": "RC",
-    "release_major": 24,
+    "release_major": 26,
     "release_minor": 1,
-    "release_patch": 5
+    "release_patch": 1
   },
   "wheel_firmware": {
     "release_type": "RC",
-    "release_major": 24,
+    "release_major": 26,
     "release_minor": 1,
-    "release_patch": 5
+    "release_patch": 1
   },
   "flight_controls": {
     "release_type": "RC",
