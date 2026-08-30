@@ -5,11 +5,16 @@ has_children: false
 nav_order: 20
 ---
 
-## License Usage
+## License for DIY and home use
 
+   - Versions of product represented on this site are intended for hobby use only (DIY and home use) 
    - Light version of firmware is allowed to use on any number of devices.
    - Payed version of firmware is bound to serial number of microcontroller and can be used on single microcontroller with matching serial numbe. Each microcontroller requires separate license. License is not transferable to another device with another microcontroler serial number.
-   - There is no restriction on building and selling devices with FFBeast firmware as long as conditions above are satisfied.
+   - There is no restriction on building and reselling devices with FFBeast firmware fo home use, as long as conditions above are satisfied.
+
+## License for commercial use
+
+   - Any type of non hobby use (DIY or home use) require commercial license. Please, [**contact us**](mailto:ffbeast.devices@gmail.com) for discussing individual details. 
 
 ## Compatibility and Software Changes
 
