@@ -27,8 +27,9 @@ You will get single serial key for provided device ID in order to activate firmw
 {: .important }
 > Check device [**Device ID**](ffbeast_setup_license.html) of your controller. You will need to provide it during checkout.
 
+{: .important }
 > Please, check [**terms of use**](terms_of_use.html) befor purchasing.
-> 
+ 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
