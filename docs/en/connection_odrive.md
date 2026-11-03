@@ -17,7 +17,7 @@ Schematic is identical. Exact location of specific pins vary depending on the ac
 ## Warning!
 
 {: .warning }
-> **NEWER, EVER, TRUST WIRE COLOR CODING!**
+> **NEVER, EVER, TRUST WIRE COLOR CODING!**
 > 
 > Check name of the pin or wire coming from encoder and **ALWAYS** connect by the name, not by the color of the wire. 
 > There is no standard wiring color coding and each manufacturer can change the color of the wire without any notice.
